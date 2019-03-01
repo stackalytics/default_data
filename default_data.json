@@ -1422,13 +1422,13 @@
             "emails": ["afaranha@lsd.ufcg.edu.br", "andre.f.aranha@gmail.com"]
         },
         {
-             "launchpad_id": "agalkin",
-             "companies": [
-                 {
-                     "company_name": "Mirantis",
-                     "end_date": null
-                 }
-             ],
+            "launchpad_id": "agalkin",
+            "companies": [
+                {
+                    "company_name": "Mirantis",
+                    "end_date": null
+                }
+            ],
             "user_name": "Alexey Galkin",
             "emails": ["agalkin@mirantis.com"]
         },
@@ -1448,33 +1448,33 @@
             "emails": ["agarwalnisha1980@gmail.com"]
         },
         {
-           "launchpad_id": "ahmed-nooras-saba",
-           "companies": [
-               {
-                   "company_name": "*independent",
-                   "end_date": "2012-Jan-31"
-               },
-               {
-                   "company_name": "VMTurbo Inc.",
-                   "end_date": null
-               }
-           ],
-           "user_name": "Saba",
-           "emails": [
-               "ahmed.saba@vmturbo.com",
-               "ahmed.nooras.saba@gmail.com"
-           ]
+            "launchpad_id": "ahmed-nooras-saba",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": "2012-Jan-31"
+                },
+                {
+                    "company_name": "VMTurbo Inc.",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Saba",
+            "emails": [
+                "ahmed.saba@vmturbo.com",
+                "ahmed.nooras.saba@gmail.com"
+            ]
         },
         {
-           "launchpad_id": "ahsanmohsin04",
-           "companies": [
-               {
-                   "company_name": "Intel",
-                   "end_date": null
-               }
-           ],
-           "user_name": "Syed Ahsan Shamim Zaidi",
-           "emails": ["ahsanmohsin04@yahoo.com", "tvj515@my.utsa.edu", "ahsanmx518@gmail.com", "syed.ahsan.shamim.zaidi@intel.com"]
+            "launchpad_id": "ahsanmohsin04",
+            "companies": [
+                {
+                    "company_name": "Intel",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Syed Ahsan Shamim Zaidi",
+            "emails": ["ahsanmohsin04@yahoo.com", "tvj515@my.utsa.edu", "ahsanmx518@gmail.com", "syed.ahsan.shamim.zaidi@intel.com"]
         },
         {
             "launchpad_id": "aignatov",
@@ -37393,6 +37393,11 @@
                 "testing@kubeflow", "crd-validation@kubeflow", "mxnet-operator@kubeflow", "batch-predict@kubeflow",
                 "chainer-operator@kubeflow", "mpi-operator@kubeflow", "example-seldon@kubeflow"
             ]
+        },
+        {
+            "module_group_name": "cncf-group",
+            "modules": ["kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess", "coredns", "linkerd", "helm", "cni", "envoy",
+                "jaeger", "notary", "tuf"]
         }
     ],
     "releases": [
@@ -37639,9 +37644,100 @@
             "modules": ["openstack-others", "unknown"]
         },
         {
-            "id": "complementary",
-            "title": "Complementary",
-            "modules": ["ansible-group", "ceph", "docker-group", "fdio-group", "istio-group", "knative-group", "kubeflow-group", "kubernetes-main-group", "kubernetes-sigs-group", "kubernetes-incubator-group", "kubernetes-client-group", "kubernetes-csi-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs", "pypa-group", "spinnaker"]
+            "id": "cncf-group",
+            "title": "CNCF",
+            "modules": ["kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess", "coredns", "linkerd", "helm", "cni", "envoy",
+                "jaeger", "notary", "tuf"]
+        },
+        {
+            "id": "kubernetes",
+            "title": "Kubernetes",
+            "child": true,
+            "modules": ["kubernetes"]
+        },
+        {
+            "id": "prometheus",
+            "title": "Prometheus",
+            "child": true,
+            "modules": ["prometheus"]
+        },
+        {
+            "id": "fluentd",
+            "title": "Fluentd",
+            "child": true,
+            "modules": ["fluentd"]
+        },
+        {
+            "id": "grpc",
+            "title": "GRPC",
+            "child": true,
+            "modules": ["grpc"]
+        },
+        {
+            "id": "rkt",
+            "title": "rkt",
+            "child": true,
+            "modules": ["rkt"]
+        },
+        {
+            "id": "vitess",
+            "title": "Vitess",
+            "child": true,
+            "modules": ["vitess"]
+        },
+        {
+            "id": "coredns",
+            "title": "coredns",
+            "child": true,
+            "modules": ["coredns"]
+        },
+        {
+            "id": "linkerd",
+            "title": "linkerd",
+            "child": true,
+            "modules": ["linkerd"]
+        },
+        {
+            "id": "helm",
+            "title": "helm",
+            "child": true,
+            "modules": ["helm"]
+        },
+        {
+            "id": "cni",
+            "title": "cni",
+            "child": true,
+            "modules": ["cni"]
+        },
+        {
+            "id": "envoy",
+            "title": "envoy",
+            "child": true,
+            "modules": ["envoy"]
+        },
+        {
+            "id": "jaeger",
+            "title": "jaeger",
+            "child": true,
+            "modules": ["jaeger"]
+        },
+        {
+            "id": "notary",
+            "title": "notary",
+            "child": true,
+            "modules": ["notary"]
+        },
+        {
+            "id": "tuf",
+            "title": "tuf",
+            "child": true,
+            "modules": ["tuf"]
+        },
+        {
+            "id": "unaffiliated",
+            "title": "Other Projects",
+            "modules": ["ansible-group", "ceph", "concourse", "docker-group", "fdio-group", "istio-group", "knative-group",
+                "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs", "pypa-group", "spinnaker", "kubernetes-group"]
         },
         {
             "id": "ansible-group",
