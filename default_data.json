@@ -37667,11 +37667,6 @@
             "uri": "github://"
         },
         {
-            "organization": "kubernetes",
-            "module_group_id": "kubernetes-main-group",
-            "uri": "github://"
-        },
-        {
             "organization": "kubernetes-sigs",
             "module_group_id": "kubernetes-sigs-group",
             "uri": "github://"
@@ -38323,9 +38318,9 @@
         },
         {
             "id": "kubernetes-group",
-            "title": "Kubernetes",
+            "title": "Kubernetes-other",
             "child": true,
-            "modules": ["kubernetes-main-group", "kubernetes-sigs-group", "kubernetes-incubator-group", "kubernetes-client-group", "kubernetes-csi-group"]
+            "modules": ["kubernetes-sigs-group", "kubernetes-incubator-group", "kubernetes-client-group", "kubernetes-csi-group"]
         },
         {
             "id": "istio-group",
