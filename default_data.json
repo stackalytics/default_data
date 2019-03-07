@@ -38314,7 +38314,7 @@
             "id": "unaffiliated",
             "title": "Other Projects",
             "modules": ["ansible-group", "ceph", "concourse", "docker-group", "fdio-group", "istio-group", "knative-group",
-                "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs", "pypa-group", "spinnaker", "kubernetes-sigs-group", "kubernetes-incubator-group", "kubernetes-client-group", "kubernetes-csi-group"]
+                "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs", "pypa-group", "spinnaker", "kubernetes-group"]
         },
         {
             "id": "ansible-group",
@@ -38345,6 +38345,12 @@
             "title": "Docker",
             "child": true,
             "modules": ["docker-group"]
+        },
+        {
+            "id": "kubernetes-group",
+            "title": "Kubernetes Related",
+            "child": true,
+            "modules": ["kubernetes-sigs-group", "kubernetes-incubator-group", "kubernetes-client-group", "kubernetes-csi-group"]
         },
         {
             "id": "istio-group",
