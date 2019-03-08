@@ -38313,7 +38313,7 @@
         {
             "id": "unaffiliated",
             "title": "Other Projects",
-            "modules": ["ansible-group", "ceph", "concourse", "docker-group", "fdio-group", "istio-group", "knative-group",
+            "modules": ["ansible-group", "ceph-group", "concourse-group", "docker-group", "fdio-group", "istio-group", "knative-group",
                 "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs", "pypa-group", "spinnaker", "kubernetes-group"]
         },
         {
@@ -38326,7 +38326,7 @@
             "id": "ceph-group",
             "title": "Ceph",
             "child": true,
-            "modules": ["ceph"]
+            "modules": ["ceph", "ceph-ansible"]
         },
         {
             "id": "concourse-group",
