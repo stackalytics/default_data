@@ -36661,6 +36661,26 @@
             "uri": "https://github.com/kubernetes-sigs/kubespray.git"
         },
         {
+            "module": "kind",
+            "organization": "kubernetes-sigs",
+            "uri": "https://github.com/kubernetes-sigs/kind.git"
+        },
+        {
+            "module": "kubeadm",
+            "organization": "kubernetes-other",
+            "uri": "https://github.com/kubernetes/kubeadm.git"
+        },
+        {
+            "module": "minikube",
+            "organization": "kubernetes-other",
+            "uri": "https://github.com/kubernetes/minikube.git"
+        },
+        {
+            "module": "kops",
+            "organization": "kubernetes-other",
+            "uri": "https://github.com/kubernetes/kops.git"
+        },
+        {
             "module": "virtual-kubelet",
             "organization": "virtual-kubelet",
             "uri": "https://github.com/virtual-kubelet/virtual-kubelet.git"
@@ -37926,6 +37946,10 @@
                 "compose", "docker-py", "libnetwork", "containerd", "cli@docker"]
         },
         {
+            "module_group_name": "kubernetes-installers",
+            "modules": ["kubeadm", "kubespray", "kind", "minikube", "kops"]
+        },
+        {
             "module_group_name": "ansible-group",
             "modules": ["ansible", "ansible-modules-core", "ansible-modules-extras"]
         },
@@ -38224,7 +38248,7 @@
             "id": "cncf-group",
             "title": "CNCF",
             "modules": ["kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess", "coredns", "linkerd", "helm", "cni", "envoy",
-                "jaeger", "notary", "tuf"]
+                "jaeger", "notary", "tuf", "kubernetes-installers"]
         },
         {
             "id": "kubernetes",
