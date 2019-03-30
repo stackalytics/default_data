@@ -37714,6 +37714,11 @@
             "organization": "spinnaker",
             "module_group_id": "spinnaker-group",
             "uri": "github://"
+        },
+        {
+            "organization": "opendaylight",
+            "module_group_id": "opendaylight",
+            "uri": "github://"
         }
     ],
     "module_groups": [
@@ -38338,7 +38343,7 @@
             "id": "unaffiliated",
             "title": "Other Projects",
             "modules": ["ansible-group", "ceph-group", "concourse-group", "docker-group", "fdio-group", "istio-group", "knative-group",
-                "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs", "pypa-group", "spinnaker", "kubernetes-group"]
+                "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs", "pypa-group", "spinnaker", "opendaylight", "kubernetes-group"]
         },
         {
             "id": "ansible-group",
@@ -38435,6 +38440,12 @@
             "title": "Spinnaker",
             "child": true,
             "modules": ["spinnaker-group"]
+        },
+        {
+            "id": "opendaylight",
+            "title": "opendaylight",
+            "child": true,
+            "modules": ["opendaylight"]
         }
     ]
 }
