@@ -38443,7 +38443,7 @@
         },
         {
             "id": "opendaylight",
-            "title": "opendaylight",
+            "title": "OpenDaylight",
             "child": true,
             "modules": ["opendaylight"]
         }
