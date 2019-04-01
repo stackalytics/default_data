@@ -38262,6 +38262,12 @@
             "modules": ["kubernetes"]
         },
         {
+            "id": "kubernetes-installers",
+            "title": "Kubernetes Installers",
+            "child": true,
+            "modules": ["kubernetes-installers"]
+        },
+        {
             "id": "prometheus",
             "title": "Prometheus",
             "child": true,
