@@ -37589,6 +37589,11 @@
             "module": "leveraging-containers-openstack",
             "uri": "https://github.com/OpenStackweb/openstack-org.git",
             "organization": "openstack"
+        },
+        {
+            "module": "opendaylight",
+            "uri": "https://git.opendaylight.org/gerrit/controller",
+            "organization": "opendaylight"
         }
     ],
     "project_sources": [
@@ -37713,11 +37718,6 @@
         {
             "organization": "spinnaker",
             "module_group_id": "spinnaker-group",
-            "uri": "github://"
-        },
-        {
-            "organization": "opendaylight",
-            "module_group_id": "opendaylight",
             "uri": "github://"
         }
     ],
