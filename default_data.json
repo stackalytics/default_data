@@ -1957,6 +1957,18 @@
             "emails": ["alex.pecoraro@emc.com"]
         },
         {
+            "launchpad_id": "alexanderhughes",
+            "github_id": "alexanderhughes",
+            "companies": [
+                {
+                    "company_name": "Accenture",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Alexander Hughes",
+            "emails": ["alexander.hughes@pm.me", "ah8742@att.com"]
+        },
+        {
             "launchpad_id": "alexandra-settle",
             "companies": [
                 {
@@ -2788,11 +2800,15 @@
                 },
                 {
                     "company_name": "Mirantis",
+                    "end_date": "2017-Nov-06"
+                },
+                {
+                    "company_name": "AT&T",
                     "end_date": null
                 }
             ],
-            "user_name": "Andrei V. Ostapenko",
-            "emails": ["aostapenko@mirantis.com", "andrey_ostapenko@symantec.com"]
+            "user_name": "Andrii Ostapenko",
+            "emails": ["aostapenko@mirantis.com", "andrey_ostapenko@symantec.com", "ao129q@att.com"]
         },
         {
             "github_id": "aoxn",
@@ -5882,8 +5898,8 @@
                     "end_date": null
                 }
             ],
-            "user_name": "zhaodongyin",
-            "emails": ["zhaodongyin@beyondcent.com"]
+            "user_name": "cqy0532",
+            "emails": ["zhaodongyin@beyondcent.com", "2109453383@qq.com"]
         },
         {
             "github_id": "cr-hui",
@@ -5895,6 +5911,21 @@
             ],
             "user_name":  "CR_hui",
             "emails": ["cr_hui@126.com", "caoronghui@hnu.edu.cn"]
+        },
+        {
+            "launchpad_id": "craig-anderson",
+            "companies": [
+                {
+                    "company_name": "Mirantis",
+                    "end_date": "2017-Aug-10"
+                },
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Craig Anderson",
+            "emails": ["craig.cigar.anderson@gmail.com", "craig.anderson@att.com", "ca846m@att.com"]
         },
         {
             "launchpad_id": "craig-bryant",
@@ -6343,6 +6374,17 @@
             ],
             "user_name": "Dan Prince",
             "emails": ["dprince@redhat.com", "dan.prince@rackspace.com"]
+        },
+        {
+            "launchpad_id": "dancrank",
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dan Crank",
+            "emails": ["dan.no@att.com", "dc6350@att.com", "dc6350@us.att.com", "dan.crank@att.com"]
         },
         {
             "launchpad_id": "dane-fichter",
@@ -8078,6 +8120,17 @@
             "emails": ["duhongwei@qiniu.com", "du@njut.edu.cn"]
         },
         {
+            "launchpad_id": "duongmn",
+            "companies": [
+                {
+                    "company_name": "Viettel",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Mai Ngoc Duong",
+            "emails": ["duongmn89@gmail.com", "duongmn@viettel.com.vn"]
+        },
+        {
             "launchpad_id": "dustin",
             "companies": [
                 {
@@ -8087,6 +8140,18 @@
             ],
             "user_name": "Dustin J. Mitchell",
             "emails": ["dustin@v.igoro.us", "dustin@mozilla.com"]
+        },
+        {
+            "github_id": "dustinspecker",
+            "launchpad_id": "dustinspecker",
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dustin Specker",
+            "emails": ["dustin.specker@att.com", "ds7900@att.com"]
         },
         {
             "launchpad_id": "dweimer",
@@ -10340,11 +10405,15 @@
                 },
                 {
                     "company_name": "QIYI",
+                    "end_date": "2018-Jul-30"
+                },
+                {
+                    "company_name": "BoCloud",
                     "end_date": null
                 }
             ],
             "user_name": "guanzy2016",
-            "emails": ["guanzuoyu@qiyi.com", "guanzuoyudev@gmail.com"]
+            "emails": ["guanzuoyudev@gmail.com"]
         },
         {
             "launchpad_id": "guduru-sirisha",
@@ -13192,6 +13261,17 @@
             "emails": ["liuxiaoyang@fiberhome.com"]
         },
         {
+            "launchpad_id": "jessegler",
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jess Egler",
+            "emails": ["je808k@att.com", "jessica.egler@att.com", "jess.egler@gmail.com"]
+        },
+        {
             "launchpad_id": "jesseproudman",
             "github_id": "blueboxjesse",
             "companies": [
@@ -13922,6 +14002,10 @@
                 },
                 {
                     "company_name": "Rackspace",
+                    "end_date": "2019-Feb-28"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -16100,6 +16184,18 @@
             "emails": ["letterj@racklabs.com", "letterj@gmail.com"]
         },
         {
+            "launchpad_id": "levmorgan",
+            "github_id": "levmorgan",
+            "companies": [
+                {
+                    "company_name": "Accenture",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Lev Morgan",
+            "emails": ["lm734y@att.com", "morgan.lev@gmail.com"]
+        },
+        {
             "launchpad_id": "lhinds",
             "companies": [
                 {
@@ -17780,6 +17876,16 @@
             ],
             "user_name": "Marcus V R Nascimento",
             "emails": ["marcusvrn@gmail.com", "marcus.nascimento@fit-tecnologia.org.br"]
+        },
+        {   "launchpad_id": "mardim",
+            "companies": [
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dimitrios Markou",
+            "emails": ["dimitrios.markou@att.com", "dm844v@att.com"]
         },
         {
             "launchpad_id": "marek-celoud",
@@ -21503,6 +21609,17 @@
             "emails": ["pradeepkumar.v@cognizant.com"]
         },
         {
+            "launchpad_id": "pradip.kadam001",
+            "companies": [
+               {
+                   "company_name": "Dell EMC",
+                   "end_date": null
+               }
+           ],
+           "user_name": "Pradip Kadam",
+           "emails": ["pradip.kadam001@gmail.com", "pradip.kadam@calsoftinc.com", "pradip_k@dellteam.com"]
+        },
+        {
             "launchpad_id": "pramchan-5",
             "companies": [
                 {
@@ -22928,6 +23045,21 @@
             "emails": ["rmevans88@gmail.com"]
         },
         {
+            "launchpad_id": "rmm0811",
+            "companies": [
+                {
+                    "company_name": "IBM",
+                    "end_date": "2016-Nov-12"
+                },
+                {
+                     "company_name": "China Unicom",
+                     "end_date": null
+                }
+            ],
+            "user_name": "Minmin Ren",
+            "emails": ["rmm0811@gmail.com", "renmm6@chinaunicom.cn", "rminmin@cn.ibm.com"]
+        },
+        {
             "launchpad_id": "rmoore08",
             "companies": [
                 {
@@ -23127,11 +23259,15 @@
                 },
                 {
                     "company_name": "NetApp",
+                    "end_date": "2019-Mar-08"
+                },
+                {
+                    "company_name": "Canonical",
                     "end_date": null
                 }
             ],
             "user_name": "Rodrigo Barbieri",
-            "emails": ["rodrigo.barbieri2010@gmail.com", "rodrigo.barbieri@fit-tecnologia.org.br", "rodrigob@netapp.com"]
+            "emails": ["rodrigo.barbieri2010@gmail.com", "rodrigo.barbieri@canonical.com"]
         },
         {
             "launchpad_id": "rodrigodsousa",
@@ -23644,6 +23780,21 @@
             ],
             "user_name": "Rusty Lynch",
             "emails": ["rusty.lynch@intel.com"]
+        },
+        {
+            "launchpad_id": "rustyrobot",
+            "companies": [
+                {
+                    "company_name": "Mirantis",
+                    "end_date": "2016-Oct-27"
+                },
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Evgeny L",
+            "emails": ["eli@mirantis.com", "el247k@att.com"]
         },
         {
             "launchpad_id": "rvasilets",
@@ -24449,11 +24600,15 @@
             "companies": [
                 {
                     "company_name": "Rackspace",
+                    "end_date": "2013-Jan-01"
+                },
+                {
+                    "company_name": "AT&T",
                     "end_date": null
                 }
             ],
             "user_name": "Sean McCully",
-            "emails": ["sean.mccully@rackspace.com"]
+            "emails": ["sean.mccully@rackspace.com","sm028h@att.com","sean_mccully@yahoo.com"]
         },
         {
             "launchpad_id": "sean-mcginnis",
@@ -24495,6 +24650,21 @@
             ],
             "user_name": "Sean Perry",
             "emails": ["sean.perry@hp.com", "sean.perry@hpe.com"]
+        },
+        {
+            "launchpad_id": "seaneagan",
+            "github_id": "seaneagan",
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Sean Eagan",
+            "emails": [
+                "sean.eagan@att.com",
+                "se136c@att.com"
+            ]
         },
         {
             "launchpad_id": "seif",
@@ -28188,6 +28358,22 @@
             "emails": ["vefimova@mirantis.com"]
         },
         {
+            "launchpad_id": "vegasq",
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": "2019-Jan-08"
+                },
+                {
+                    "company_name": "Mirantis",
+                    "end_date": null
+                }
+
+            ],
+            "user_name": "Mykola Yakovliev",
+            "emails": ["vegasq@gmail.com", "myakovliev@mirantis.com", "my5878@att.com"]
+        },
+        {
             "launchpad_id": "velizarx",
             "github_id": "velp",
             "companies": [
@@ -29562,11 +29748,15 @@
             "companies": [
                 {
                     "company_name": "HFBank",
+                    "end_date": "2018-Jun-30"
+                },
+                {
+                    "company_name": "China Telecom",
                     "end_date": null
                 }
             ],
             "user_name": "Yang Zhang",
-            "emails": ["wosunoozzy@gmail.com", "wosunoo@qq.com", "zhangyang9@hfbank.com.cn"]
+            "emails": ["wosunoozzy@gmail.com", "wosunoo@qq.com", "zhangyang9@hfbank.com.cn", "zhangyang1@chinatelecom.cn"]
         },
         {
             "launchpad_id": "wrongfan",
@@ -30776,6 +30966,17 @@
             ],
             "user_name": "JackieYuan",
             "emails": ["jing.yuan@easystack.cn", "yj2311@126.com"]
+        },
+        {
+            "launchpad_id": "ymlong",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "ymlong",
+            "emails": ["yuemian@beyondcent.com", "18261193206@163.com"]
         },
         {
             "launchpad_id": "ynshenoy",
@@ -36347,16 +36548,6 @@
             "organization": "openstack"
         },
         {
-            "module": "api-wg",
-            "uri": "git://git.openstack.org/openstack/api-wg.git",
-            "organization": "openstack"
-        },
-        {
-            "module": "openstack-user-stories",
-            "uri": "git://git.openstack.org/openstack/openstack-user-stories.git",
-            "organization": "openstack"
-        },
-        {
             "module": "vmware-nsx",
             "uri": "git://git.openstack.org/openstack/vmware-nsx.git",
             "organization": "openstack",
@@ -36561,6 +36752,16 @@
             "uri": "https://github.com/knative/build-templates.git"
         },
         {
+            "module": "pipeline@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/pipeline.git"
+        },
+        {
+            "module": "website@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/website.git"
+        },
+        {
             "module": "kubeflow",
             "organization": "kubeflow",
             "uri": "https://github.com/kubeflow/kubeflow.git"
@@ -36736,26 +36937,6 @@
             "module": "ovs",
             "organization": "openvswitch",
             "uri": "https://github.com/openvswitch/ovs.git"
-        },
-        {
-            "module": "openlab-github-io",
-            "organization": "openlab",
-            "uri": "https://github.com/theopenlab/theopenlab.github.io.git"
-        },
-        {
-            "module": "openlab-project-config",
-            "organization": "openlab",
-            "uri": "https://github.com/theopenlab/project-config-source.git"
-        },
-        {
-            "module": "openlab-terraform-jobs",
-            "organization": "openlab",
-            "uri": "https://github.com/theopenlab/terraform-jobs.git"
-        },
-        {
-            "module": "openlab-gophercloud-jobs",
-            "organization": "openlab",
-            "uri": "https://github.com/theopenlab/gophercloud-jobs.git"
         },
         {
             "module": "openlab-zuul-jobs",
@@ -37986,6 +38167,10 @@
                 "arena@kubeflow", "pytorch-operator@kubeflow", "tf-operator@kubeflow", "fairing@kubeflow",
                 "testing@kubeflow", "crd-validation@kubeflow", "mxnet-operator@kubeflow", "batch-predict@kubeflow",
                 "chainer-operator@kubeflow", "mpi-operator@kubeflow", "example-seldon@kubeflow"]
+        },
+        {
+                "module_group_name": "tekton-group",
+                "modules": ["pipeline@tekton", "website@tekton"]
         }
     ],
     "releases": [
@@ -38139,7 +38324,7 @@
         },
         {
             "release_name": "Newton",
-            "end_date": "2016-Oct-05",
+            "end_date": "2016-Oct-06",
             "refs": {
                 "governance": {
                     "type": "big_tent",
@@ -38150,7 +38335,7 @@
         },
         {
             "release_name": "Ocata",
-            "end_date": "2017-Feb-23",
+            "end_date": "2017-Feb-22",
             "refs": {
                 "governance": {
                     "type": "big_tent",
@@ -38194,7 +38379,18 @@
         },
         {
             "release_name": "Stein",
-            "end_date": "2019-Feb-28",
+            "end_date": "2019-Apr-10",
+            "refs": {
+                "governance": {
+                    "type": "big_tent",
+                    "source": "https://git.openstack.org/cgit/openstack/governance/plain/reference/projects.yaml"
+                }
+            },
+            "project": "openstack"
+        },
+        {
+            "release_name": "Train",
+            "end_date": "2019-Oct-16",
             "refs": {
                 "governance": {
                     "type": "big_tent",
@@ -38452,6 +38648,12 @@
             "title": "OpenDaylight",
             "child": true,
             "modules": ["opendaylight"]
+        },
+        {
+            "id": "tekton-group",
+            "title": "tekton",
+            "child": true,
+            "modules": ["tekton-group"]
         }
     ]
 }
