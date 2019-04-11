@@ -38430,7 +38430,7 @@
             "id": "openstack",
             "title": "Official",
             "child": true,
-            "modules": ["openstack-official", "governance", "api-wg", "openstack-user-stories",
+            "modules": ["openstack-official", "governance", "openstack-user-stories",
                 "edge-computing", "leveraging-containers-openstack"]
         },
         {
