@@ -37773,7 +37773,7 @@
         },
         {
             "module": "opendaylight",
-            "uri": "https://git.opendaylight.org/gerrit/controller",
+            "uri": "https://github.com/opendaylight/controller.git",
             "organization": "opendaylight"
         }
     ],
