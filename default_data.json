@@ -33034,8 +33034,8 @@
             "domains": [""],
             "company_name": "*independent",
             "aliases": [
-                "None", "Non", "l-", ".", "****", "1", "aaa", "-", "dsadsadsadsad", "I dont have one", "company",
-                "n/a", "Self", "Student", "home", "Home Based", "Independent", "Independen", "Independant", "MyHome",
+                "None", "Non", "l-", ".", "****", "1", "aaa", "-", "dsadsadsadsad", "I dont have one", "company", "n/a",
+                "Self", "Student", "home", "Home Based", "Independent", "Independen", "Independant", "MyHome",
                 "HomeOffice", "Self Employeed", "Self Employed", "myself", "Self-employeed", "individual",
                 "Individual Contributor", "Unaffiliated", "没有", "Null", "Univerisity", "fsfsf", "xxx", "no job",
                 "Freelancer", "free", "Freelance", "Freelance IT Specialist", "No Affiliation", "Not applicable",
@@ -34001,14 +34001,11 @@
             "company_name": "IBM",
             "aliases": [
                 "IBM Australia", "IBM Canada", "IBM Canada Ltd", "IBM China", "IBM Corporation", "IBM India",
-                "IBM Japan",
-                "IBM Research", "IBM Research - China", "IBM Research Lab, India",
-                "IBM Deutschland Research & Development GmbH",
-                "International Business Machines Corporation", "IBM UK Ltd", "IBM Ireland",
-                "IBM Cloud Infrastructure Services",
-                "IBM Deutschland", "IBM Malaysia", "IBM Haifa", "IBM Global Services", "IBM Softlayer",
-                "IBM Cloud Division",
-                "IBM Malaysia Sdn Bhd", "IBM India Private"
+                "IBM Japan", "IBM Research", "IBM Research - China", "IBM Research Lab, India",
+                "IBM Deutschland Research & Development GmbH", "International Business Machines Corporation",
+                "IBM UK Ltd", "IBM Ireland", "IBM Cloud Infrastructure Services", "IBM Deutschland", "IBM Malaysia",
+                "IBM Haifa", "IBM Global Services", "IBM Softlayer", "IBM Cloud Division", "IBM Malaysia Sdn Bhd",
+                "IBM India Private"
             ]
         },
         {
@@ -34415,8 +34412,7 @@
             "company_name": "NEC",
             "aliases": [
                 "NEC Europe Ltd.", "NEC Soft, Ltd.", "NEC Technologies India Ltd.", "NEC Technlogies India Ltd",
-                "NEC Laboratories Europe",
-                "NEC Solution Innovators", "NEC Corporation of America"
+                "NEC Laboratories Europe", "NEC Solution Innovators", "NEC Corporation of America"
             ]
         },
         {
@@ -34704,8 +34700,7 @@
             "company_name": "Rackspace",
             "aliases": [
                 "Rackspace, Cloudscaling, Korea Telcom, friends with lots of people", "Rackspace.com",
-                "Rackspace Hosting",
-                "Rackspce", "Rackspace Hosting; Tunnel Vision Laboratories LLC"
+                "Rackspace Hosting", "Rackspce", "Rackspace Hosting; Tunnel Vision Laboratories LLC"
             ]
         },
         {
