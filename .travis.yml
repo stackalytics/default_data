@@ -1,0 +1,11 @@
+jobs:
+  include:
+    - stage: tests
+      name: "Unit"
+      language: python
+
+      before_install:
+        - sudo pip install json-spec
+
+      script:
+        - json validate --schema-file=schema.json --document-file=default_data.json
