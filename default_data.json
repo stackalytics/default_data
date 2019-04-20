@@ -999,7 +999,18 @@
                 }
             ],
             "user_name": "Aaron Sheffield",
-            "emails": ["ajs@sheffieldfamily.net", "aaron.sheffield@att.com"]
+            "emails": ["ajs@sheffieldfamily.net", "aaron.sheffield@att.com", "as1452@att.com"]
+        },
+        {
+            "launchpad_id": "ab2434",
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Anthony Bellino",
+            "emails": ["ab2434@att.com", "anthony.bellino@att.com", "anthony.bellino@us.att.com"]
         },
         {
             "github_id": "abadger",
@@ -5334,6 +5345,17 @@
             "emails": ["ramesh.chander@sandisk.com"]
         },
         {
+            "launchpad_id": "chi-xu",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "XuChi",
+            "emails": ["xuchi0823@gmail.com", "xuchi0823@163.com", "xuchi@beyondcent.com"]
+        },
+        {
             "launchpad_id": "chinabjalex",
             "companies": [
                 {
@@ -5545,7 +5567,7 @@
                 }
             ],
             "user_name": "Zhang Chi",
-            "emails": ["zhangchi@szzt.com.cn"]
+            "emails": ["411299920@qq.com", "chzhang8@qq.com", "zhangchi@szzt.com.cn"]
         },
         {
             "launchpad_id": "cimomo",
@@ -6415,6 +6437,17 @@
             "emails": ["daisy.ycguo@gmail.com", "guoyingc@cn.ibm.com"]
         },
         {
+            "launchpad_id": "dakele",
+            "companies": [
+                {
+                    "company_name": "China Unicom",
+                    "end_date": null
+                }
+            ],
+            "user_name": "xuye",
+            "emails": ["wmxy123@yeah.net", "xuy91@chinaunicom.cn"]
+        },
+        {
             "launchpad_id": "dalees",
             "companies": [
                 {
@@ -7076,6 +7109,26 @@
             ],
             "user_name": "Deepak Garg",
             "emails": ["deepak.garg@citrix.com", "deepakgarg.iitg@gmail.com"]
+        },
+        {
+            "launchpad_id": "deepak.tiwari",
+            "github_id": "deepak-dt",
+            "companies": [
+                {
+                    "company_name": "Aricent",
+                    "end_date": "2017-Dec-31"
+                },
+                {
+                    "company_name": "Altran",
+                    "end_date": "2018-Dec-31"
+                },
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Deepak Tiwari",
+            "emails": ["deepak.tiwari@altran.com", "deepak.tiwari@aricent.com", "dt967u@att.com", "deepak.dt@gmail.com"]
         },
         {
             "launchpad_id": "deepali-verneya",
@@ -7999,7 +8052,7 @@
                 }
             ],
             "user_name": "Drew Walters",
-            "emails": ["drewwalters96@gmail.com", "andrew.walters@att.com"]
+            "emails": ["drewwalters96@gmail.com", "andrew.walters@att.com", "aw442m@att.com"]
         },
         {
             "launchpad_id": "dricco",
@@ -11997,6 +12050,18 @@
             ],
             "user_name": "Ian Howell",
             "emails": ["ian.howell0@gmail.com", "ian.howell@att.com"]
+        },
+        {
+            "launchpad_id": "ianp",
+            "github_id": "ianpittwood",
+            "companies": [
+                {
+                    "company_name": "Accenture",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ian Pittwood",
+            "emails": ["pittwoodian@gmail.com", "ip692y@att.com"]
         },
         {
             "launchpad_id": "ibolotin",
@@ -17137,6 +17202,10 @@
             "launchpad_id": "liuruiubu",
             "companies": [
                 {
+                    "company_name": "*independent",
+                    "end_date": "2018-Dec-10"
+                },
+                {
                     "company_name": "BoCloud",
                     "end_date": null
                 }
@@ -19422,6 +19491,18 @@
             "emails": ["mkelnermishal@vmware.com"]
         },
         {
+            "launchpad_id": "mm9745",
+            "github_id": "mattmceuen",
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Matt McEuen",
+            "emails": ["mm9745@att.com", "matt.mceuen@att.com", "madgin@madgin.net"]
+        },
+        {
             "launchpad_id": "mmalchuk",
             "github_id": "mmalchuk",
             "companies": [
@@ -19662,6 +19743,17 @@
             ],
             "user_name": "Longlong Cao",
             "emails": ["morvencao@gmail.com", "llcao@cn.ibm.com"]
+        },
+        {
+            "launchpad_id": "mpardhi",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Monica Pardhi",
+            "emails": ["mpardhi1991@gmail.com", "monica.pardhi@calsoftinc.com", "monica_pardhi@dellteam.com"]
         },
         {
             "launchpad_id": "mpdehaan",
@@ -29169,6 +29261,21 @@
             ],
             "user_name": "Vladimir Kuramshin",
             "emails": ["v.kuramshin@samsung.com"]
+        },
+        {
+            "launchpad_id": "vmaliaev",
+            "companies": [
+                {
+                    "company_name": "Mirantis",
+                    "end_date": "2017-Jun-17"
+                },
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Vladimir Maliaev",
+            "emails": ["vmaliaev@mirantis.com", "vm321d@att.com"]
         },
         {
             "launchpad_id": "vmbrasseur",
