@@ -38218,72 +38218,72 @@
         },
         {
             "module": "airship-armada",
-            "uri": "https://git.openstack.org/openstack/airship-armada.git",
+            "uri": "https://opendev.org/airship/armada.git",
             "organization": "openstack"
         },
         {
             "module": "airship-berth",
-            "uri": "https://git.openstack.org/openstack/airship-berth.git",
+            "uri": "https://opendev.org/airship/berth.git",
             "organization": "openstack"
         },
         {
             "module": "airship-deckhand",
-            "uri": "https://git.openstack.org/openstack/airship-deckhand.git",
+            "uri": "https://opendev.org/airship/deckhand.git",
             "organization": "openstack"
         },
         {
             "module": "airship-divingbell",
-            "uri": "https://git.openstack.org/openstack/airship-divingbell.git",
+            "uri": "https://opendev.org/airship/divingbell.git",
             "organization": "openstack"
         },
         {
             "module": "airship-drydock",
-            "uri": "https://git.openstack.org/openstack/airship-drydock.git",
+            "uri": "https://opendev.org/airship/drydock.git",
             "organization": "openstack"
         },
         {
             "module": "airship-in-a-bottle",
-            "uri": "https://git.openstack.org/openstack/airship-in-a-bottle.git",
+            "uri": "https://opendev.org/airship/in-a-bottle.git",
             "organization": "openstack"
         },
         {
             "module": "airship-maas",
-            "uri": "https://git.openstack.org/openstack/airship-maas.git",
+            "uri": "https://opendev.org/airship/maas.git",
             "organization": "openstack"
         },
         {
             "module": "airship-pegleg",
-            "uri": "https://git.openstack.org/openstack/airship-pegleg.git",
+            "uri": "https://opendev.org/airship/pegleg.git",
             "organization": "openstack"
         },
         {
             "module": "airship-promenade",
-            "uri": "https://git.openstack.org/openstack/airship-promenade.git",
+            "uri": "https://opendev.org/airship/promenade.git",
             "organization": "openstack"
         },
         {
             "module": "airship-shipyard",
-            "uri": "https://git.openstack.org/openstack/airship-shipyard.git",
+            "uri": "https://opendev.org/airship/shipyard.git",
             "organization": "openstack"
         },
         {
             "module": "airship-specs",
-            "uri": "https://git.openstack.org/openstack/airship-specs.git",
+            "uri": "https://opendev.org/airship/specs.git",
             "organization": "openstack"
         },
         {
             "module": "airship-spyglass",
-            "uri": "https://git.openstack.org/openstack/airship-spyglass.git",
+            "uri": "https://opendev.org/airship/spyglass.git",
             "organization": "openstack"
         },
         {
             "module": "airship-tempest-plugin",
-            "uri": "https://git.openstack.org/openstack/airship-tempest-plugin.git",
+            "uri": "https://opendev.org/airship/tempest-plugin.git",
             "organization": "openstack"
         },
         {
             "module": "airship-treasuremap",
-            "uri": "https://git.openstack.org/openstack/airship-treasuremap.git",
+            "uri": "https://opendev.org/airship/treasuremap.git",
             "organization": "openstack"
         },
         {
