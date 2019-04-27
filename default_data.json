@@ -2295,11 +2295,15 @@
                 },
                 {
                     "company_name": "Linux Academy",
+                    "end_date": "2019-Jan-31"
+                },
+                {
+                    "company_name": "Independent",
                     "end_date": null
                 }
             ],
             "user_name": "Amy Marrich",
-            "emails": ["amy@demarco.com", "amy@linuxacademy.com", "amy.marrich@rackspace.com"]
+            "emails": ["amy@demarco.com", "amy@taotesting.com", "amy@linuxacademy.com", "amy.marrich@rackspace.com"]
         },
         {
             "launchpad_id": "anand1712",
@@ -3643,6 +3647,17 @@
             "emails": ["sroy@walmartlabs.com", "bea_surajit_roy@yahoo.com", "beasurajitroy@gmail.com"]
         },
         {
+            "launchpad_id": "beemarie",
+            "companies": [
+                {
+                    "company_name": "IBM",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Belinda Vennam",
+            "emails": ["beemarie@us.ibm.com", "beemarie88@gmail.com"]
+        },
+        {
             "launchpad_id": "belliott",
             "companies": [
                 {
@@ -4050,6 +4065,10 @@
             "companies": [
                 {
                     "company_name": "Cisco Systems",
+                    "end_date": "2019-Apr-12"
+                },
+                {
+                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
@@ -4715,6 +4734,17 @@
             ],
             "user_name": "Chuck Carlino",
             "emails": ["ccarlino@hpe.com", "ccarlino@hp.com", "chuckjcarlino@gmail.com"]
+        },
+        {
+            "launchpad_id": "ccercuse",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "LiDan",
+            "emails": ["lidan@beyondcent.com"]
         },
         {
             "launchpad_id": "ccesario",
@@ -9542,6 +9572,17 @@
             "emails": ["filip@pytloun.cz", "filip.pytloun@tcpcloud.eu"]
         },
         {
+            "launchpad_id": "francotseng",
+            "companies": [
+                {
+                    "company_name": "Unaffiliated",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Franco Tseng",
+            "emails": ["francotseng18@gmail.com"]
+        },
+        {
             "launchpad_id": "freyadyu",
             "companies": [
                 {
@@ -9731,6 +9772,17 @@
             ],
             "user_name": "Gabriel Hurley",
             "emails": ["gabriel@strikeawe.com"]
+        },
+        {
+            "launchpad_id": "gael01",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Gael Rehault",
+            "emails": ["gael01@gmail.com", "gael_rehault@dell.com"]
         },
         {
             "launchpad_id": "gagehugo",
@@ -11600,6 +11652,18 @@
             ],
             "user_name": "Heitor Ricardo Alves de Siqueira",
             "emails": ["heitorricardo.alvesdesiqueira@fit-tecnologia.org.br"]
+        },
+        {
+            "launchpad_id": "htmz",
+            "github_id": "HeTonght",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "HeTong",
+            "emails": ["hetong@beyondcent.com"]
         },
         {
             "launchpad_id": "htpeng",
@@ -14778,6 +14842,17 @@
             "emails": ["jtran@attinteractive.com", "jhtran@att.com"]
         },
         {
+            "launchpad_id": "jtwilliams",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "John T. Williams",
+            "emails": ["j_t_willaims@dell.com"]
+        },
+        {
             "launchpad_id": "juan-pablo-lopez-gutierrez",
             "companies": [
                 {
@@ -16033,6 +16108,22 @@
             "emails": ["kurtis.cobb@gmail.com", "kurtis.v.cobb@intel.com"]
         },
         {
+            "launchpad_id": "kvenkata986",
+            "github_id": "kvenkata986",
+            "companies": [
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Krishna Venkata",
+            "emails": [
+                "kv988c@att.com",
+                "kvenkata986@gmail.com",
+                "krishna.venkata@ericsson.com"
+            ]
+        },
+        {
             "launchpad_id": "kyle-jorgensen",
             "companies": [
                 {
@@ -16250,6 +16341,17 @@
             ],
             "user_name": "zhiyuan su",
             "emails": ["suzhiyuan@inspur.com"]
+        },
+        {
+            "launchpad_id": "lbbeyond",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "lubo",
+            "emails": ["lubo@beyondcent.com"]
         },
         {
             "launchpad_id": "lcsong",
@@ -18752,11 +18854,15 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
+                    "end_date": "2019-Apr-15"
+                },
+                {
+                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
             "user_name": "Mark Beierl",
-            "emails": ["mark.beierl@dell.com", "mark.beierl@emc.com", "mark@jemms.net"]
+            "emails": ["mbeierl@vmware.com", "mark@jemms.net"]
         },
         {
             "launchpad_id": "mbonell",
@@ -20358,6 +20464,17 @@
             "emails": ["nfedotov@cisco.com", "nfedotov@mirantis.com"]
         },
         {
+            "launchpad_id": "ngohoa211",
+            "companies": [
+                {
+                    "company_name": "Viettel",
+                    "end_date": null
+                }
+            ],
+            "user_name": "hoa ngo",
+            "emails": ["ngohoa211@gmail.com", "hoanq13@viettel.com.vn"]
+        },
+        {
             "launchpad_id": "nguyenat4",
             "companies": [
                 {
@@ -20510,6 +20627,17 @@
             "emails": ["ning.sun@intel.com"]
         },
         {
+            "launchpad_id": "nishant-tech07",
+            "companies": [
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Nishant Kumar",
+            "emails": ["nishant.e.kumar@ericsson.com", "nishant.tech07@gmail.com", "nk613n@att.com"]
+        },
+        {
             "launchpad_id": "nishpatwa",
             "companies": [
                 {
@@ -20534,6 +20662,17 @@
             ],
             "user_name": "Zhenguo Niu",
             "emails": ["niuzhenguo@huawei.com", "zhenguo@unitedstack.com", "niu.zglinux@gmail.com"]
+        },
+        {
+            "launchpad_id": "nkodreamer",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "nkodreamer",
+            "emails": ["zhaozhangcheng@beyondcent.com", "942507848@qq.com"]
         },
         {
             "github_id": "nkwangleiGIT",
@@ -20597,6 +20736,17 @@
             ],
             "user_name": "Chris Krelle",
             "emails": ["nobodycam@gmail.com"]
+        },
+        {
+            "launchpad_id": "nodetext1",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "XuChenXin",
+            "emails": ["xuchenxin@beyondcent.com"]
         },
         {
             "launchpad_id": "noelbk",
@@ -20826,6 +20976,17 @@
             ],
             "user_name": "Yoyang Zeng",
             "emails": ["yo.zed@qq.com"]
+        },
+        {
+            "launchpad_id": "odonos12",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Simon O'Donovan",
+            "emails": ["simon.odonovan@dell.com"]
         },
         {
             "launchpad_id": "ogazitt",
@@ -22312,6 +22473,17 @@
             "emails": ["qianyuqiao1@outlook.com"]
         },
         {
+            "launchpad_id": "qienze",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "qienze",
+            "emails": ["qienze@beyondcent.com", "sepveneto@qq.com"]
+        },
+        {
             "launchpad_id": "qiky",
             "zanata_id": "qiaiyuan",
             "companies": [
@@ -23794,6 +23966,18 @@
             ],
             "user_name": "Roman Dobosz",
             "emails": ["roman.dobosz@intel.com", "gryf73@gmail.com", "roman.dobosz@corp.ovh.com"]
+        },
+        {
+            "launchpad_id": "romang",
+            "github_id": "gorshunovr",
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Roman Gorshunov",
+            "emails": ["roman.gorshunov@att.com", "rg445d@intl.att.com", "paye600@gmail.com"]
         },
         {
             "launchpad_id": "romcheg",
@@ -26582,6 +26766,18 @@
             ],
             "user_name": "Sorin Sbarnea",
             "emails": ["sorin.sbarnea@gmail.com", "ssbarnea@redhat.com", "ssbarnea@users.noreply.github.com"]
+        },
+        {
+            "launchpad_id": "staceyfletcher",
+            "github_id": "slfletch",
+            "companies": [
+                {
+                    "company_name": "Accenture",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Stacey Fletcher",
+            "emails": ["staceylynnfletcher@gmail.com", "sf5715@att.com"]
         },
         {
             "launchpad_id": "stanicke",
@@ -29441,11 +29637,17 @@
             "companies": [
                 {
                     "company_name": "University of Melbourne",
+                    "end_date": "2018-Jun-30"
+                },
+                {
+                    "company_name": "Australian Research Data Commons",
                     "end_date": null
                 }
             ],
             "user_name": "Jake Yip",
-            "emails": ["waipengyip@yahoo.com", "waipengyip@gmail.com", "jake.yip@unimelb.edu.au"]
+            "emails": [
+                "waipengyip@yahoo.com", "waipengyip@gmail.com", "jake.yip@unimelb.edu.au", "jake.yip@ardc.edu.au"
+            ]
         },
         {
             "launchpad_id": "walshh2",
@@ -30011,6 +30213,17 @@
             ],
             "user_name": "Ken Wronkiewicz",
             "emails": ["wh-openstack@wirewd.com", "wh-ubuntuone@wirewd.com"]
+        },
+        {
+            "launchpad_id": "whbo",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "whbo",
+            "emails": ["wanghongbo@beyondcent.com"]
         },
         {
             "launchpad_id": "whoami-rajat",
@@ -31046,6 +31259,17 @@
             ]
         },
         {
+            "launchpad_id": "yanjieyj",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "yanjie",
+            "emails": ["yanjie@beyondcent.com", "1312691968@qq.com"]
+        },
+        {
             "github_id": "yank1",
             "companies": [
                 {
@@ -31650,6 +31874,17 @@
             ],
             "user_name": "Michael-ZTE",
             "emails": ["yuan.han@zte.com.cn"]
+        },
+        {
+            "launchpad_id": "yuchengsong",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "songyucheng",
+            "emails": ["songyucheng@beyondcent.com"]
         },
         {
             "launchpad_id": "yueyuquan",
@@ -32741,6 +32976,17 @@
             "emails": ["zhouwei.wh@awcloud.com"]
         },
         {
+            "launchpad_id": "zhouxiaoning",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhouxiaoning",
+            "emails": ["zhouxiaoning@beyondcent.com", "799607051@qq.com"]
+        },
+        {
             "launchpad_id": "zhouyunfeng",
             "companies": [
                 {
@@ -32864,6 +33110,17 @@
             ],
             "user_name": "zhulingjie",
             "emails": ["easyzlj@gmail.com"]
+        },
+        {
+            "launchpad_id": "zhupeixiang",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhupeixiang",
+            "emails": ["zhupeixiang@beyondcent.com"]
         },
         {
             "launchpad_id": "zhusz",
@@ -33310,6 +33567,10 @@
         {
             "domains": ["aptomi.io"],
             "company_name": "Aptomi"
+        },
+        {
+            "domains": ["ardc.edu.au"],
+            "company_name": "Australian Research Data Commons"
         },
         {
             "domains": ["aricent.com"],
