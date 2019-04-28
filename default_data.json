@@ -38571,6 +38571,7 @@
     "project_sources": [
         {
             "organization": "openstack",
+            "pattern": "^(openstack|x)/.*",
             "exclude": [
                 "openstack", "gantt", "python-ganttclient", "deb-alembic", "deb-aodh", "deb-bandit", "deb-barbican",
                 "deb-ceilometer", "deb-ceilometermiddleware", "deb-cinder", "deb-congress", "deb-designate",
