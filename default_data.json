@@ -729,6 +729,17 @@
             "emails": ["4k.rajesh@gmail.com"]
         },
         {
+            "launchpad_id": "578043796-b",
+            "companies": [
+                {
+                    "company_name": "ZTE Corporation",
+                    "end_date": null
+                }
+            ],
+            "user_name": "gengchc2",
+            "emails": ["geng.changcai2@zte.com.cn"]
+        },
+        {
             "launchpad_id": "58750307-3",
             "companies": [
                 {
