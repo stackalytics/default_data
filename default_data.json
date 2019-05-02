@@ -34164,6 +34164,11 @@
             ]
         },
         {
+            "domains": ["ethz.ch"],
+            "company_name": "ETH Zurich",
+            "aliases": ["ETHZ", "Swiss Federal Institute of Technology in Zurich"]
+        },
+        {
             "domains": ["evoila.de"],
             "company_name": "evoila"
         },
