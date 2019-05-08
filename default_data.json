@@ -14332,12 +14332,16 @@
                 },
                 {
                     "company_name": "*independent",
+                    "end_date": "2019-Apr-07"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Michael Johnson",
             "emails": [
-                "johnsom@hp.com", "johnsomor@gmail.com", "michael.d.johnson@hpe.com", "michael.johnsonus@rackspace.com"
+                "johnsom@hp.com", "johnsomor@gmail.com", "michael.d.johnson@hpe.com", "michael.johnsonus@rackspace.com", "michjohn@redhat.com"
             ]
         },
         {
