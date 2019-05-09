@@ -30311,6 +30311,21 @@
             "emails": ["wingwj@gmail.com", "wingwj.wu@huawei.com"]
         },
         {
+            "launchpad_id": "witold-bedyk",
+            "companies": [
+                {
+                    "company_name": "Fujitsu",
+                    "end_date": "2018-Dec-31"
+                },
+                {
+                    "company_name": "SUSE",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Witek Bedyk",
+            "emails": ["witold.bedyk@est.fujitsu.com", "witold.bedyk@suse.com"]
+        },
+        {
             "github_id": "wizard-cxy",
             "companies": [
                 {
