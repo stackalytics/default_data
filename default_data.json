@@ -1,6 +1,17 @@
 {
     "users": [
         {
+            "launchpad_id": "luubh",
+            "companies": [
+                {
+                    "company_name": "Cloudrity",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bui Hoang Luu",
+            "emails": ["luugu196@gmail.com", "luubh@viettel.com.vn"]
+        },
+        {
             "companies": [
                 {
                     "company_name": "Sorint.lab",
@@ -35633,6 +35644,11 @@
             "domains": ["viettel.com.vn", "vietteltelecom.vn", "viettelidc.com.vn"],
             "company_name": "Viettel",
             "aliases": ["Viettel Group"]
+        },
+        {
+            "domains": ["cloudrity.com", "cloudrity.com.vn", "cloudrity.org"],
+            "company_name": "Cloudrity",
+            "aliases": ["Viettel Cyber Security Company"]
         },
         {
             "domains": ["virtualtech.jp"],
