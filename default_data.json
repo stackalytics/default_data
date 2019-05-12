@@ -38611,7 +38611,7 @@
         },
         {
             "module": "airship-utils",
-            "uri": "https://git.openstack.org/openstack/airship-utils.git",
+            "uri": "https://opendev.org/airship/airship-utils.git",
             "organization": "openstack"
         }
     ],
