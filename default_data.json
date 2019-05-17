@@ -30053,6 +30053,18 @@
             "user_name": "warmchang",
             "emails": ["zhang.wanmin@zte.com.cn", "warmchang@outlook.com", "warmchang@163.com"]
         },
+	{
+            "launchpad_id": "wasaac",
+            "github_id": "Wasaac",
+            "companies": [
+                {
+                    "company_name": "StackHPC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Isaac Prior",
+            "emails": ["isaac.prior@blueyonder.co.uk", "isaac@stackhpc.com"]
+        },
         {
             "launchpad_id": "watanabe.isao",
             "companies": [
