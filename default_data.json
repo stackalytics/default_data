@@ -2007,7 +2007,7 @@
         },
         {
             "launchpad_id": "alexanderhughes",
-            "github_id": "alexanderhughes",
+            "github_id": "alexander-hughes",
             "companies": [
                 {
                     "company_name": "Accenture",
@@ -7117,6 +7117,17 @@
                 }
             ],
             "emails": ["deyuan.deng@gmail.com", "deyuan@caicloud.io"]
+        },
+        {
+            "launchpad_id": "deanhuang",
+            "companies": [
+                {
+                    "company_name": "99cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "weidong.huang",
+            "emails": ["huang.weidong@99cloud.net", "w475371137@gmail.com"]
         },
         {
             "launchpad_id": "debo",
@@ -18876,6 +18887,17 @@
             "emails": ["mazengx@chinatelecom.cn", "mazengxie@126.com"]
         },
         {
+            "launchpad_id": "mb18",
+            "companies": [
+                {
+                    "company_name": "G-Research",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Matt Brown",
+            "emails": ["matthewbrown18@gmail.com", "matt.brown@gresearch.co.uk"]
+        },
+        {
             "launchpad_id": "mbeierl",
             "companies": [
                 {
@@ -29226,6 +29248,17 @@
             "emails": ["vincent.casse@ovh.net", "vincent@casse.me"]
         },
         {
+            "launchpad_id": "vincent-pli",
+            "companies": [
+                {
+                    "company_name": "IBM",
+                    "end_date": null
+                }
+            ],
+            "user_name": "pengli",
+            "emails": ["justdoit.pli@gmail.com"]
+        },
+        {
             "launchpad_id": "vincent.jia",
             "companies": [
                 {
@@ -29879,6 +29912,17 @@
             ],
             "user_name": "Liangyu Wang",
             "emails": ["wangliangyu@gohigh.com.cn"]
+        },
+        {
+            "launchpad_id": "wangqian99cloud",
+            "companies": [
+                {
+                    "company_name": "99cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wang.qian",
+            "emails": ["wang.qian@99cloud.net"]
         },
         {
             "launchpad_id": "wangwenjun",
@@ -30970,6 +31014,17 @@
             ],
             "user_name": "xu.hongzhi",
             "emails": ["xuhongzhi@sgitg.sgcc.com.cn", "toxhz@163.com"]
+        },
+        {
+            "launchpad_id": "xuanyandong",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Xuan Yandong",
+            "emails": ["xuanyandong@inspur.com"]
         },
         {
             "launchpad_id": "xuao",
@@ -33432,6 +33487,17 @@
             ],
             "user_name": "zzxwill",
             "emails": ["zzxwill@gmail.com"]
+        },
+        {
+            "launchpad_id": "zzyily",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "renhao",
+            "emails": ["renhao@beyondcent.com", "rh1457509849@163.com"]
         }
     ],
     "companies": [
@@ -35913,7 +35979,7 @@
                     "tag_from": "18.0.0.0rc1"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/nova.git",
+            "uri": "https://opendev.org/openstack/nova.git",
             "module": "nova",
             "organization": "openstack"
         },
@@ -35999,7 +36065,7 @@
                     "tag_from": "14.0.0.0rc1"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/keystone.git",
+            "uri": "https://opendev.org/openstack/keystone.git",
             "module": "keystone",
             "organization": "openstack"
         },
@@ -36080,21 +36146,8 @@
                     "tag_from": "13.0.0.0rc1"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/cinder.git",
+            "uri": "https://opendev.org/openstack/cinder.git",
             "module": "cinder",
-            "organization": "openstack"
-        },
-        {
-            "releases": [
-                {
-                    "branch": "debian/newton",
-                    "tag_to": "HEAD",
-                    "release_name": "Newton",
-                    "tag_from": "00313fdb"
-                }
-            ],
-            "uri": "https://git.openstack.org/openstack/deb-auto-backports.git",
-            "module": "deb-auto-backports",
             "organization": "openstack"
         },
         {
@@ -36179,7 +36232,7 @@
                     "tag_from": "17.0.0.0rc1"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/glance.git",
+            "uri": "https://opendev.org/openstack/glance.git",
             "module": "glance",
             "organization": "openstack"
         },
@@ -36277,7 +36330,7 @@
                     "release_name": "Liberty"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/neutron.git",
+            "uri": "https://opendev.org/openstack/neutron.git",
             "module": "neutron",
             "organization": "openstack"
         },
@@ -36363,7 +36416,7 @@
                     "tag_from": "14.0.0.0rc1"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/horizon.git",
+            "uri": "https://opendev.org/openstack/horizon.git",
             "module": "horizon",
             "organization": "openstack"
         },
@@ -36443,7 +36496,7 @@
                     "tag_from": "2.17.0"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/swift.git",
+            "uri": "https://opendev.org/openstack/swift.git",
             "module": "swift",
             "organization": "openstack"
         },
@@ -36505,7 +36558,7 @@
                     "tag_from": "3.10.0"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/python-keystoneclient.git",
+            "uri": "https://opendev.org/openstack/python-keystoneclient.git",
             "module": "python-keystoneclient",
             "organization": "openstack"
         },
@@ -36567,7 +36620,7 @@
                     "tag_from": "7.1.0"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/python-novaclient.git",
+            "uri": "https://opendev.org/openstack/python-novaclient.git",
             "module": "python-novaclient",
             "organization": "openstack"
         },
@@ -36624,7 +36677,7 @@
                     "tag_from": "1.11.0"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/python-cinderclient.git",
+            "uri": "https://opendev.org/openstack/python-cinderclient.git",
             "module": "python-cinderclient",
             "organization": "openstack"
         },
@@ -36681,7 +36734,7 @@
                     "tag_from": "2.6.0"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/python-glanceclient.git",
+            "uri": "https://opendev.org/openstack/python-glanceclient.git",
             "module": "python-glanceclient",
             "organization": "openstack"
         },
@@ -36743,7 +36796,7 @@
                     "tag_from": "6.1.0"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/python-neutronclient.git",
+            "uri": "https://opendev.org/openstack/python-neutronclient.git",
             "module": "python-neutronclient",
             "organization": "openstack"
         },
@@ -36800,7 +36853,7 @@
                     "tag_from": "3.3.0"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/python-swiftclient.git",
+            "uri": "https://opendev.org/openstack/python-swiftclient.git",
             "module": "python-swiftclient",
             "organization": "openstack"
         },
@@ -36876,7 +36929,7 @@
                     "tag_from": "11.0.0.0rc1"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/heat.git",
+            "uri": "https://opendev.org/openstack/heat.git",
             "module": "heat",
             "organization": "openstack"
         },
@@ -36933,7 +36986,7 @@
                     "tag_from": "1.8.0"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/python-heatclient.git",
+            "uri": "https://opendev.org/openstack/python-heatclient.git",
             "module": "python-heatclient",
             "organization": "openstack"
         },
@@ -36998,7 +37051,7 @@
                     "tag_from": "10.0.0"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/ceilometer.git",
+            "uri": "https://opendev.org/openstack/ceilometer.git",
             "module": "ceilometer",
             "organization": "openstack"
         },
@@ -37015,7 +37068,7 @@
                     "tag_from": "1.0.6"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/python-ceilometerclient.git",
+            "uri": "https://opendev.org/openstack/python-ceilometerclient.git",
             "module": "python-ceilometerclient",
             "organization": "openstack"
         },
@@ -37048,7 +37101,7 @@
                     "tag_from": "2015.1.0"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/oslo-incubator.git",
+            "uri": "https://opendev.org/openstack/oslo-incubator.git",
             "module": "oslo-incubator",
             "organization": "openstack"
         },
@@ -37065,7 +37118,7 @@
                     "tag_from": "1.2.1"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/oslo.config.git",
+            "uri": "https://opendev.org/openstack/oslo.config.git",
             "module": "oslo.config",
             "organization": "openstack"
         },
@@ -37097,7 +37150,7 @@
                     "tag_from": "7dcdb23"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/openstack-manuals.git",
+            "uri": "https://opendev.org/openstack/openstack-manuals.git",
             "module": "openstack-manuals",
             "organization": "openstack"
         },
@@ -37114,7 +37167,7 @@
                     "tag_from": "0.11"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/openstack-doc-tools.git",
+            "uri": "https://opendev.org/openstack/openstack-doc-tools.git",
             "module": "openstack-doc-tools",
             "organization": "openstack"
         },
@@ -37131,7 +37184,7 @@
                     "tag_from": "2013.2"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/operations-guide.git",
+            "uri": "https://opendev.org/openstack/operations-guide.git",
             "module": "operations-guide",
             "organization": "openstack"
         },
@@ -37148,7 +37201,7 @@
                     "tag_from": "15cfe96"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/training-guides.git",
+            "uri": "https://opendev.org/openstack/training-guides.git",
             "module": "training-guides",
             "organization": "openstack"
         },
@@ -37165,7 +37218,7 @@
                     "tag_from": "2013.2"
                 }
             ],
-            "uri": "https://git.openstack.org/openstack/api-site.git",
+            "uri": "https://opendev.org/openstack/api-site.git",
             "module": "api-site",
             "organization": "openstack"
         },
@@ -37174,7 +37227,7 @@
             "aliases": [
                 "savanna"
             ],
-            "uri": "https://git.openstack.org/openstack/sahara.git",
+            "uri": "https://opendev.org/openstack/sahara.git",
             "organization": "openstack",
             "releases": [
                 {
@@ -37245,7 +37298,7 @@
         },
         {
             "module": "sahara-dashboard",
-            "uri": "https://git.openstack.org/openstack/sahara-dashboard.git",
+            "uri": "https://opendev.org/openstack/sahara-dashboard.git",
             "organization": "openstack",
             "releases": [
                 {
@@ -37262,7 +37315,7 @@
         },
         {
             "module": "python-saharaclient",
-            "uri": "https://git.openstack.org/openstack/python-saharaclient.git",
+            "uri": "https://opendev.org/openstack/python-saharaclient.git",
             "organization": "openstack",
             "releases": [
                 {
@@ -37317,12 +37370,12 @@
             "aliases": [
                 "fuel"
             ],
-            "uri": "https://git.openstack.org/openstack/fuel-main.git",
+            "uri": "https://opendev.org/openstack/fuel-main.git",
             "organization": "openstack"
         },
         {
             "module": "vmware-nsx",
-            "uri": "https://git.openstack.org/openstack/vmware-nsx.git",
+            "uri": "https://opendev.org/x/vmware-nsx.git",
             "organization": "openstack",
             "releases": [
                 {
@@ -37334,7 +37387,7 @@
         },
         {
             "module": "oslo.versionedobjects",
-            "uri": "https://git.openstack.org/openstack/oslo.versionedobjects.git",
+            "uri": "https://opendev.org/openstack/oslo.versionedobjects.git",
             "organization": "openstack",
             "releases": [
                 {
@@ -37834,7 +37887,7 @@
         {
             "module": "barbican",
             "organization": "openstack",
-            "uri": "https://git.openstack.org/openstack/barbican.git",
+            "uri": "https://opendev.org/openstack/barbican.git",
             "releases": [
                 {
                     "tag_to": "juno-eol",
@@ -37895,7 +37948,7 @@
         {
             "module": "zaqar",
             "organization": "openstack",
-            "uri": "https://git.openstack.org/openstack/zaqar.git",
+            "uri": "https://opendev.org/openstack/zaqar.git",
             "releases": [
                 {
                     "tag_to": "icehouse-eol",
@@ -37955,7 +38008,7 @@
         {
             "module": "python-zaqarclient",
             "organization": "openstack",
-            "uri": "https://git.openstack.org/openstack/python-zaqarclient.git",
+            "uri": "https://opendev.org/openstack/python-zaqarclient.git",
             "releases": [
                 {
                     "tag_to": "0.1.0",
@@ -38002,7 +38055,7 @@
         {
             "module": "kayobe",
             "organization": "openstack",
-            "uri": "https://git.openstack.org/openstack/kayobe.git",
+            "uri": "https://opendev.org/x/kayobe.git",
             "releases": [
                 {
                     "branch": "stable/ocata",
@@ -38353,7 +38406,7 @@
             "aliases": [
                 "smaug"
             ],
-            "uri": "https://git.openstack.org/openstack/karbor.git",
+            "uri": "https://opendev.org/openstack/karbor.git",
             "organization": "openstack"
         },
         {
@@ -38361,7 +38414,7 @@
             "aliases": [
                 "python-smaugclient"
             ],
-            "uri": "https://git.openstack.org/openstack/python-karborclient.git",
+            "uri": "https://opendev.org/openstack/python-karborclient.git",
             "organization": "openstack"
         },
         {
@@ -38369,7 +38422,7 @@
             "aliases": [
                 "smaug-dashboard"
             ],
-            "uri": "https://git.openstack.org/openstack/karbor-dashboard.git",
+            "uri": "https://opendev.org/openstack/karbor-dashboard.git",
             "organization": "openstack"
         },
         {
@@ -38377,7 +38430,7 @@
             "aliases": [
                 "nimble"
             ],
-            "uri": "https://git.openstack.org/openstack/mogan.git",
+            "uri": "https://opendev.org/openstack/mogan.git",
             "organization": "openstack"
         },
         {
@@ -38385,7 +38438,7 @@
             "aliases": [
                 "python-nimbleclient"
             ],
-            "uri": "https://git.openstack.org/openstack/python-moganclient.git",
+            "uri": "https://opendev.org/openstack/python-moganclient.git",
             "organization": "openstack"
         },
         {
@@ -38615,7 +38668,7 @@
         },
         {
             "module": "airship-utils",
-            "uri": "https://opendev.org/airship/airship-utils.git",
+            "uri": "https://opendev.org/airship/utils.git",
             "organization": "openstack"
         }
     ],
@@ -38714,6 +38767,9 @@
                 "deb-testresources", "deb-trove", "deb-trove-dashboard", "deb-watcher", "deb-websockify", "deb-zaqar",
                 "kubernetes"
             ]
+        },
+        {
+            "organization": "airship"
         },
         {
             "organization": "openstack-dev"
