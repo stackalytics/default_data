@@ -17968,11 +17968,15 @@
             "companies": [
                 {
                     "company_name": "OVH",
+                    "end_date": "2019-Apr-30"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Maciej Jozefczyk",
-            "emails": ["maciej.jozefczyk@corp.ovh.com"]
+            "emails": ["jeicam.pl@gmail.com", "mjozefcz@redhat.com"]
         },
         {
             "launchpad_id": "maciejkucia",
