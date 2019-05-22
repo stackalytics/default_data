@@ -24107,6 +24107,26 @@
             "emails": ["ronald.bradford@gmail.com", "me@ronaldbradford.com"]
         },
         {
+            "launchpad_id": "rongzhang",
+            "github_id": "riverzhang",
+            "companies": [
+                {
+                    "company_name": "EasyStack",
+                    "end_date": "2018-Mar-31"
+                },
+                {
+                    "company_name": "Alauda",
+                    "end_date": "2019-Mar-31"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Rong Zhang",
+            "emails": ["riverzhang90@gmail.com", "rongszhang@163.com", "rong.zhang@easystack.cn", "rongzhang@alauda.io"]
+        },
+        {
             "launchpad_id": "rony.sun",
             "companies": [
                 {
