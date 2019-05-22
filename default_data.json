@@ -11331,6 +11331,17 @@
             "emails": ["henrique@lsd.ufcg.edu.br", "henriquecostatruta@gmail.com"]
         },
         {
+            "launchpad_id": "herveberaud",
+            "companies": [
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hervé Beraud",
+            "emails": ["herveberaud.pro@gmail.com", "hberaud@redhat.com"]
+        },
+        {
             "launchpad_id": "heut2008",
             "companies": [
                 {
@@ -37624,6 +37635,36 @@
             "uri": "https://github.com/tektoncd/website.git"
         },
         {
+            "module": "catalog@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/catalog.git"
+        },
+        {
+            "module": "dashboard@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/dashboard.git"
+        },
+        {
+            "module": "experimental@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/experimental.git"
+        },
+        {
+            "module": "cli@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/cli.git"
+        },
+        {
+            "module": "plumbing@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/plumbing.git"
+        },
+        {
+            "module": "community@tekton",
+            "organization": "tekton",
+            "uri": "https://github.com/tektoncd/community.git"
+        },
+        {
             "module": "kubeflow",
             "organization": "kubeflow",
             "uri": "https://github.com/kubeflow/kubeflow.git"
@@ -37732,6 +37773,11 @@
             "module": "kfserving@kubeflow",
             "organization": "kubeflow",
             "uri": "https://github.com/kubeflow/kfserving.git"
+        },
+        {
+            "module": "manifests@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/manifests.git"
         },
         {
             "module": "kubespray",
@@ -39130,12 +39176,13 @@
                 "arena@kubeflow", "pytorch-operator@kubeflow", "tf-operator@kubeflow", "fairing@kubeflow",
                 "testing@kubeflow", "crd-validation@kubeflow", "mxnet-operator@kubeflow", "batch-predict@kubeflow",
                 "chainer-operator@kubeflow", "mpi-operator@kubeflow", "example-seldon@kubeflow", "common@kubeflow",
-                "metadata@kubeflow", "kfserving@kubeflow"
+                "metadata@kubeflow", "kfserving@kubeflow", "manifests@kubeflow"
             ]
         },
         {
             "module_group_name": "tekton-group",
-            "modules": ["pipeline@tekton", "website@tekton"]
+            "modules": ["pipeline@tekton", "website@tekton", "catalog@tekton", "dashboard@tekton",
+              "experimental@tekton", "cli@tekton", "plumbing@tekton", "community@tekton"]
         }
     ],
     "releases": [
@@ -39516,7 +39563,7 @@
             "modules": [
                 "ansible-group", "ceph-group", "concourse-group", "docker-group", "fdio-group", "istio-group",
                 "knative-group", "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs",
-                "pypa-group", "spinnaker", "opendaylight", "kubernetes-group"
+                "pypa-group", "spinnaker", "opendaylight", "kubernetes-group", "tekton-group"
             ]
         },
         {
