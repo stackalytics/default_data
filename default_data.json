@@ -15512,6 +15512,17 @@
             "emails": ["zhao.kaia@h3c.com"]
         },
         {
+          "github_id": "yylt",
+          "companies": [
+            {
+              "company_name": "H3C",
+              "end_date": null
+            }
+          ],
+          "user_name": "yang yang",
+          "emails": ["yang.yangB@h3c.com"]
+        },
+        {
             "launchpad_id": "keith-berger",
             "github_id": "KeithMnemonic",
             "companies": [
