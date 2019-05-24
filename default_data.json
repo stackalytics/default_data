@@ -38131,26 +38131,22 @@
         {
             "module": "pip",
             "organization": "pypa",
-            "uri": "https://github.com/pypa/pip.git",
-            "default_branch": "develop"
+            "uri": "https://github.com/pypa/pip.git"
         },
         {
             "module": "warehouse",
             "organization": "pypa",
-            "uri": "https://github.com/pypa/warehouse.git",
-            "default_branch": "master"
+            "uri": "https://github.com/pypa/warehouse.git"
         },
         {
             "module": "twine",
             "organization": "pypa",
-            "uri": "https://github.com/pypa/twine.git",
-            "default_branch": "master"
+            "uri": "https://github.com/pypa/twine.git"
         },
         {
             "module": "virtualenv",
             "organization": "pypa",
-            "uri": "https://github.com/pypa/virtualenv.git",
-            "default_branch": "develop"
+            "uri": "https://github.com/pypa/virtualenv.git"
         },
         {
             "module": "ovs",
