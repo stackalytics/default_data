@@ -842,6 +842,17 @@
             "user_name": "Lingming Xia",
             "emails": ["344905745@qq.com", "lmxia@alauda.io"]
         },
+	{
+            "github_id": "ruijzhan",
+            "companies": [
+                {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ruijian Zhang",
+            "emails": ["qiudog825@gmail.com", "zhang.ruijian@h3c.com"]
+        }, 
         {
             "github_id": "FilipB",
             "companies": [
