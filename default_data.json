@@ -36021,9 +36021,15 @@
                     "tag_from": "17.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/stein",
                     "tag_to": "HEAD",
                     "release_name": "Stein",
                     "tag_from": "18.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "19.0.0.0rc1"
                 }
             ],
             "uri": "https://opendev.org/openstack/nova.git",
@@ -36107,9 +36113,15 @@
                     "tag_from": "13.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/stein",
                     "tag_to": "HEAD",
                     "release_name": "Stein",
                     "tag_from": "14.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "15.0.0.0rc1"
                 }
             ],
             "uri": "https://opendev.org/openstack/keystone.git",
@@ -36188,9 +36200,15 @@
                     "tag_from": "12.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/stein",
                     "tag_to": "HEAD",
                     "release_name": "Stein",
                     "tag_from": "13.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "14.0.0.0rc1"
                 }
             ],
             "uri": "https://opendev.org/openstack/cinder.git",
@@ -36274,9 +36292,15 @@
                     "tag_from": "16.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/stein",
                     "tag_to": "HEAD",
                     "release_name": "Stein",
                     "tag_from": "17.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "18.0.0.0rc1"
                 }
             ],
             "uri": "https://opendev.org/openstack/glance.git",
@@ -36360,9 +36384,15 @@
                     "tag_from": "12.0.0.0rc2"
                 },
                 {
+                    "branch": "stable/stein",
                     "tag_to": "HEAD",
                     "release_name": "Stein",
                     "tag_from": "13.0.0.0rc2"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "14.0.0.0rc1"
                 },
                 {
                     "branch": "feature/pecan",
@@ -36458,9 +36488,15 @@
                     "tag_from": "13.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/stein",
                     "tag_to": "HEAD",
                     "release_name": "Stein",
                     "tag_from": "14.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "15.0.0.0rc1"
                 }
             ],
             "uri": "https://opendev.org/openstack/horizon.git",
@@ -36538,9 +36574,21 @@
                     "tag_from": "2.15.1"
                 },
                 {
-                    "tag_to": "2.19.0",
+                    "branch": "stable/rocky",
+                    "tag_to": "HEAD",
                     "release_name": "Rocky",
                     "tag_from": "2.17.0"
+                },
+                {
+                    "branch": "stable/stein",
+                    "tag_to": "HEAD",
+                    "release_name": "Stein",
+                    "tag_from": "2.19.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "2.21.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/swift.git",
@@ -36603,6 +36651,26 @@
                     "tag_to": "3.13.0",
                     "release_name": "Pike",
                     "tag_from": "3.10.0"
+                },
+                {
+                    "tag_to": "3.15.0",
+                    "release_name": "Queens",
+                    "tag_from": "3.13.0"
+                },
+                {
+                    "tag_to": "3.17.0",
+                    "release_name": "Rocky",
+                    "tag_from": "3.15.0"
+                },
+                {
+                    "tag_to": "3.19.0",
+                    "release_name": "Stein",
+                    "tag_from": "3.17.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "3.19.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-keystoneclient.git",
@@ -36665,6 +36733,26 @@
                     "tag_to": "9.1.1",
                     "release_name": "Pike",
                     "tag_from": "7.1.0"
+                },
+                {
+                    "tag_to": "10.1.0",
+                    "release_name": "Queens",
+                    "tag_from": "9.1.1"
+                },
+                {
+                    "tag_to": "11.0.0",
+                    "release_name": "Rocky",
+                    "tag_from": "10.1.0"
+                },
+                {
+                    "tag_to": "13.0.0",
+                    "release_name": "Stein",
+                    "tag_from": "11.0.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "13.0.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-novaclient.git",
@@ -36719,9 +36807,29 @@
                     "tag_from": "1.9.0"
                 },
                 {
-                    "tag_to": "3.2.0",
+                    "tag_to": "3.1.1",
                     "release_name": "Pike",
                     "tag_from": "1.11.0"
+                },
+                {
+                    "tag_to": "3.5.0",
+                    "release_name": "Queens",
+                    "tag_from": "3.1.1"
+                },
+                {
+                    "tag_to": "4.0.2",
+                    "release_name": "Rocky",
+                    "tag_from": "3.5.0"
+                },
+                {
+                    "tag_to": "4.2.0",
+                    "release_name": "Stein",
+                    "tag_from": "4.0.2"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "4.2.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-cinderclient.git",
@@ -36779,6 +36887,26 @@
                     "tag_to": "2.8.0",
                     "release_name": "Pike",
                     "tag_from": "2.6.0"
+                },
+                {
+                    "tag_to": "2.10.1",
+                    "release_name": "Queens",
+                    "tag_from": "2.8.0"
+                },
+                {
+                    "tag_to": "2.13.1",
+                    "release_name": "Rocky",
+                    "tag_from": "2.10.1"
+                },
+                {
+                    "tag_to": "2.16.0",
+                    "release_name": "Stein",
+                    "tag_from": "2.13.1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "2.16.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-glanceclient.git",
@@ -36841,6 +36969,26 @@
                     "tag_to": "6.5.0",
                     "release_name": "Pike",
                     "tag_from": "6.1.0"
+                },
+                {
+                    "tag_to": "6.7.0",
+                    "release_name": "Queens",
+                    "tag_from": "6.5.0"
+                },
+                {
+                    "tag_to": "6.9.1",
+                    "release_name": "Rocky",
+                    "tag_from": "6.7.0"
+                },
+                {
+                    "tag_to": "6.12.0",
+                    "release_name": "Stein",
+                    "tag_from": "6.9.1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "6.12.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-neutronclient.git",
@@ -36898,6 +37046,26 @@
                     "tag_to": "3.4.0",
                     "release_name": "Pike",
                     "tag_from": "3.3.0"
+                },
+                {
+                    "tag_to": "3.5.0",
+                    "release_name": "Queens",
+                    "tag_from": "3.4.0"
+                },
+                {
+                    "tag_to": "3.6.0",
+                    "release_name": "Rocky",
+                    "tag_from": "3.5.0"
+                },
+                {
+                    "tag_to": "3.7.0",
+                    "release_name": "Stein",
+                    "tag_from": "3.6.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "3.7.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-swiftclient.git",
@@ -36971,9 +37139,15 @@
                     "tag_from": "10.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/stein",
                     "tag_to": "HEAD",
                     "release_name": "Stein",
                     "tag_from": "11.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "12.0.0.0rc1"
                 }
             ],
             "uri": "https://opendev.org/openstack/heat.git",
@@ -37031,6 +37205,26 @@
                     "tag_to": "1.11.0",
                     "release_name": "Pike",
                     "tag_from": "1.8.0"
+                },
+                {
+                    "tag_to": "1.14.1",
+                    "release_name": "Queens",
+                    "tag_from": "1.11.0"
+                },
+                {
+                    "tag_to": "1.16.2",
+                    "release_name": "Rocky",
+                    "tag_from": "1.14.1"
+                },
+                {
+                    "tag_to": "1.17.0",
+                    "release_name": "Stein",
+                    "tag_from": "1.16.2"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "1.17.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-heatclient.git",
@@ -37093,9 +37287,21 @@
                     "tag_from": "9.0.1"
                 },
                 {
-                    "tag_to": "11.0.0",
+                    "branch": "stable/rocky",
+                    "tag_to": "HEAD",
                     "release_name": "Rocky",
                     "tag_from": "10.0.0"
+                },
+                {
+                    "branch": "stable/stein",
+                    "tag_to": "HEAD",
+                    "release_name": "Stein",
+                    "tag_from": "11.0.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "12.0.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/ceilometer.git",
@@ -37337,9 +37543,15 @@
                     "tag_from": "8.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/stein",
                     "tag_to": "HEAD",
                     "release_name": "Stein",
                     "tag_from": "9.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "10.0.0.0rc1"
                 }
             ]
         },
@@ -37407,8 +37619,28 @@
                 },
                 {
                     "tag_to": "1.3.0",
-                    "release_name": "Ocata",
+                    "release_name": "Pike",
                     "tag_from": "1.1.0"
+                },
+                {
+                    "tag_to": "1.5.0",
+                    "release_name": "Queens",
+                    "tag_from": "1.3.0"
+                },
+                {
+                    "tag_to": "2.0.0",
+                    "release_name": "Rocky",
+                    "tag_from": "1.5.0"
+                },
+                {
+                    "tag_to": "2.2.0",
+                    "release_name": "Stein",
+                    "tag_from": "2.0.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "2.2.0"
                 }
             ]
         },
