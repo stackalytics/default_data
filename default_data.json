@@ -41,6 +41,16 @@
             "user_name": "Grant Hoffman",
             "emails": ["grantleehoffman@gmail.com"]
         },
+		{
+            "companies": [
+                {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Feng Xin",
+            "emails": ["Neil_Feng@foxmail.com", "feng.xin@h3c.com"]
+        },
         {
             "companies": [
                 {
