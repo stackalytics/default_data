@@ -14,6 +14,16 @@
         {
             "companies": [
                 {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bevisy",
+            "emails": ["binbin36520@gmail.com", "zhang.binbin@h3c.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "Sorint.lab",
                     "end_date": null
                 }
