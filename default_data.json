@@ -14374,7 +14374,8 @@
             ],
             "user_name": "Michael Johnson",
             "emails": [
-                "johnsom@hp.com", "johnsomor@gmail.com", "michael.d.johnson@hpe.com", "michael.johnsonus@rackspace.com", "michjohn@redhat.com"
+                "johnsom@hp.com", "johnsomor@gmail.com", "michael.d.johnson@hpe.com", "michael.johnsonus@rackspace.com",
+                "michjohn@redhat.com"
             ]
         },
         {
@@ -30128,7 +30129,7 @@
             "user_name": "warmchang",
             "emails": ["zhang.wanmin@zte.com.cn", "warmchang@outlook.com", "warmchang@163.com"]
         },
-	{
+        {
             "launchpad_id": "wasaac",
             "github_id": "Wasaac",
             "companies": [
@@ -39413,8 +39414,10 @@
         },
         {
             "module_group_name": "tekton-group",
-            "modules": ["pipeline@tekton", "website@tekton", "catalog@tekton", "dashboard@tekton",
-              "experimental@tekton", "cli@tekton", "plumbing@tekton", "community@tekton"]
+            "modules": [
+                "pipeline@tekton", "website@tekton", "catalog@tekton", "dashboard@tekton",
+                "experimental@tekton", "cli@tekton", "plumbing@tekton", "community@tekton"
+            ]
         }
     ],
     "releases": [
