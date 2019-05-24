@@ -24,6 +24,16 @@
         {
             "companies": [
                 {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "ZHAO Yao",
+            "emails": ["ytinirt@qq.com", "zhao.yao@h3c.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "CoreOS",
                     "end_date": null
                 }
