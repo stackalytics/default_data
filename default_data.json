@@ -22,6 +22,16 @@
             "emails": ["binbin36520@gmail.com", "zhang.binbin@h3c.com"]
         },
         {
+          "companies": [
+            {
+              "company_name": "H3C",
+              "end_date": null
+            }
+          ],
+          "user_name": "eleven",
+          "emails": ["looker_pc@163.com", "zhang.pengchenga@h3c.com"]
+        },
+        {
             "companies": [
                 {
                     "company_name": "Sorint.lab",
