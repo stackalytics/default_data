@@ -7670,6 +7670,10 @@
                 },
                 {
                     "company_name": "Huawei",
+                    "end_date": "2019-May-15"
+                },
+                {
+                    "company_name": "Futurewei",
                     "end_date": null
                 }
             ],
@@ -16489,6 +16493,10 @@
                 },
                 {
                     "company_name": "Huawei",
+                    "end_date": "2019-May-15"
+                },
+                {
+                    "company_name": "Futurewei",
                     "end_date": null
                 }
             ],
@@ -20068,13 +20076,18 @@
             "companies": [
                 {
                     "company_name": "Huawei",
+                    "end_date": "2019-May-15"
+                },
+                {
+                    "company_name": "Futurewei",
                     "end_date": null
                 }
             ],
             "user_name": "Melvin Hillsman",
             "emails": [
                 "melvin.hillsman@huawei.com",
-                "mrhillsman@gmail.com"
+                "mrhillsman@gmail.com",
+                "melvin.hillsman@futurewei.com"
             ]
         },
         {
@@ -20086,6 +20099,10 @@
                 },
                 {
                     "company_name": "Huawei",
+                    "end_date": "2019-May-15"
+                },
+                {
+                    "company_name": "Futurewei",
                     "end_date": null
                 }
             ],
@@ -25344,6 +25361,10 @@
                 },
                 {
                     "company_name": "Huawei",
+                    "end_date": "2019-May-15"
+                },
+                {
+                    "company_name": "Futurewei",
                     "end_date": null
                 }
             ],
@@ -25353,7 +25374,8 @@
                 "sean.mcginnis@dell.com",
                 "sean.mcginnis@gmail.com",
                 "sean.mcginnis@gmx.com",
-                "sean.mcginnis@huawei.com"
+                "sean.mcginnis@huawei.com",
+                "sean.mcginnis@futurewei.com"
             ]
         },
         {
