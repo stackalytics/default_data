@@ -84,6 +84,16 @@
         {
             "companies": [
                 {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wj24021040",
+            "emails": ["wj24021040@163.com", "wang.jianC@h3c.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "Microsoft",
                     "end_date": null
                 }
