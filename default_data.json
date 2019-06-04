@@ -8450,6 +8450,18 @@
             "emails": ["dustin.specker@att.com", "ds7900@att.com"]
         },
         {
+            "launchpad_id": "dviroel",
+            "github_id": "viroel",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Douglas Viroel",
+            "emails": ["viroel@gmail.com", "douglas.viroel@fit-tecnologia.org.br", "douglas.viroel@netapp.com"]
+        },
+        {
             "launchpad_id": "dweimer",
             "companies": [
                 {
