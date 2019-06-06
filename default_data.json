@@ -902,7 +902,7 @@
             ],
             "user_name": "Ruijian Zhang",
             "emails": ["qiudog825@gmail.com", "zhang.ruijian@h3c.com"]
-        }, 
+        },
         {
             "github_id": "FilipB",
             "companies": [
@@ -15732,6 +15732,21 @@
             "emails": [
                 "blak111@gmail.com", "kevin.benton@bigswitch.com", "kevinbenton@buttewifi.com", "kevin@benton.pub"
             ]
+        },
+        {
+            "launchpad_id": "kevin-carter",
+            "companies": [
+                {
+                    "company_name": "Rackspace",
+                    "end_date": "2019-May-03"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Kevin Carter (Cloudnull)",
+            "emails": ["kevin@cloudnull.com", "kecarter@redhat.com"]
         },
         {
             "launchpad_id": "kevinconway",
