@@ -9060,6 +9060,17 @@
             "emails": ["eric_xiett@163.com"]
         },
         {
+            "launchpad_id": "dreadbird",
+            "companies": [
+                {
+                  "company_name": "Inspur",
+                  "end_date": null
+                }
+            ],
+            "user_name": "Caleb Wang",
+            "emails": ["wang_gang@inspur.com"]
+        },
+        {
             "github_id": "erikh",
             "companies": [
                 {
