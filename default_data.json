@@ -39121,6 +39121,11 @@
             "module": "airship-utils",
             "uri": "https://opendev.org/airship/utils.git",
             "organization": "openstack"
+        },
+        {
+            "module": "istio-forked",
+            "organization": "cloudfoundry",
+            "uri": "git://github.com/cloudfoundry/istio.git"
         }
     ],
     "project_sources": [
