@@ -37928,6 +37928,11 @@
             "uri": "https://github.com/istio/istio.github.io.git"
         },
         {
+            "module": "istio.io@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/istio.io.git"
+        },
+        {
             "module": "test-infra@istio",
             "organization": "istio",
             "uri": "https://github.com/istio/test-infra.git"
@@ -39545,7 +39550,7 @@
         {
             "module_group_name": "istio-group",
             "modules": [
-                "istio", "proxy@istio", "istio.github.io", "test-infra@istio",
+                "istio", "proxy@istio", "istio.github.io", "istio.io@istio", "test-infra@istio",
                 "api@istio", "community@istio", "mixerclient", "admin-sites", "fortio"
             ]
         },
