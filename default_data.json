@@ -1,6 +1,21 @@
 {
     "users": [
         {
+            "launchpad_id": "galmargalit",
+            "companies": [
+                {
+                    "company_name": "Alcatel-Lucent",
+                    "end_date": "2016-Jan-14"
+                },
+                {
+                    "company_name": "Nokia",
+                    "end_date": "2019-Feb-14"
+                }
+            ],
+            "user_name": "Gal Margalit",
+            "emails": ["galmargalit@gmail.com", "gal.margalit@alcatel-lucent.com", "gal.margalit@nokia.com"]
+        },
+        {
             "launchpad_id": "luubh",
             "companies": [
                 {
