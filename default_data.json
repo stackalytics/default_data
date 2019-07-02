@@ -1,32 +1,6 @@
 {
     "users": [
         {
-            "launchpad_id": "galmargalit",
-            "companies": [
-                {
-                    "company_name": "Alcatel-Lucent",
-                    "end_date": "2016-Jan-14"
-                },
-                {
-                    "company_name": "Nokia",
-                    "end_date": "2019-Feb-14"
-                }
-            ],
-            "user_name": "Gal Margalit",
-            "emails": ["galmargalit@gmail.com", "gal.margalit@alcatel-lucent.com", "gal.margalit@nokia.com"]
-        },
-        {
-            "launchpad_id": "luubh",
-            "companies": [
-                {
-                    "company_name": "Cloudrity",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Bui Hoang Luu",
-            "emails": ["luugu196@gmail.com", "luubh@viettel.com.vn"]
-        },
-        {
             "companies": [
                 {
                     "company_name": "H3C",
@@ -37,14 +11,14 @@
             "emails": ["binbin36520@gmail.com", "zhang.binbin@h3c.com"]
         },
         {
-          "companies": [
-            {
-              "company_name": "H3C",
-              "end_date": null
-            }
-          ],
-          "user_name": "eleven",
-          "emails": ["looker_pc@163.com", "zhang.pengchenga@h3c.com"]
+            "companies": [
+                {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "eleven",
+            "emails": ["looker_pc@163.com", "zhang.pengchenga@h3c.com"]
         },
         {
             "companies": [
@@ -86,7 +60,7 @@
             "user_name": "Grant Hoffman",
             "emails": ["grantleehoffman@gmail.com"]
         },
-		{
+        {
             "companies": [
                 {
                     "company_name": "H3C",
@@ -906,17 +880,6 @@
             ],
             "user_name": "Lingming Xia",
             "emails": ["344905745@qq.com", "lmxia@alauda.io"]
-        },
-	{
-            "github_id": "ruijzhan",
-            "companies": [
-                {
-                    "company_name": "H3C",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Ruijian Zhang",
-            "emails": ["qiudog825@gmail.com", "zhang.ruijian@h3c.com"]
         },
         {
             "github_id": "FilipB",
@@ -8160,6 +8123,17 @@
             ]
         },
         {
+            "launchpad_id": "dreadbird",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Caleb Wang",
+            "emails": ["wang_gang@inspur.com"]
+        },
+        {
             "launchpad_id": "dreidellhasa",
             "companies": [
                 {
@@ -9075,17 +9049,6 @@
             "emails": ["eric_xiett@163.com"]
         },
         {
-            "launchpad_id": "dreadbird",
-            "companies": [
-                {
-                  "company_name": "Inspur",
-                  "end_date": null
-                }
-            ],
-            "user_name": "Caleb Wang",
-            "emails": ["wang_gang@inspur.com"]
-        },
-        {
             "github_id": "erikh",
             "companies": [
                 {
@@ -9832,6 +9795,17 @@
             "emails": ["yuuichi-fujioka@zx.mxh.nes.nec.co.jp", "fujioka.yuuichi@gmail.com"]
         },
         {
+            "launchpad_id": "fundwit",
+            "companies": [
+                {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Tianxin Yang",
+            "emails": ["fundwit@qq.com"]
+        },
+        {
             "launchpad_id": "fungi",
             "companies": [
                 {
@@ -9860,17 +9834,6 @@
             ],
             "user_name": "Marcus Furlong",
             "emails": ["furlongm@unimelb.edu.au", "marcus@aptira.com", "furlongm@gmail.com"]
-        },
-        {
-            "launchpad_id": "fundwit",
-            "companies": [
-                {
-                    "company_name": "H3C",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Tianxin Yang",
-            "emails": ["fundwit@qq.com"]
         },
         {
             "launchpad_id": "fuzhaokun",
@@ -9952,6 +9915,25 @@
             ],
             "user_name": "Gaurav Gupta",
             "emails": ["gaurav@denali-systems.com"]
+        },
+        {
+            "launchpad_id": "galmargalit",
+            "companies": [
+                {
+                    "company_name": "Alcatel-Lucent",
+                    "end_date": "2016-Jan-14"
+                },
+                {
+                    "company_name": "Nokia",
+                    "end_date": "2019-Feb-14"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Gal Margalit",
+            "emails": ["galmargalit@gmail.com", "gal.margalit@alcatel-lucent.com", "gal.margalit@nokia.com"]
         },
         {
             "launchpad_id": "gandelman-a",
@@ -14148,6 +14130,25 @@
             "emails": ["josh.kearney@pistoncloud.com", "josh@jk0.org", "josh.kearney@rackspace.com"]
         },
         {
+            "launchpad_id": "jkabhishek",
+            "companies": [
+                {
+                    "company_name": "Imaginea Technologies Inc.",
+                    "end_date": "2018-Mar-20"
+                },
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Abhishek Kumar Jaiswal",
+            "emails": [
+                "aj355y@att.com", "abhishek.kumar.jaiswal@ericsson.com",
+                "reach.abhishekj@gmail.com", "abhishekjaiswal.kol@gmail.com",
+                "abhishek.jaiswal@imaginea.com"
+            ]
+        },
+        {
             "github_id": "jkandasa",
             "companies": [
                 {
@@ -15627,17 +15628,6 @@
             "emails": ["zhao.kaia@h3c.com"]
         },
         {
-          "github_id": "yylt",
-          "companies": [
-            {
-              "company_name": "H3C",
-              "end_date": null
-            }
-          ],
-          "user_name": "yang yang",
-          "emails": ["yang.yangB@h3c.com"]
-        },
-        {
             "launchpad_id": "keith-berger",
             "github_id": "KeithMnemonic",
             "companies": [
@@ -15724,6 +15714,21 @@
             "emails": ["ikeontang@gmail.com", "tangjiyuan@caicloud.io"]
         },
         {
+            "launchpad_id": "kevin-carter",
+            "companies": [
+                {
+                    "company_name": "Rackspace",
+                    "end_date": "2019-May-03"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Kevin Carter (Cloudnull)",
+            "emails": ["kevin@cloudnull.com", "kecarter@redhat.com"]
+        },
+        {
             "launchpad_id": "kevin-zhao",
             "companies": [
                 {
@@ -15758,21 +15763,6 @@
             "emails": [
                 "blak111@gmail.com", "kevin.benton@bigswitch.com", "kevinbenton@buttewifi.com", "kevin@benton.pub"
             ]
-        },
-        {
-            "launchpad_id": "kevin-carter",
-            "companies": [
-                {
-                    "company_name": "Rackspace",
-                    "end_date": "2019-May-03"
-                },
-                {
-                    "company_name": "Red Hat",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Kevin Carter (Cloudnull)",
-            "emails": ["kevin@cloudnull.com", "kecarter@redhat.com"]
         },
         {
             "launchpad_id": "kevinconway",
@@ -17947,6 +17937,17 @@
             ],
             "user_name": "Tao Lu",
             "emails": ["lutao@qiniu.com", "lutaoact@hotmail.com"]
+        },
+        {
+            "launchpad_id": "luubh",
+            "companies": [
+                {
+                    "company_name": "Cloudrity",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bui Hoang Luu",
+            "emails": ["luugu196@gmail.com", "luubh@viettel.com.vn"]
         },
         {
             "launchpad_id": "luwei",
@@ -23256,25 +23257,6 @@
             "emails": ["rob@jive-videos.net", "rcoward@ukcloud.com"]
         },
         {
-            "launchpad_id": "jkabhishek",
-            "companies": [
-                {
-                    "company_name": "Imaginea Technologies Inc.",
-                    "end_date":  "2018-Mar-20"
-                },
-                {
-                    "company_name": "Ericsson",
-                    "end_date":  null
-                }
-            ],
-            "user_name": "Abhishek Kumar Jaiswal",
-            "emails": [
-                "aj355y@att.com", "abhishek.kumar.jaiswal@ericsson.com",
-                "reach.abhishekj@gmail.com", "abhishekjaiswal.kol@gmail.com",
-                "abhishek.jaiswal@imaginea.com"
-            ]
-        },
-        {
             "launchpad_id": "reachharkirat",
             "companies": [
                 {
@@ -24487,6 +24469,17 @@
             ],
             "user_name": "Ruchi Parmar",
             "emails": ["ruchiparmar143@ymail.com", "cuz150@my.utsa.edu", "ruchip143@gmail.com"]
+        },
+        {
+            "github_id": "ruijzhan",
+            "companies": [
+                {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ruijian Zhang",
+            "emails": ["qiudog825@gmail.com", "zhang.ruijian@h3c.com"]
         },
         {
             "launchpad_id": "rupakg",
@@ -32409,6 +32402,17 @@
             "emails": ["yyb196@gmail.com"]
         },
         {
+            "github_id": "yylt",
+            "companies": [
+                {
+                    "company_name": "H3C",
+                    "end_date": null
+                }
+            ],
+            "user_name": "yang yang",
+            "emails": ["yang.yangB@h3c.com"]
+        },
+        {
             "launchpad_id": "yyuanyuee",
             "companies": [
                 {
@@ -34223,6 +34227,11 @@
             "company_name": "Cloudin"
         },
         {
+            "domains": ["cloudrity.com", "cloudrity.com.vn", "cloudrity.org"],
+            "company_name": "Cloudrity",
+            "aliases": ["Viettel Cyber Security Company"]
+        },
+        {
             "domains": ["cloudscaling.com"],
             "company_name": "Cloudscaling"
         },
@@ -34537,6 +34546,13 @@
             "domains": ["fujitsu.com"],
             "company_name": "Fujitsu",
             "aliases": ["FUJITSU HOKURIKU SYSTEMS LIMITED"]
+        },
+        {
+            "domains": ["futurewei.com"],
+            "company_name": "Futurewei",
+            "aliases": [
+                "Futurewei", "Futurewei Technologies Inc", "FutureWei Technologies Inc"
+            ]
         },
         {
             "domains": ["getchef.com", "opscode.com"],
@@ -35932,11 +35948,6 @@
             "domains": ["viettel.com.vn", "vietteltelecom.vn", "viettelidc.com.vn"],
             "company_name": "Viettel",
             "aliases": ["Viettel Group"]
-        },
-        {
-            "domains": ["cloudrity.com", "cloudrity.com.vn", "cloudrity.org"],
-            "company_name": "Cloudrity",
-            "aliases": ["Viettel Cyber Security Company"]
         },
         {
             "domains": ["virtualtech.jp"],
@@ -39824,6 +39835,8 @@
         }
     ],
     "mail_lists": [
+        "http://lists.airshipit.org/pipermail/airship-announce/",
+        "http://lists.airshipit.org/pipermail/airship-discuss/",
         "http://lists.openstack.org/pipermail/openstack-dev/",
         "http://lists.openstack.org/pipermail/openstack-docs/",
         "http://lists.openstack.org/pipermail/openstack-i18n/",
