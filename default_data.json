@@ -2647,6 +2647,17 @@
             "emails": ["anish@chelsio.com", "anish7@gmail.com", "anish.bhatt@salesforce.com"]
         },
         {
+            "launchpad_id": "ankit-dhn31",
+            "companies": [
+                {
+                    "company_name": "HPE",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ankit Kumar",
+            "emails": ["ankit.dhn31@gmail.com"]
+        },
+        {
             "launchpad_id": "ankita-wagh7",
             "companies": [
                 {
@@ -3470,6 +3481,29 @@
             ],
             "user_name": "Avishay Traeger",
             "emails": ["avishay@gmail.com", "avishay@stratoscale.com", "avishay@il.ibm.com"]
+        },
+        {
+            "launchpad_id": "avlasov",
+            "github_id": "avlasov-mos-de",
+            "companies": [
+                {
+                    "company_name": "Mirantis",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Alexander Vlasov",
+            "emails": ["avlasov@mirantis.com", "av066y@att.com"]
+        },
+        {
+            "launchpad_id": "awchenjun83",
+            "companies": [
+                {
+                    "company_name": "Awcloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "AWCHENjun",
+            "emails": ["chenjun@awcloud.com"]
         },
         {
             "launchpad_id": "azher-ullah-khan",
@@ -5235,6 +5269,17 @@
             "emails": ["cheneydc@gmail.com", "dongc@neunn.com", "kkkodc@126.com"]
         },
         {
+            "launchpad_id": "chengmei",
+            "companies": [
+                {
+                    "company_name": "Awcloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "chengmei",
+            "emails": ["chengmei@awcloud.com"]
+        },
+        {
             "github_id": "chengweiv5",
             "companies": [
                 {
@@ -5949,6 +5994,10 @@
             "companies": [
                 {
                     "company_name": "NEC",
+                    "end_date": "2019-May-25"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -7261,6 +7310,17 @@
             ],
             "user_name": "Koichi Yoshigoe",
             "emails": ["koichi.yoshigoe@gmail.com", "yoshigoe@d-red.jp", "koichi.yoshigoe@mail.rakuten.com"]
+        },
+        {
+            "launchpad_id": "dejianfu",
+            "companies": [
+                {
+                    "company_name": "ZTE Corporation",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Fudejian",
+            "emails": ["fudejian1008@163.com"]
         },
         {
             "launchpad_id": "demoyuw",
@@ -9903,7 +9963,7 @@
                 }
             ],
             "user_name": "Gage Hugo",
-            "emails": ["gagehugo@gmail.com"]
+            "emails": ["gagehugo@gmail.com", "gh159m@att.com"]
         },
         {
             "launchpad_id": "gagupta",
@@ -11688,6 +11748,17 @@
             ],
             "user_name": "Hongchao Deng",
             "emails": ["hongchaodeng1@gmail.com"]
+        },
+        {
+            "launchpad_id": "honghui",
+            "companies": [
+                {
+                    "company_name": "Awcloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "xuhh@awcloud.com",
+            "emails": ["xuhh@awcloud.com"]
         },
         {
             "launchpad_id": "hougangliu",
@@ -13947,6 +14018,17 @@
             ],
             "user_name": "jiasen.lin",
             "emails": ["jiasen.lin@easystack.cn", "a383839105@qq.com"]
+        },
+        {
+            "launchpad_id": "jiasirui",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "JiaSiRui",
+            "emails": ["jiasirui@inspur.com"]
         },
         {
             "launchpad_id": "jikyll",
@@ -17683,6 +17765,18 @@
             "emails": ["logan@bacoosta.com"]
         },
         {
+            "launchpad_id": "loganv",
+            "github_id": "logan2211",
+            "companies": [
+                {
+                    "company_name": "Limestone Networks",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Logan V.",
+            "emails": ["logan2211@gmail.com", "logan@lstn.net"]
+        },
+        {
             "launchpad_id": "loic-nicolle",
             "zanata_id": "lnic",
             "companies": [
@@ -20139,6 +20233,14 @@
                 {
                     "company_name": "Rackspace",
                     "end_date": "2017-Apr-28"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": "2019-Jun-02"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
                 }
             ],
             "user_name": "Michael Davies",
@@ -20618,6 +20720,17 @@
             "emails": ["nerminamiller@gmail.com"]
         },
         {
+            "launchpad_id": "netdeer",
+            "companies": [
+                {
+                    "company_name": "Awcloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "John Hou",
+            "emails": ["houj@awcloud.com", "netdeer@163.com"]
+        },
+        {
             "launchpad_id": "neteric",
             "companies": [
                 {
@@ -20987,6 +21100,18 @@
             ],
             "user_name": "Muneyuki Noguchi",
             "emails": ["noguchimn@nttdata.co.jp"]
+        },
+        {
+            "launchpad_id": "nominedei",
+            "github_id": "okhart",
+            "companies": [
+                {
+                    "company_name": "Sberbank",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Artem Okhotnikov",
+            "emails": ["okhotnikov.artyom@mail.ru", "okhotnikov.a.vi@sberbank.ru"]
         },
         {
             "launchpad_id": "norihiko-kawai",
@@ -27342,11 +27467,15 @@
             "companies": [
                 {
                     "company_name": "Chinac",
+                    "end_date": "2019-May-27"
+                },
+                {
+                    "company_name": "Inspur",
                     "end_date": null
                 }
             ],
             "user_name": "suzhengwei",
-            "emails": ["sugar-2008@163.com", "suzhengwei@chinac.com"]
+            "emails": ["sugar-2008@163.com", "suzhengwei@inspur.com"]
         },
         {
             "github_id": "suigh",
@@ -28299,6 +28428,17 @@
             ],
             "user_name": "Tina Tang",
             "emails": ["tina.tang@emc.com"]
+        },
+        {
+            "github_id": "tizhou86",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ti Zhou",
+            "emails": ["zhouti@baidu.com", "tizhou1986@gmail.com"]
         },
         {
             "launchpad_id": "tjohns",
@@ -30822,6 +30962,17 @@
             "emails": ["xiaojunliao85@gmail.com"]
         },
         {
+            "launchpad_id": "wyan5566",
+            "companies": [
+                {
+                    "company_name": "Awcloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Michelle King",
+            "emails": ["wangyan@awcloud.com"]
+        },
+        {
             "launchpad_id": "xavpaice",
             "companies": [
                 {
@@ -31629,11 +31780,15 @@
             "companies": [
                 {
                     "company_name": "University of Melbourne",
+                    "end_date": "2018-Jun-30"
+                },
+                {
+                    "company_name": "Australian Research Data Commons",
                     "end_date": null
                 }
             ],
             "user_name": "Shi Yan",
-            "emails": ["yanshi.403@gmail.com", "shi.yan@unimelb.edu.au"]
+            "emails": ["yanshi.403@gmail.com", "shi.yan@unimelb.edu.au", "shi.yan@ardc.edu.au"]
         },
         {
             "launchpad_id": "yanwei",
@@ -33198,6 +33353,17 @@
             "emails": ["zhiguo.lee@foxmail.com", "lizg@fiberhome.com"]
         },
         {
+            "launchpad_id": "zhihua",
+            "companies": [
+                {
+                    "company_name": "Awcloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "hu",
+            "emails": ["huzh@awcloud.com"]
+        },
+        {
             "launchpad_id": "zhikunliu",
             "companies": [
                 {
@@ -33973,6 +34139,11 @@
             "company_name": "Bacoosta IT Services"
         },
         {
+            "domains": ["baidu.com"],
+            "company_name": "Baidu",
+            "aliases": ["Baidu", "Baidu Cloud", "Baidu Inc", "百度云"]
+        },
+        {
             "domains": ["bbc.co.uk", "rd.bbc.co.uk"],
             "company_name": "BBC"
         },
@@ -34478,12 +34649,12 @@
             "company_name": "EPAM Systems"
         },
         {
-            "domains": ["ericsson.com"],
+            "domains": ["ericsson.com", "est.tech"],
             "company_name": "Ericsson",
             "aliases": [
                 "Ericsson AB", "Ericsson Research", "Ericcson AB", "Ericsson Eurolab Deutschland GmbH",
                 "Ericsson India", "Ericsson Montreal", "Ericsson Hungary", "Ericsson China", "Ericsson Canada",
-                "Ericsson India Global Services"
+                "Ericsson India Global Services", "Ericsson Software Technology"
             ]
         },
         {
@@ -34975,6 +35146,10 @@
             "domains": ["lgcns.com"],
             "company_name": "LG CNS",
             "aliases": ["LG CNS"]
+        },
+        {
+            "domains": ["limestonenetworks.com", "lstn.net"],
+            "company_name": "Limestone Networks"
         },
         {
             "domains": ["limilo.com"],
