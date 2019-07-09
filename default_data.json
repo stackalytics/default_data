@@ -24346,11 +24346,15 @@
                 },
                 {
                     "company_name": "Ericsson",
+                    "end_date": "2018-Oct-22"
+                },
+                {
+                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
             "user_name": "Romil Gupta",
-            "emails": ["romil.gupta@ericsson.com", "romilgupta19@gmail.com", "romilg@hp.com", "romilg@hpe.com"]
+            "emails": ["romilg@vmware.com", "romil.gupta@ericsson.com", "romilgupta19@gmail.com", "romilg@hp.com", "romilg@hpe.com"]
         },
         {
             "launchpad_id": "ronak-malav-shah",
