@@ -9917,6 +9917,17 @@
             "user_name": "Nicolas Haller",
             "emails": ["nicolas@boiteameuh.org", "nicolas.haller@ormuco.com"]
         },
+	{
+            "launchpad_id": "sdmitriev1",
+            "companies": [
+                {
+                    "company_name": "Ormuco",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Stanislav Dmitriev",
+            "emails": ["sdmitriev1@gmail.com", "stanislav.dmitriev@ormuco.com"]
+        },
         {
             "launchpad_id": "gabor.antal",
             "companies": [
