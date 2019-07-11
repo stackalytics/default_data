@@ -18173,17 +18173,6 @@
             "emails": ["lzy.dev@gmail.com", "zhiyanl@cn.ibm.com"]
         },
         {
-            "launchpad_id": "m1p",
-            "companies": [
-                {
-                    "company_name": "vertical GmbH",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Mihai Plasoianu",
-            "emails": ["mihai@plasoianu.de", "m.plasoianu@vertical.de"]
-        },
-        {
             "launchpad_id": "m-koderer",
             "companies": [
                 {
@@ -18223,6 +18212,17 @@
             ],
             "user_name": "Cédric Ollivier",
             "emails": ["cedric.ollivier@orange.com", "ollivier.cedric@gmail.com"]
+        },
+        {
+            "launchpad_id": "m1p",
+            "companies": [
+                {
+                    "company_name": "vertical GmbH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Mihai Plasoianu",
+            "emails": ["mihai@plasoianu.de", "m.plasoianu@vertical.de"]
         },
         {
             "launchpad_id": "maciej-iai",
@@ -36123,12 +36123,12 @@
             "company_name": "Verizon Wireless"
         },
         {
-            "domains": ["vertical.de"],
-            "company_name": "vertical GmbH"
-        },
-        {
             "domains": ["versa-networks.com"],
             "company_name": "Versa Networks"
+        },
+        {
+            "domains": ["vertical.de"],
+            "company_name": "vertical GmbH"
         },
         {
             "domains": ["vexxhost.com"],
