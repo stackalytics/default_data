@@ -11,6 +11,17 @@
             "emails": ["binbin36520@gmail.com", "zhang.binbin@h3c.com"]
         },
         {
+            "github_id": "liamawhite",
+            "companies": [
+                {
+                    "company_name": "Tetrate",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Liam White",
+            "emails": ["liamawhite@gmail.com", "liam@tetrate.io", "liamwhite@uk.ibm.com"]
+        },
+        {
             "companies": [
                 {
                     "company_name": "H3C",
