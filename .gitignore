@@ -1,0 +1,5 @@
+.stestr/
+.tox/
+.idea
+venv/
+*.pyc
