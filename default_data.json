@@ -25793,21 +25793,6 @@
             "emails": ["sgolovatiuk@mirantis.com", "holser@gmail.com", "sgolovat@redhat.com"]
         },
         {
-            "launchpad_id": "shakhat",
-            "companies": [
-                {
-                    "company_name": "Mirantis",
-                    "end_date": "2017-May-31"
-                },
-                {
-                    "company_name": "Huawei",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Ilya Shakhat",
-            "emails": ["ishakhat@mirantis.com", "shakhat@gmail.com"]
-        },
-        {
             "launchpad_id": "shakhova-margarita",
             "github_id": "MargaritaShakhova",
             "companies": [
@@ -26735,6 +26720,21 @@
             ],
             "user_name": "Sergey Lukjanov",
             "emails": ["me@frostman.ru", "slukjanov@mirantis.com", "me@slukjanov.name"]
+        },
+        {
+            "launchpad_id": "shakhat",
+            "companies": [
+                {
+                    "company_name": "Mirantis",
+                    "end_date": "2017-May-31"
+                },
+                {
+                    "company_name": "Huawei",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ilya Shakhat",
+            "emails": ["ishakhat@mirantis.com", "shakhat@gmail.com"]
         },
         {
             "launchpad_id": "slupers1",
