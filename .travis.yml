@@ -5,7 +5,7 @@ jobs:
       language: python
 
       before_install:
-        - sudo pip install json-spec
+        - sudo pip install tox
 
       script:
-        - json validate --schema-file=schema.json --document-file=default_data.json
+        - tox -epy36
