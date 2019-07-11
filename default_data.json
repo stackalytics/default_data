@@ -2054,7 +2054,10 @@
                 }
             ],
             "user_name": "Alexander Hughes",
-            "emails": ["alexander.hughes@pm.me", "ah8742@att.com"]
+            "emails": [
+              "alexander.hughes@pm.me", "alexander.w.hughes@accenture.com",
+              "ah8742@att.com", "alexander.hughes@att.com"
+            ]
         },
         {
             "launchpad_id": "alexandra-settle",
@@ -3762,6 +3765,21 @@
             ],
             "user_name": "Brian Elliott",
             "emails": ["brian.elliott@rackspace.com", "bdelliott@gmail.com"]
+        },
+        {
+            "launchpad_id": "bence-romsics",
+            "companies": [
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bence Romsics",
+            "emails": [
+                "bence.romsics@gmail.com",
+                "bence.romsics@est.tech",
+                "bence.romsics@ericsson.com"
+            ]
         },
         {
             "launchpad_id": "benjenwong",
@@ -19855,6 +19873,17 @@
             "emails": ["kent.wu@hpe.com", "kwu@suse.com"]
         },
         {
+            "launchpad_id": "ministry.nd",
+            "companies": [
+                {
+                    "company_name": "VCCorp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bo Tran",
+            "emails": ["ministry.96.nd@gmail.com", "botranvan@vccorp.vn"]
+        },
+        {
             "launchpad_id": "miriamyumi",
             "companies": [
                 {
@@ -30241,6 +30270,17 @@
             "emails": ["wangjianhe@chinac.com"]
         },
         {
+            "launchpad_id": "wanglbj",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wanglbj",
+            "emails": ["wanglbj@inspur.com"]
+        },
+        {
             "launchpad_id": "wanglei7217",
             "companies": [
                 {
@@ -30420,6 +30460,17 @@
             ],
             "user_name": "wangzhh",
             "emails": ["wangzh21@lenovo.com", "wangzhh@awcloud.com", "wzh_1993@126.com"]
+        },
+        {
+            "launchpad_id": "wangzhiguang",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wangzhiguang",
+            "emails": ["wangzhiguang@inspur.com"]
         },
         {
             "launchpad_id": "wangzy-u",
