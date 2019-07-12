@@ -3,6 +3,16 @@
         {
             "companies": [
                 {
+                    "company_name": "Google",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Martin Taillefer",
+            "emails": ["mtail@google.com", "geeknoid@users.noreply.github.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "H3C",
                     "end_date": null
                 }
@@ -38222,11 +38232,6 @@
             "uri": "https://github.com/istio/proxy.git"
         },
         {
-            "module": "istio.github.io",
-            "organization": "istio",
-            "uri": "https://github.com/istio/istio.github.io.git"
-        },
-        {
             "module": "istio.io@istio",
             "organization": "istio",
             "uri": "https://github.com/istio/istio.io.git"
@@ -38247,19 +38252,29 @@
             "uri": "https://github.com/istio/community.git"
         },
         {
-            "module": "mixerclient",
+            "module": "pkg@istio",
             "organization": "istio",
-            "uri": "https://github.com/istio/mixerclient.git"
+            "uri": "https://github.com/istio/pkg.git"
         },
         {
-            "module": "admin-sites",
+            "module": "cni@istio",
             "organization": "istio",
-            "uri": "https://github.com/istio/admin-sites.git"
+            "uri": "https://github.com/istio/cni.git"
         },
         {
-            "module": "fortio",
+            "module": "operator@istio",
             "organization": "istio",
-            "uri": "https://github.com/istio/fortio.git"
+            "uri": "https://github.com/istio/operator.git"
+        },
+        {
+            "module": "installer@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/installer.git"
+        },
+        {
+            "module": "bots@istio",
+            "organization": "istio",
+             "uri": "https://github.com/istio/bots.git"
         },
         {
             "module": "serving@knative",
@@ -39849,8 +39864,8 @@
         {
             "module_group_name": "istio-group",
             "modules": [
-                "istio", "proxy@istio", "istio.github.io", "istio.io@istio", "test-infra@istio",
-                "api@istio", "community@istio", "mixerclient", "admin-sites", "fortio"
+                "istio", "proxy@istio", "istio.io@istio", "test-infra@istio",
+                "api@istio", "community@istio", "pkg@istio", "cni@istio", "operator@istio", "installer@istio"
             ]
         },
         {
