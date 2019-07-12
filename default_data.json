@@ -3,6 +3,36 @@
         {
             "companies": [
                 {
+                    "company_name": "Société Générale",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Victor coutellier",
+            "emails": ["victor.coutellier@gmail.com", "alistarle@gmail.com", "victor.coutellier@socgen.com"]
+        }, 
+        {
+            "companies": [
+                {
+                    "company_name": "Société Générale",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Grégoire Unbekandt",
+            "emails": ["gregoire.unbekandt@gmail.com", "gregoire.unbekandt@socgen.com"]
+        }, 
+        {
+            "companies": [
+                {
+                    "company_name": "Société Générale",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Issam Harrathi",
+            "emails": ["issamneo@gmail.com", "issam.harrathi-ext@socgen.com"]
+        }, 
+        {
+            "companies": [
+                {
                     "company_name": "H3C",
                     "end_date": null
                 }
@@ -34004,6 +34034,10 @@
             "domains": ["21viacloud.com"],
             "company_name": "21viacloud"
         },
+        {
+            "domains": ["socgen.com"],
+            "company_name": "Société Générale"
+        }, 
         {
             "domains": ["360.cn"],
             "company_name": "Qihoo 360 Technology Co"
