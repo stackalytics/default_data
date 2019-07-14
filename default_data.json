@@ -483,12 +483,20 @@
         {
             "companies": [
                 {
+                    "company_name": "IBM",
+                    "end_date": "2018-Feb-16"
+                },
+                {
                     "company_name": "VMware",
+                    "end_date": "2019-Mar-08"
+                },
+                {
+                    "company_name": "Tetrate",
                     "end_date": null
                 }
             ],
             "user_name": "Shriram Rajagopalan",
-            "emails": ["rshriram@users.noreply.github.com", "shriramr@vmware.com"]
+            "emails": ["rshriram@users.noreply.github.com", "shriram@us.ibm.com", "shriramr@vmware.com", "rshriram@tetrate.io", "rshriram@gmail.com"]
         },
         {
             "companies": [
