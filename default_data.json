@@ -9,7 +9,7 @@
             ],
             "user_name": "Victor coutellier",
             "emails": ["victor.coutellier@gmail.com", "alistarle@gmail.com", "victor.coutellier@socgen.com"]
-        }, 
+        },
         {
             "companies": [
                 {
@@ -34033,10 +34033,6 @@
         {
             "domains": ["21viacloud.com"],
             "company_name": "21viacloud"
-        },
-        {
-            "domains": ["socgen.com"],
-            "company_name": "Société Générale"
         }, 
         {
             "domains": ["360.cn"],
@@ -35874,6 +35870,10 @@
         {
             "domains": ["snabb.co"],
             "company_name": "Snabb"
+        },
+        {
+            "domains": ["socgen.com"],
+            "company_name": "Société Générale"
         },
         {
             "domains": ["softlayer.com"],
