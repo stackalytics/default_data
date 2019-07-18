@@ -32936,6 +32936,17 @@
             "emails": ["zhu.zeyu@zte.com.cn", "zhuzeyu0409@gmail.com"]
         },
         {
+            "github_id": "zgfh",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Alan zhu",
+            "emails": ["zg.zhu@daocloud.io", "zzg@daozzg.com"]
+        },
+        {
             "launchpad_id": "zhang-haixia",
             "companies": [
                 {
