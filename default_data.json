@@ -39390,6 +39390,11 @@
             "organization": "Vitess"
         },
         {
+            "module": "dragonfly",
+            "uri": "https://github.com/dragonflyoss/Dragonfly.git",
+            "organization": "Dragonfly"
+        },
+        {
             "module": "coredns",
             "uri": "https://github.com/coredns/coredns.git",
             "organization": "CoreDNS"
@@ -40214,7 +40219,7 @@
             "title": "CNCF",
             "modules": [
                 "kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess", "coredns", "linkerd", "helm", "cni",
-                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers"
+                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly"
             ]
         },
         {
@@ -40306,6 +40311,12 @@
             "title": "tuf",
             "child": true,
             "modules": ["tuf"]
+        },
+        {
+            "id": "dragonfly",
+            "title": "dragonfly",
+            "child": true,
+            "modules": ["dragonfly"]
         },
         {
             "id": "unaffiliated",
