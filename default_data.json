@@ -986,6 +986,28 @@
             "emails": ["tinysong1226@gmail.com", "songrongxiang@tenxcloud.com"]
         },
         {
+            "github_id": "Uzuku",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Zichao Ye",
+            "emails": ["yezichao@baidu.com"]
+        },
+        {
+            "github_id": "ZP-AlwaysWin",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Peng Zhang",
+            "emails": ["zhangpeng63@baidu.com"]
+        },
+        {
             "launchpad_id": "a-gorodnev",
             "companies": [
                 {
@@ -3148,6 +3170,19 @@
             "emails": [
                 "amigliaccio@nicira.com", "armando.migliaccio@eu.citrix.com", "amigliaccio@internap.com",
                 "armamig@gmail.com", "armando.migliaccio@citrix.com"
+            ]
+        },
+        {
+            "launchpad_id": "armitagewxj",
+            "companies": [
+                {
+                    "company_name": "Unaffliliated",
+                    "end_date": null
+                }
+            ],
+            "user_name": "ArmitageW",
+            "emails": [
+                "729071452@qq.com"
             ]
         },
         {
@@ -5840,6 +5875,17 @@
             "emails": ["claire921@gmail.com"]
         },
         {
+            "github_id": "clarklee92",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hao Li",
+            "emails": ["lihao35@baidu.com"]
+        },
+        {
             "launchpad_id": "clay-gerrard",
             "companies": [
                 {
@@ -6466,6 +6512,17 @@
             "emails": ["cuixiaoyu@163.com", "cui.xiaoyu@h3c.com"]
         },
         {
+            "github_id": "cwdsuzhou",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Weidong Cai",
+            "emails": ["cwdsuzhou@gmail.com"]
+        },
+        {
             "launchpad_id": "cweidenkeller",
             "companies": [
                 {
@@ -6785,7 +6842,7 @@
                 }
             ],
             "user_name": "Daniel Pawlik",
-            "emails": ["daniel.pawlik@corp.ovh.com"]
+            "emails": ["pawlik.dan@gmail.com", "daniel.pawlik@corp.ovh.com"]
         },
         {
             "github_id": "danielfbm",
@@ -9798,6 +9855,17 @@
             "emails": ["francotseng18@gmail.com"]
         },
         {
+            "github_id": "frankjiao",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jianfeng Jiao",
+            "emails": ["jiaojianfeng@baidu.com"]
+        },
+        {
             "launchpad_id": "freyadyu",
             "companies": [
                 {
@@ -11508,6 +11576,17 @@
             ],
             "user_name": "Heetae Ahn",
             "emails": ["heetae82.ahn@samsung.com", "irisis@gmail.com"]
+        },
+        {
+            "github_id": "hello2mao",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hongbin Mao",
+            "emails": ["maohongbin01@baidu.com"]
         },
         {
             "launchpad_id": "hellochosen",
@@ -14815,11 +14894,15 @@
             "companies": [
                 {
                     "company_name": "Rackspace",
+                    "end_date": "2017-Apr-27"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Joseph Robinson",
-            "emails": ["joseph.robinson@rackspace.com", "joseph.r.email@gmail.com"]
+            "emails": ["joseph.robinson@rackspace.com", "josephremail@gmail.com"]
         },
         {
             "launchpad_id": "joseph15",
@@ -15870,16 +15953,16 @@
             "launchpad_id": "kevin-zhao",
             "companies": [
                 {
-                    "company_name": "Linaro",
-                    "end_date": "2017-May-12"
+                    "company_name": "ARM",
+                    "end_date": "2018-Aug-25"
                 },
                 {
-                    "company_name": "ARM",
+                    "company_name": "Linaro",
                     "end_date": null
                 }
             ],
             "user_name": "Kevin Zhao",
-            "emails": ["kevin.zhao@linaro.org", "kevin.zhao@arm.com"]
+            "emails": ["kevin.zhao@linaro.org", "kevin.zhao@arm.com", "kevinzs2048@gmail.com"]
         },
         {
             "launchpad_id": "kevinbenton",
@@ -17228,6 +17311,17 @@
             ],
             "user_name": "Lin Hua Cheng",
             "emails": ["os.lcheng@gmail.com", "lin-hua.cheng@hp.com", "lhcheng@yahoo-inc.com"]
+        },
+        {
+            "launchpad_id": "linanbj",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "linanbj",
+            "emails": ["linanbj@inspur.com"]
         },
         {
             "launchpad_id": "lindycoder",
@@ -19911,6 +20005,17 @@
             "emails": ["kent.wu@hpe.com", "kwu@suse.com"]
         },
         {
+            "launchpad_id": "minhongliang",
+            "companies": [
+                {
+                    "company_name": "Huawei",
+                    "end_date": null
+                }
+            ],
+            "user_name": "minhongliang",
+            "emails": ["minhongliang@gmail.com"]
+        },
+        {
             "launchpad_id": "ministry.nd",
             "companies": [
                 {
@@ -20523,6 +20628,17 @@
             ],
             "user_name": "Matt Wringe",
             "emails": ["mwringe@redhat.com"]
+        },
+        {
+            "github_id": "mybesthd",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ding Han",
+            "emails": ["mybesthd@gmail.com"]
         },
         {
             "launchpad_id": "mzawadzki-f",
@@ -26252,6 +26368,17 @@
             "emails": ["shuangyang.qian@easystack.cn"]
         },
         {
+            "github_id": "shufanhao",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hao Fan",
+            "emails": ["fanhao01@baidu.com"]
+        },
+        {
             "launchpad_id": "shuichiro-makigaki",
             "companies": [
                 {
@@ -28155,6 +28282,17 @@
             "emails": ["teabee89@gmail.com"]
         },
         {
+            "github_id": "tealee1992",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Qilong Li",
+            "emails": ["liqilong@baidu.com"]
+        },
+        {
             "github_id": "tedli",
             "companies": [
                 {
@@ -28475,6 +28613,17 @@
             ],
             "user_name": "Tianshan Qu",
             "emails": ["qutianshan@gmail.com", "tianshan@xsky.com"]
+        },
+        {
+            "github_id": "tianyuansun",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Tianyuan Sun",
+            "emails": ["suntianyuan@baidu.com"]
         },
         {
             "launchpad_id": "tim-kelsey",
@@ -29160,6 +29309,17 @@
             ],
             "user_name": "Lei Wang",
             "emails": ["wanglei2@qiniu.com", "u2takey@gmail.com"]
+        },
+        {
+            "launchpad_id": "uchenily",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "chenyulin",
+            "emails": ["chenyulin@inspur.com", "uchenily@gmail.com"]
         },
         {
             "launchpad_id": "uckey-1067",
@@ -30614,6 +30774,17 @@
             "emails": ["wbluo@fiberhome.com"]
         },
         {
+            "github_id": "wccsama",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Vito Wang",
+            "emails": ["wangchengcheng01@baidu.com"]
+        },
+        {
             "launchpad_id": "wchrisjohnson",
             "companies": [
                 {
@@ -32026,6 +32197,17 @@
             "emails": ["yaroslavmt@gmail.com"]
         },
         {
+            "github_id": "yasongxu",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Yasong Xu",
+            "emails": ["xuyasong@baidu.com"]
+        },
+        {
             "launchpad_id": "yasukimura",
             "companies": [
                 {
@@ -32959,6 +33141,10 @@
             "companies": [
                 {
                     "company_name": "ZTE Corporation",
+                    "end_date": "2018-Aug-13"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -32975,6 +33161,17 @@
             ],
             "user_name": "Alan zhu",
             "emails": ["zg.zhu@daocloud.io", "zzg@daozzg.com"]
+        },
+        {
+            "github_id": "zh1314",
+            "companies": [
+                {
+                    "company_name": "Baidu",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hui Zhang",
+            "emails": ["zhanghui31@baidu.com"]
         },
         {
             "launchpad_id": "zhang-haixia",
