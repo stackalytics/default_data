@@ -896,6 +896,17 @@
                 "tbritten@us.ibm.com"
             ]
         },
+         {
+            "github_id": "928234269",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Sakura",
+            "emails": ["longfei.shang@daocloud.io", "longf_shang@163.com"]
+        },
         {
             "launchpad_id": "9lex",
             "companies": [
