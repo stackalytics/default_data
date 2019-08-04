@@ -3,6 +3,26 @@
         {
             "companies": [
                 {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "928234269",
+            "emails": ["longfei.shang@daocloud.io", "longf_shang@163.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "longf_shang",
+            "emails": ["longfei.shang@daocloud.io", "longf_shang@163.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "Société Générale",
                     "end_date": null
                 }
