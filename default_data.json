@@ -1,23 +1,14 @@
 {
     "users": [
         {
+            "github_id": "928234269",
             "companies": [
                 {
                     "company_name": "DaoCloud",
                     "end_date": null
                 }
             ],
-            "user_name": "928234269",
-            "emails": ["longfei.shang@daocloud.io", "longf_shang@163.com"]
-        },
-        {
-            "companies": [
-                {
-                    "company_name": "DaoCloud",
-                    "end_date": null
-                }
-            ],
-            "user_name": "longf_shang",
+            "user_name": "Sakura",
             "emails": ["longfei.shang@daocloud.io", "longf_shang@163.com"]
         },
         {
