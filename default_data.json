@@ -896,7 +896,7 @@
                 "tbritten@us.ibm.com"
             ]
         },
-         {
+        {
             "github_id": "928234269",
             "companies": [
                 {
@@ -13902,11 +13902,18 @@
                 },
                 {
                     "company_name": "Rackspace",
+                    "end_date": "2019-Apr-18"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Jesse Pretorius",
-            "emails": ["jesse.pretorius@rackspace.co.uk", "jesse.pretorius@gmail.com", "jesse@odyssey4.me"]
+            "emails": [
+                "jesse.pretorius@rackspace.co.uk", "jesse.pretorius@gmail.com", "jesse@odyssey4.me",
+                "jpretori@redhat.com"
+            ]
         },
         {
             "launchpad_id": "jesse2017",
@@ -20250,11 +20257,17 @@
                 },
                 {
                     "company_name": "Nokia",
+                    "end_date": "2019-Jul-31"
+                },
+                {
+                    "company_name": "StackHPC",
                     "end_date": null
                 }
             ],
             "user_name": "Michal Nasiadka",
-            "emails": ["mnasiadka@gmail.com", "michal.nasiadka@pl.ibm.com", "michal.nasiadka@nokia.com"]
+            "emails": [
+                "mnasiadka@gmail.com", "michal.nasiadka@pl.ibm.com", "michal.nasiadka@nokia.com", "michal@stackhpc.com"
+            ]
         },
         {
             "launchpad_id": "mnestratov",
@@ -27135,6 +27148,17 @@
             ],
             "user_name": "SongHao",
             "emails": ["songhao@gohighsec.com"]
+        },
+        {
+            "launchpad_id": "songhongyuan",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Terry Song",
+            "emails": ["g.terry.song@gmail.com"]
         },
         {
             "launchpad_id": "songmingyan",
@@ -39431,11 +39455,6 @@
             "uri": "git://git.opnfv.org/prediction.git"
         },
         {
-            "module": "rs",
-            "organization": "opnfv",
-            "uri": "git://git.opnfv.org/rs.git"
-        },
-        {
             "module": "sdnvpn",
             "organization": "opnfv",
             "uri": "git://git.opnfv.org/sdnvpn.git"
@@ -39707,7 +39726,7 @@
         },
         {
             "module": "airship-in-a-bottle",
-            "uri": "https://opendev.org/airship/in-a-bottle.git",
+            "uri": "https://opendev.org/airship/airship-in-a-bottle.git",
             "organization": "openstack"
         },
         {
@@ -39748,7 +39767,8 @@
         {
             "module": "airship-treasuremap",
             "uri": "https://opendev.org/airship/treasuremap.git",
-            "organization": "openstack"
+            "organization": "openstack",
+            "aliases": ["airship"]
         },
         {
             "module": "airship-utils",
