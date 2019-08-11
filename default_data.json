@@ -38486,11 +38486,6 @@
             "uri": "https://github.com/istio/proxy.git"
         },
         {
-            "module": "istio.github.io",
-            "organization": "istio",
-            "uri": "https://github.com/istio/istio.github.io.git"
-        },
-        {
             "module": "istio.io@istio",
             "organization": "istio",
             "uri": "https://github.com/istio/istio.io.git"
@@ -38511,19 +38506,69 @@
             "uri": "https://github.com/istio/community.git"
         },
         {
-            "module": "mixerclient",
+            "module": "mixerclient@istio",
             "organization": "istio",
-            "uri": "https://github.com/istio/mixerclient.git"
+            "uri": "https://github.com/istio/old_mixerclient_repo.git"
         },
         {
-            "module": "admin-sites",
+            "module": "fortio-deployment@istio",
             "organization": "istio",
-            "uri": "https://github.com/istio/admin-sites.git"
+            "uri": "https://github.com/istio/fortio-deployment.git"
         },
         {
-            "module": "fortio",
+            "module": "fortio@istio",
             "organization": "istio",
             "uri": "https://github.com/istio/fortio.git"
+        },
+        {
+            "module": "operator@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/operator.git"
+        },
+        {
+            "module": "installer@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/installer.git"
+        },
+        {
+            "module": "pkg@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/pkg.git"
+        },
+        {
+            "module": "tools@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/tools.git"
+        },
+        {
+            "module": "cni@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/cni.git"
+        },
+        {
+            "module": "common-files@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/common-files.git"
+        },
+        {
+            "module": "bots@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/bots.git"
+        },
+        {
+            "module": "bottestrepo@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/bottestrepo.git"
+        },
+        {
+            "module": "test-framework@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/test-framework.git"
+        },
+        {
+            "module": "gogo-genproto@istio",
+            "organization": "istio",
+            "uri": "https://github.com/istio/gogo-genproto.git"
         },
         {
             "module": "serving@knative",
@@ -40118,8 +40163,10 @@
         {
             "module_group_name": "istio-group",
             "modules": [
-                "istio", "proxy@istio", "istio.github.io", "istio.io@istio", "test-infra@istio",
-                "api@istio", "community@istio", "mixerclient", "admin-sites", "fortio"
+                "istio", "proxy@istio", "istio.io@istio", "test-infra@istio", "api@istio", "community@istio",
+                "mixerclient@istio", "fortio-deployment@istio", "fortio@istio", "operator@istio", "installer@istio",
+                "pkg@istio", "tools@istio", "cni@istio", "common-files@istio", "bots@istio", "bottestrepo@istio",
+                "test-framework@istio", "gogo-genproto@istio", "istio-forked"
             ]
         },
         {
