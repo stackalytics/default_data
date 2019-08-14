@@ -38425,11 +38425,6 @@
             "uri": "https://github.com/docker/cli.git"
         },
         {
-            "module": "containerd",
-            "organization": "docker",
-            "uri": "https://github.com/containerd/containerd.git"
-        },
-        {
             "module": "docker",
             "organization": "docker",
             "uri": "https://github.com/docker/docker.git"
@@ -39670,6 +39665,11 @@
             "organization": "Dragonfly"
         },
         {
+            "module": "containerd",
+            "uri": "https://github.com/containerd/containerd.git",
+            "organization": "containerd"
+        },
+        {
             "module": "coredns",
             "uri": "https://github.com/coredns/coredns.git",
             "organization": "CoreDNS"
@@ -40497,7 +40497,7 @@
             "title": "CNCF",
             "modules": [
                 "kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess", "coredns", "linkerd", "helm", "cni",
-                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly"
+                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly", "containerd"
             ]
         },
         {
@@ -40595,6 +40595,12 @@
             "title": "dragonfly",
             "child": true,
             "modules": ["dragonfly"]
+        },
+        {
+            "id": "containerd",
+            "title": "containerd",
+            "child": true,
+            "modules": ["containerd"]
         },
         {
             "id": "unaffiliated",
