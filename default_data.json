@@ -38518,6 +38518,11 @@
             "uri": "https://github.com/istio/proxy.git"
         },
         {
+            "module": "istio.github.io",
+            "organization": "istio",
+            "uri": "https://github.com/istio/istio.github.io.git"
+        },
+        {
             "module": "istio.io@istio",
             "organization": "istio",
             "uri": "https://github.com/istio/istio.io.git"
