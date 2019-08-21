@@ -13372,11 +13372,24 @@
             "companies": [
                 {
                     "company_name": "Rackspace",
+                    "end_date": "2017-Apr-26"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": "2019-Jul-28"
+                },
+                {
+                    "company_name": "Verizon Media",
                     "end_date": null
                 }
             ],
             "user_name": "Jay Faulkner",
-            "emails": ["jay@jvf.cc", "jay.faulkner@rackspace.com"]
+            "emails": [
+                "jason@oldos.org",
+                "jay@jvf.cc",
+                "jay.faulkner@rackspace.com",
+                "jay.faulkner@verizonmedia.com"
+            ]
         },
         {
             "launchpad_id": "jason-smithss",
