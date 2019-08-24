@@ -4561,7 +4561,12 @@
                 }
             ],
             "user_name": "Bharat Kunwar",
-            "emails": ["b.kunwar@gmail.com", "bharat@stackhpc.com"]
+            "emails": [
+                "brtknr@bath.edu",
+                "bharat@stackhpc.com",
+                "b.kunwar@gmail.com",
+                "bharat.kunwar@bath.edu"
+            ]
         },
         {
             "launchpad_id": "bruno-semperlotti",
