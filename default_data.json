@@ -27089,11 +27089,15 @@
             "companies": [
                 {
                     "company_name": "OCF plc",
+                    "end_date": "2017-Oct-15"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Christopher Brown",
-            "emails": ["snecklifter@gmail.com", "cbrown2@ocf.co.uk"]
+            "emails": ["snecklifter@gmail.com", "cbrown2@ocf.co.uk", "chris.brown@redhat.com", "chribrow@redhat.com"]
         },
         {
             "launchpad_id": "sofer-athlan-guyot",
