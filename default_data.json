@@ -16866,6 +16866,10 @@
                 },
                 {
                     "company_name": "Futurewei",
+                    "end_date": "2019-Jul-19"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
