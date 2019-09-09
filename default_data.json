@@ -20146,6 +20146,25 @@
             "emails": ["mishra.rakesh510@gmail.com", "rakesh.ku.mishra@ril.com"]
         },
         {
+            "launchpad_id": "mitsuhiro-tanino",
+            "companies": [
+                {
+                    "company_name": "Hitachi Vantara",
+                    "end_date": "2018-Feb-28"
+                },
+                {
+                    "company_name": "Hitachi",
+                    "end_date": "2019-Jul-31"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Mitsuhiro Tanino",
+            "emails": ["mittjp1129@gmail.com"]
+        },
+        {
             "github_id": "mixj93",
             "companies": [
                 {
@@ -29252,11 +29271,15 @@
             "companies": [
                 {
                     "company_name": "Fujitsu",
+                    "end_date": "2019-Jun-01"
+                },
+                {
+                    "company_name": "Viettel",
                     "end_date": null
                 }
             ],
             "user_name": "Nguyen Van Trung",
-            "emails": ["trungnv@vn.fujitsu.com", "trungnvfet@outlook.com"]
+            "emails": ["trungnv47@viettel.com.vn", "trungnvfet@outlook.com"]
         },
         {
             "launchpad_id": "truongnh92",
@@ -32928,6 +32951,17 @@
             ],
             "user_name": "Xingchao Yu",
             "emails": ["yuxcer@126.com", "yuxcer@gmail.com", "xingchao@polex.com.cn", "xingchao@unitedstack.com"]
+        },
+        {
+            "launchpad_id": "yuxiaobo",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Xiaobo Yu",
+            "emails": ["yuxiaobogo@163.com"]
         },
         {
             "launchpad_id": "yuyafei",
