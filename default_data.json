@@ -9710,11 +9710,19 @@
                 },
                 {
                     "company_name": "IBM",
+                    "end_date": "2018-Jul-04"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": "2019-Aug-20"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Flavio Fernandes",
-            "emails": ["flavio@flaviof.com", "flavio.fernandes@ibm.com"]
+            "emails": ["flavio@flaviof.com", "flavio.fernandes@ibm.com", "flaviof@redhat.com", "ffernand@redhat.com"]
         },
         {
             "github_id": "ffilz",
