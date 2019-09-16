@@ -14952,6 +14952,18 @@
             "emails": ["jordan.dao@verizonwireless.com"]
         },
         {
+            "github_id": "JorgeFrancoIbanez",
+            "launchpad_id": "jorgefrancoibanez",
+            "companies": [
+                {
+                    "company_name": "Ormuco",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jorge Franco",
+            "emails": ["jorgefrancoibanez@gmail.com", "jorge.franco@ormuco.com"]
+        },
+        {
             "launchpad_id": "jose-eduardo-jr",
             "zanata_id": "josemello",
             "companies": [
