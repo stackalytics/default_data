@@ -13322,6 +13322,17 @@
             "emails": ["jan.openstack@zerebecki.de", "jzerebecki@suse.com"]
         },
         {
+            "github_id": "janeman98",
+            "companies": [
+                {
+                    "company_name": "IBM",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jane Man",
+            "emails": ["janeman@us.ibm.com", "52723717+janeman98@users.noreply.github.com"]
+        },
+        {
             "launchpad_id": "jangseon-ryu",
             "companies": [
                 {
