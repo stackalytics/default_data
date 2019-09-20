@@ -5229,6 +5229,10 @@
                 },
                 {
                     "company_name": "Lenovo",
+                    "end_date": "2019-Sep-02"
+                },
+                {
+                    "company_name": "IBM",
                     "end_date": null
                 }
             ],
