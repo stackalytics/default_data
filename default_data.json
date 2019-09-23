@@ -2548,6 +2548,18 @@
             "emails": ["andrea.rosa@hp.com", "andrea.rosa@hpe.com"]
         },
         {
+            "launchpad_id": "andrebeltrami",
+            "github_id": "andrebeltrami",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Andre Beltrami",
+            "emails": ["debeltrami@gmail.com", "andre.rocha@fit-tecnologia.org.br", "andrer@netapp.com"]
+        },
+        {
             "launchpad_id": "andrew-lhj",
             "companies": [
                 {
