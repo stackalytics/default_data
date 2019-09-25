@@ -798,6 +798,17 @@
             "emails": ["lu.bin2@zte.com.cn"]
         },
         {
+            "github_id": "41tair",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Byron Wang",
+            "emails": ["altair.wang@daocloud.io", "stormlandon@outlook.com"]
+        },
+        {
             "launchpad_id": "453528434-f",
             "companies": [
                 {
