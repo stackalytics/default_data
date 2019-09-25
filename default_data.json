@@ -4362,6 +4362,17 @@
                 "bpavlovic@godaddy.com"
             ]
         },
+                {
+            "launchpad_id": "brabiega",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bartosz Rabiega",
+            "emails": ["b.rabiega@gmail.com", "bartosz.rabiega@corp.ovh.com"]
+        },
         {
             "launchpad_id": "brad-klein",
             "companies": [
@@ -22010,6 +22021,17 @@
             ],
             "user_name": "Matt Borland",
             "emails": ["matt.borland@hpe.com", "matt.borland@hp.com", "palecrow@gmail.com"]
+        },
+        {
+            "launchpad_id": "pallavgupta84",
+            "companies": [
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Pallav Gupta",
+            "emails": ["pallavgupta84@gmail.com", "pallav.gupta@ericsson.com", "pg588x@att.com"]
         },
         {
             "launchpad_id": "palvarez89",
