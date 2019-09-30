@@ -27458,6 +27458,17 @@
             "emails": ["markus@splork.de", "markus.alexander.sommer@cern.ch"]
         },
         {
+           "launchpad_id": "spranjali",
+           "companies": [
+               {
+                   "company_name": "Dell EMC",
+                   "end_date": null
+               }
+           ],
+           "user_name": "Pranjali Srivastava",
+           "emails": ["srivastavapranjali@ymail.com", "pranjali.srivastava@calsoftinc.com", "pranjali_shrivastava@dellteam.com"]
+        },
+        {
             "launchpad_id": "sputnik13",
             "companies": [
                 {
