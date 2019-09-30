@@ -39915,6 +39915,11 @@
             "organization": "opendaylight"
         },
         {
+            "module": "airshipctl",
+            "uri": "https://opendev.org/airship/airshipctl.git",
+            "organization": "openstack"
+        },
+        {
             "module": "airship-armada",
             "uri": "https://opendev.org/airship/armada.git",
             "organization": "openstack"
@@ -39935,13 +39940,38 @@
             "organization": "openstack"
         },
         {
+            "module": "airship-docs",
+            "uri": "https://opendev.org/airship/docs.git",
+            "organization": "openstack"
+        },
+        {
             "module": "airship-drydock",
             "uri": "https://opendev.org/airship/drydock.git",
             "organization": "openstack"
         },
         {
+            "module": "airship-election",
+            "uri": "https://opendev.org/airship/election.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-governance",
+            "uri": "https://opendev.org/airship/governance.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-images",
+            "uri": "https://opendev.org/airship/images.git",
+            "organization": "openstack"
+        },
+        {
             "module": "airship-in-a-bottle",
             "uri": "https://opendev.org/airship/airship-in-a-bottle.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-kubernetes-entrypoint",
+            "uri": "https://opendev.org/airship/kubernetes-entrypoint.git",
             "organization": "openstack"
         },
         {
@@ -39952,6 +39982,11 @@
         {
             "module": "airship-pegleg",
             "uri": "https://opendev.org/airship/pegleg.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-porthole",
+            "uri": "https://opendev.org/airship/porthole.git",
             "organization": "openstack"
         },
         {
@@ -39972,6 +40007,11 @@
         {
             "module": "airship-spyglass",
             "uri": "https://opendev.org/airship/spyglass.git",
+            "organization": "openstack"
+        },
+        {
+            "module": "airship-spyglass-plugin-xls",
+            "uri": "https://opendev.org/airship/spyglass-plugin-xls.git",
             "organization": "openstack"
         },
         {
@@ -40374,9 +40414,11 @@
         {
             "module_group_name": "airship-group",
             "modules": [
-                "airship-armada", "airship-berth", "airship-deckhand", "airship-divingbell", "airship-drydock",
-                "airship-in-a-bottle", "airship-maas", "airship-pegleg", "airship-promenade", "airship-shipyard",
-                "airship-specs", "airship-spyglass", "airship-tempest-plugin", "airship-treasuremap", "airship-utils"
+                "airshipctl", "airship-in-a-bottle", "airship-armada", "airship-berth", "airship-deckhand", "airship-divingbell",
+                "airship-docs", "airship-drydock", "airship-election", "airship-governance", "airship-images",
+                "airship-kubernetes-entrypoint", "airship-maas", "airship-pegleg", "airship-porthole",
+                "airship-promenade", "airship-shipyard", "airship-specs", "airship-spyglass",
+                "airship-spyglass-plugin-xls", "airship-tempest-plugin", "airship-treasuremap", "airship-utils"
             ]
         },
         {
@@ -40661,6 +40703,7 @@
     "mail_lists": [
         "http://lists.airshipit.org/pipermail/airship-announce/",
         "http://lists.airshipit.org/pipermail/airship-discuss/",
+        "http://lists.airshipit.org/pipermail/airship-job-failures/",
         "http://lists.openstack.org/pipermail/openstack-dev/",
         "http://lists.openstack.org/pipermail/openstack-docs/",
         "http://lists.openstack.org/pipermail/openstack-i18n/",
