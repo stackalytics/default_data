@@ -27362,6 +27362,18 @@
             "emails": ["sonia.ghanekar@nimblestorage.com"]
         },
         {
+            "launchpad_id": "sonpn",
+            "companies": [
+                {
+                    "company_name": "Cloudrity",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Pham Ngoc Son",
+            "emails": ["phamngocsonls@gmail.com", "sonpn13@viettel.com.vn"]
+        },
+
+        {
             "launchpad_id": "sonu-sudhakaran",
             "companies": [
                 {
