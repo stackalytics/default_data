@@ -35553,6 +35553,10 @@
             "company_name": "InMon"
         },
         {
+            "domains": ["inmotionhosting.com"],
+            "company_name": "InMotion Hosting"
+        },
+        {
             "domains": ["inria.fr"],
             "company_name": "Inria",
             "aliases": ["INRIA"]
