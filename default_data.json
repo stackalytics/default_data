@@ -24687,11 +24687,15 @@
                 },
                 {
                     "company_name": "OVH",
+                    "end_date": "2019-Aug-31"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Roman Dobosz",
-            "emails": ["roman.dobosz@intel.com", "gryf73@gmail.com", "roman.dobosz@corp.ovh.com"]
+            "emails": ["gryf73@gmail.com", "rdobosz@redhat.com"]
         },
         {
             "launchpad_id": "romang",
@@ -39919,6 +39923,11 @@
             "organization": "opendaylight"
         },
         {
+            "module": "airship-apis",
+            "uri": "https://opendev.org/airship/apis.git",
+            "organization": "openstack"
+        },
+        {
             "module": "airshipctl",
             "uri": "https://opendev.org/airship/airshipctl.git",
             "organization": "openstack"
@@ -40028,6 +40037,11 @@
             "uri": "https://opendev.org/airship/treasuremap.git",
             "organization": "openstack",
             "aliases": ["airship"]
+        },
+        {
+            "module": "airshipui",
+            "uri": "https://opendev.org/airship/airshipui.git",
+            "organization": "openstack"
         },
         {
             "module": "airship-utils",
@@ -40418,10 +40432,10 @@
         {
             "module_group_name": "airship-group",
             "modules": [
-                "airshipctl", "airship-in-a-bottle", "airship-armada", "airship-berth", "airship-deckhand", "airship-divingbell",
-                "airship-docs", "airship-drydock", "airship-election", "airship-governance", "airship-images",
-                "airship-kubernetes-entrypoint", "airship-maas", "airship-pegleg", "airship-porthole",
-                "airship-promenade", "airship-shipyard", "airship-specs", "airship-spyglass",
+                "airshipctl", "airshipui", "airship-apis", "airship-in-a-bottle", "airship-armada", "airship-berth",
+                "airship-deckhand", "airship-divingbell", "airship-docs", "airship-drydock", "airship-election",
+                "airship-governance", "airship-images", "airship-kubernetes-entrypoint", "airship-maas", "airship-pegleg",
+                "airship-porthole", "airship-promenade", "airship-shipyard", "airship-specs", "airship-spyglass",
                 "airship-spyglass-plugin-xls", "airship-tempest-plugin", "airship-treasuremap", "airship-utils"
             ]
         },
