@@ -34783,6 +34783,11 @@
             "company_name": "Blizzard Entertainment"
         },
         {
+            "domains": ["bloomberg.net", "bloomberg.com"],
+            "company_name": "Bloomberg LP",
+            "aliases": ["Bloomberg", "Bloomberg L.P."]
+        },
+        {
             "domains": ["bluebox.net"],
             "company_name": "Blue Box",
             "aliases": ["Blue Box Group"]
@@ -36216,7 +36221,7 @@
             "domains": ["redhat.com", "gluster.com", "enovance.com"],
             "company_name": "Red Hat",
             "aliases": [
-                "Red Hat Canada, Inc", "Red Hat Czech, s.r.o.", "Red Hat, Inc., Bloomberg L.P.",
+                "Red Hat Canada, Inc", "Red Hat Czech, s.r.o.", "Red Hat, Inc.",
                 "Red Hat India Pvt. Ltd.", "Red Hat Software", "eNovance"
             ]
         },
