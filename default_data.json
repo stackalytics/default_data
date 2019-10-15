@@ -10869,11 +10869,15 @@
             "companies": [
                 {
                     "company_name": "Objectif Libre",
+                    "end_date": "2019-Jul-31"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Gauvain Pocentek",
-            "emails": ["gauvain@pocentek.net", "gauvain.pocentek@objectif-libre.com"]
+            "emails": ["gauvain@pocentek.net", "gauvain.pocentek@objectif-libre.com", "gauvainpocentek@gmail.com"]
         },
         {
             "launchpad_id": "grahamhayes",
