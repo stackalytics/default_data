@@ -10104,11 +10104,17 @@
                 },
                 {
                     "company_name": "Aptira",
+                    "end_date": "2017-Apr-30"
+                },
+                {
+                    "company_name": "Bloomberg LP",
                     "end_date": null
                 }
             ],
             "user_name": "Marcus Furlong",
-            "emails": ["furlongm@unimelb.edu.au", "marcus@aptira.com", "furlongm@gmail.com"]
+            "emails": [
+                "furlongm@unimelb.edu.au", "marcus@aptira.com", "furlongm@gmail.com", "mfurlong13@bloomberg.net"
+            ]
         },
         {
             "launchpad_id": "fuzhaokun",
