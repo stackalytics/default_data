@@ -5954,6 +5954,17 @@
             "emails": ["lihao35@baidu.com"]
         },
         {
+            "launchpad_id": "clauz",
+            "companies": [
+                {
+                    "company_name": "GARR",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Claudio Pisa",
+            "emails": ["claudio.pisa@garr.it"]
+        },
+        {
             "launchpad_id": "clay-gerrard",
             "companies": [
                 {
@@ -35331,6 +35342,10 @@
             "aliases": [
                 "Futurewei", "Futurewei Technologies Inc", "FutureWei Technologies Inc"
             ]
+        },
+        {
+            "domains": ["garr.it"],
+            "company_name": "GARR"
         },
         {
             "domains": ["getchef.com", "opscode.com"],
