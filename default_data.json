@@ -39953,6 +39953,11 @@
             "organization": "opendaylight"
         },
         {
+            "module": "magma",
+            "uri": "https://github.com/facebookincubator/magma.git",
+            "organization": "facebookincubator"
+        },
+        {
             "module": "airship-apis",
             "uri": "https://opendev.org/airship/apis.git",
             "organization": "openstack"
@@ -40925,7 +40930,7 @@
             "modules": [
                 "ansible-group", "ceph-group", "concourse-group", "docker-group", "fdio-group", "istio-group",
                 "knative-group", "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs",
-                "pypa-group", "spinnaker", "opendaylight", "kubernetes-group", "tekton-group"
+                "pypa-group", "spinnaker", "opendaylight", "kubernetes-group", "tekton-group", "facebookincubator"
             ]
         },
         {
@@ -41031,6 +41036,12 @@
             "title": "OpenDaylight",
             "child": true,
             "modules": ["opendaylight"]
+        },
+        {
+            "id": "facebookincubator",
+            "title": "Facebook Incubator",
+            "child": true,
+            "modules": ["magma"]
         },
         {
             "id": "tekton-group",
