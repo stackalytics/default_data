@@ -40742,6 +40742,17 @@
             "refs": {
                 "governance": {
                     "type": "big_tent",
+                    "source": "https://git.openstack.org/cgit/openstack/governance/plain/reference/projects.yaml"
+                }
+            },
+            "project": "openstack"
+        },
+        {
+            "release_name": "Ussuri",
+            "end_date": "2020-May-15",
+            "refs": {
+                "governance": {
+                    "type": "big_tent",
                     "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
                 }
             },
