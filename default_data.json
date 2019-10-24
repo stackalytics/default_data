@@ -27395,19 +27395,9 @@
                 }
             ],
             "user_name": "Son Pham",
-            "emails": ["phamngocsonls@gmail.com"]
+            "emails": ["phamngocsonls@gmail.com", "sonpn13@viettel.com.vn"]
         },
-        {
-            "launchpad_id": "sonpn13",
-            "companies": [
-                {
-                    "company_name": "Cloudrity",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Son Pham Viettel",
-            "emails": ["sonpn13@viettel.com.vn"]
-        },
+
         {
             "launchpad_id": "sonu-sudhakaran",
             "companies": [
