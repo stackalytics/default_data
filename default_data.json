@@ -31020,6 +31020,17 @@
             "emails": ["watanabe.isao.openstack@gmail.com", "is-watanabe@kddi.com"]
         },
         {
+            "github_id": "wawa0210",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Xiao zhang",
+            "emails": ["xiao.zhang@daocloud.io", "xiaozhang0210@hotmail.com"]
+        },
+        {
             "launchpad_id": "wayne.chan",
             "companies": [
                 {
@@ -34092,6 +34103,17 @@
             ],
             "user_name": "zhouxiaoning",
             "emails": ["zhouxiaoning@beyondcent.com", "799607051@qq.com"]
+        },
+        {
+            "github_id": "zhouya0",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Yao zhou",
+            "emails": ["yao.zhou@daocloud.io", "yao.zhoupolytech@gmail.com"]
         },
         {
             "launchpad_id": "zhouyunfeng",
