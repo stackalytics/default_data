@@ -27607,6 +27607,17 @@
             "emails": ["snecklifter@gmail.com", "cbrown2@ocf.co.uk", "chris.brown@redhat.com", "chribrow@redhat.com"]
         },
         {
+            "github_id": "sniperking1234",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "chen zhengwei",
+            "emails": ["chenzhengwei@inspur.com", "980752307@qq.com", "980752307qq.com@gmail.com"]
+        },
+        {
             "launchpad_id": "sofer-athlan-guyot",
             "companies": [
                 {
