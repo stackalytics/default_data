@@ -14165,13 +14165,18 @@
             "launchpad_id": "jell",
             "github_id": "jellonek",
             "companies": [
+		{
+                    "company_name": "Intel",
+                    "end_date": "2016-Jul-01"
+                },
                 {
                     "company_name": "Mirantis",
-                    "end_date": null
+                    "end_date": "2019-Mar-01"
                 }
+
             ],
             "user_name": "Piotr Skamruk",
-            "emails": ["pskamruk@mirantis.com", "piotr.skamruk@gmail.com", "jell@jell.pl"]
+            "emails": ["piotr.skamruk@codilime.com", "pskamruk@mirantis.com","piotr.skamruk@intel.com", "piotr.skamruk@gmail.com", "jell@jell.pl"]
         },
         {
             "launchpad_id": "jeremy-moffitt",
