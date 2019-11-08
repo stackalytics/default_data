@@ -12100,6 +12100,18 @@
             "emails": ["hnyang@fiberhome.com", "yhn2nl.2008@163.com"]
         },
         {
+            "launchpad_id": "hoangphuoc",
+            "github_id": "hoangphuocbk",
+            "companies": [
+                {
+                    "company_name": "Viettel",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Phuoc Hoang",
+            "emails": ["hoangphuocbk2.07@gmail.com", "phuoc.hc@dcn.ssu.ac.kr", "phuochc@viettel.com.vn"]
+        },
+        {
             "launchpad_id": "hodosmb",
             "companies": [
                 {
@@ -41001,9 +41013,10 @@
             "modules": [
                 "airshipctl", "airshipui", "airship-apis", "airship-in-a-bottle", "airship-armada", "airship-berth",
                 "airship-deckhand", "airship-divingbell", "airship-docs", "airship-drydock", "airship-election",
-                "airship-governance", "airship-images", "airship-kubernetes-entrypoint", "airship-maas", "airship-pegleg",
-                "airship-porthole", "airship-promenade", "airship-shipyard", "airship-specs", "airship-spyglass",
-                "airship-spyglass-plugin-xls", "airship-tempest-plugin", "airship-treasuremap", "airship-utils"
+                "airship-governance", "airship-images", "airship-kubernetes-entrypoint", "airship-maas",
+                "airship-pegleg", "airship-porthole", "airship-promenade", "airship-shipyard", "airship-specs",
+                "airship-spyglass", "airship-spyglass-plugin-xls", "airship-tempest-plugin", "airship-treasuremap",
+                "airship-utils"
             ]
         },
         {
