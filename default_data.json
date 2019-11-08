@@ -3,6 +3,16 @@
         {
             "companies": [
                 {
+                    "company_name": "Google",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Martin Taillefer",
+            "emails": ["mtail@google.com", "geeknoid@users.noreply.github.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "Société Générale",
                     "end_date": null
                 }
@@ -14178,7 +14188,15 @@
             "github_id": "jellonek",
             "companies": [
                 {
+                    "company_name": "Intel",
+                    "end_date": "2016-Jul-01"
+                },
+                {
                     "company_name": "Mirantis",
+                    "end_date": "2019-Mar-01"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -20976,6 +20994,17 @@
                 "mrostecki@suse.com", "michal@kinvolk.io", "mrostecki@mirantis.com", "michal.rostecki@gmail.com",
                 "michal.rostecki@allegrogroup.com"
             ]
+        },
+        {
+            "launchpad_id": "mrshengzyzy",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "mrshengzyzy",
+            "emails": ["shengzheng01@inspur.com", "mrshengzheng@gmail.com"]
         },
         {
             "launchpad_id": "mshuler",
