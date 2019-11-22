@@ -1442,7 +1442,7 @@
             "user_name": "Alexander Chudnovets",
             "emails": ["alexander_chudnovets@symantec.com", "achudnovets@mirantis.com"]
         },
-                {
+        {
             "github_id": "aclave1",
             "companies": [
                 {
@@ -3254,6 +3254,17 @@
             ],
             "user_name": "zwhe",
             "emails": ["zwhe@fiberhome.com", "areialray@gmail.com"]
+        },
+        {
+            "launchpad_id": "aresforchina",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "aresforchina",
+            "emails": ["18845641183@163.com", "qizetao@beyondcent.com"]
         },
         {
             "launchpad_id": "arif-ali",
@@ -6071,7 +6082,7 @@
                 }
             ],
             "user_name": "Hao Li",
-            "emails": ["lihao35@baidu.com"]
+            "emails": ["lihao35@baidu.com", "clarklee1992@hotmail.com"]
         },
         {
             "launchpad_id": "clauz",
@@ -12585,11 +12596,15 @@
             "companies": [
                 {
                     "company_name": "CertusNet",
+                    "end_date": "2019-Oct-18"
+                },
+                {
+                    "company_name": "Qihoo 360 Technology Co",
                     "end_date": null
                 }
             ],
             "user_name": "huiweics",
-            "emails": ["huiweics@gmail.com", "huiw@certusnet.com.cn"]
+            "emails": ["huiweics@gmail.com", "huiwei@360.cn"]
         },
         {
             "launchpad_id": "humble00",
@@ -17131,11 +17146,21 @@
                 },
                 {
                     "company_name": "*independent",
+                    "end_date": "2019-Aug-04"
+                },
+                {
+                    "company_name": "IBM",
                     "end_date": null
                 }
             ],
             "user_name": "Dong Ma",
-            "emails": ["winterma.dong@gmail.com", "dong.ma@hp.com", "dong.ma@hpe.com"]
+            "emails": [
+                "winterma.dong@gmail.com",
+                "dong.ma@hp.com",
+                "dong.ma@hpe.com",
+                "madongma@cn.ibm.com",
+                "madong@linux.vnet.ibm.com"
+            ]
         },
         {
             "launchpad_id": "laun-zhangdebo",
@@ -22358,6 +22383,17 @@
             "emails": ["paco.xu@daocloud.io", "roollingstone@gmail.com"]
         },
         {
+            "launchpad_id": "palagend",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "acewit",
+            "emails": ["huyueheng@inspur.com"]
+        },
+        {
             "launchpad_id": "palecrow",
             "companies": [
                 {
@@ -22466,6 +22502,21 @@
             ],
             "user_name": "Partha Bera",
             "emails": ["beevatsyu@gmail.com"]
+        },
+        {
+            "launchpad_id": "pasuder",
+            "companies": [
+                {
+                    "company_name": "None",
+                    "end_date": "2017-Mar-31"
+                },
+                {
+                    "company_name": "OVH",
+                    "end_date": "2019-Mar-31"
+                }
+            ],
+            "user_name": "Paweł Suder",
+            "emails": ["pawel@suder.info"]
         },
         {
             "launchpad_id": "patanella",
@@ -27833,17 +27884,6 @@
             "emails": ["sonia.ghanekar@nimblestorage.com"]
         },
         {
-            "launchpad_id": "sonpn",
-            "companies": [
-                {
-                    "company_name": "Cloudrity",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Son Pham",
-            "emails": ["phamngocsonls@gmail.com"]
-        },
-        {
             "launchpad_id": "sonpn13",
             "companies": [
                 {
@@ -27852,7 +27892,7 @@
                 }
             ],
             "user_name": "Son Pham Viettel",
-            "emails": ["sonpn13@viettel.com.vn"]
+            "emails": ["phamngocsonls@gmail.com", "sonpn13@viettel.com.vn"]
         },
         {
             "launchpad_id": "sonu-sudhakaran",
@@ -35406,7 +35446,7 @@
             "company_name": "BMW"
         },
         {
-            "domains": ["bocloud.com.cn"],
+            "domains": ["bocloud.com.cn", "beyondcent.com"],
             "company_name": "BoCloud",
             "aliases": ["beyondcent", "博云", "苏州博纳讯动软件有限公司", "博纳讯动"]
         },
