@@ -40865,6 +40865,11 @@
             "organization": "spinnaker",
             "module_group_id": "spinnaker-group",
             "uri": "github://"
+        },
+        {
+            "organization": "rancher",
+            "module_group_id": "rancher-group",
+            "uri": "github://"
         }
     ],
     "module_groups": [
@@ -41571,7 +41576,8 @@
             "modules": [
                 "ansible-group", "ceph-group", "concourse-group", "docker-group", "fdio-group", "istio-group",
                 "knative-group", "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs",
-                "pypa-group", "spinnaker", "opendaylight", "kubernetes-group", "tekton-group", "facebookincubator"
+                "pypa-group", "spinnaker", "opendaylight", "kubernetes-group", "tekton-group", "facebookincubator",
+                "rancher"
             ]
         },
         {
@@ -41671,6 +41677,12 @@
             "title": "Spinnaker",
             "child": true,
             "modules": ["spinnaker-group"]
+        },
+        {
+            "id": "rancher-group",
+            "title": "Rancher",
+            "child": true,
+            "modules": ["rancher-group"]
         },
         {
             "id": "opendaylight",
