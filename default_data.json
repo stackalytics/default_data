@@ -36871,6 +36871,10 @@
             "company_name": "Rakuten"
         },
         {
+            "domains": ["rancher.com"],
+            "company_name": "Rancher Labs"
+        },
+        {
             "domains": ["ravellosystems.com"],
             "company_name": "Ravello Systems"
         },
