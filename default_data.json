@@ -35032,6 +35032,17 @@
             "emails": ["zuohuasun@gmail.com", "zhsun@fiberhome.com"]
         },
         {
+            "github_id": "zwwhdls",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Weiwei zhu",
+            "emails": ["weiwei.zhu@daocloud.io", "zwwhdls@hotmail.com"]
+        },
+        {
             "github_id": "zxDiscovery",
             "companies": [
                 {
