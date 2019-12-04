@@ -12121,6 +12121,21 @@
             "emails": ["hnyang@fiberhome.com", "yhn2nl.2008@163.com"]
         },
         {
+            "launchpad_id": "hoangcx",
+            "companies": [
+                {
+                    "company_name": "Fujitsu",
+                    "end_date": "2018-Sep-30"
+                },
+                {
+                    "company_name": "Genesis Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Cao Xuan Hoang",
+            "emails": ["xuanhoangqb@gmail.com", "hoang@genesiscloud.com"]
+        },
+        {
             "launchpad_id": "hoangphuoc",
             "github_id": "hoangphuocbk",
             "companies": [
@@ -17712,6 +17727,17 @@
             "emails": ["jinhui23.li@gmail.com"]
         },
         {
+            "launchpad_id": "likangkang",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "likangkang01",
+            "emails": ["likangkang01@inspur.com"]
+        },
+        {
             "launchpad_id": "lilingxing20",
             "companies": [
                 {
@@ -18256,6 +18282,10 @@
                 },
                 {
                     "company_name": "China Telecom",
+                    "end_date": "2019-Oct-31"
+                },
+                {
+                    "company_name": "China Unicom",
                     "end_date": null
                 }
             ],
@@ -35985,6 +36015,10 @@
         {
             "domains": ["garr.it"],
             "company_name": "GARR"
+        },
+        {
+            "domains": ["genesiscloud.com"],
+            "company_name": "Genesis Cloud"
         },
         {
             "domains": ["getchef.com", "opscode.com"],
