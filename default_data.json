@@ -7,6 +7,56 @@
                     "end_date": null
                 }
             ],
+            "user_name": "erikwilson",
+            "emails": ["erik.e.wilson@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "Rancher Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "rmweir",
+            "emails": ["ricardo.weir1@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "Rancher Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "leodotcloud",
+            "emails": ["leodotcloud@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "Rancher Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "aiwantaozi",
+            "emails": ["michelia.feng@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "Rancher Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "gitlawr",
+            "emails": ["lawrleegle@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "Rancher Labs",
+                    "end_date": null
+                }
+            ],
             "user_name": "Jiaqi Luo",
             "emails": ["jiaqiluo123+GitHub@gmail.com"]
         },
