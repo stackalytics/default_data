@@ -40698,6 +40698,11 @@
             "organization": "opendaylight"
         },
         {
+            "module": "cntt",
+            "uri": "https://github.com/cntt-n/CNTT.git",
+            "organization": "cntt"
+        },
+        {
             "module": "magma",
             "uri": "https://github.com/facebookincubator/magma.git",
             "organization": "facebookincubator"
@@ -41682,7 +41687,7 @@
                 "ansible-group", "ceph-group", "concourse-group", "docker-group", "fdio-group", "istio-group",
                 "knative-group", "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs",
                 "pypa-group", "spinnaker", "opendaylight", "kubernetes-group", "tekton-group", "facebookincubator",
-                "rancher"
+                "rancher", "cntt"
             ]
         },
         {
@@ -41794,6 +41799,12 @@
             "title": "OpenDaylight",
             "child": true,
             "modules": ["opendaylight"]
+        },
+        {
+            "id": "cntt",
+            "title": "CNTT",
+            "child": true,
+            "modules": ["cntt"]
         },
         {
             "id": "facebookincubator",
