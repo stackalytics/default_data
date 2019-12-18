@@ -25836,6 +25836,24 @@
             "emails": ["sachin.shukla@workday.com"]
         },
         {
+            "launchpad_id": "sagarun",
+            "companies": [
+                {
+                    "company_name": "Yahoo!",
+                    "end_date": "2017-Jun-13"
+                },
+                {
+                    "company_name": "Verizon Media",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Arun S A G",
+            "emails": [
+                "sagarun@gmail.com", "saga@yahoo-inc.com",
+                "saga@verizonmedia.com", "saga@oath.com"
+            ]
+        },
+        {
             "launchpad_id": "sahid-ferdjaoui",
             "companies": [
                 {
