@@ -9573,6 +9573,21 @@
             "emails": ["evelyn.xu@daocloud.io", "evelynhsu21@gmail.com"]
         },
         {
+            "launchpad_id": "esimone",
+            "companies": [
+                {
+                    "company_name": "Alchemy Solutions Group",
+                    "end_date": "2019-Sep-09"
+                },
+                {
+                    "company_name": "E4 Computer Engineering",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ettore Simone",
+            "emails": ["ettore.simone@gmail.com", "ettore.simone@alchemy.solutions", "ettore.simone@e4company.com"]
+        },
+        {
             "launchpad_id": "estherk",
             "companies": [
                 {
@@ -9637,17 +9652,6 @@
                 "etingof@gmail.com",
                 "ietingof@redhat.com"
             ]
-        },
-        {
-            "launchpad_id": "ettore-simone",
-            "companies": [
-                {
-                    "company_name": "Alchemy Solutions Group",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Ettore Simone",
-            "emails": ["ettore.simone@gmail.com", "ettore.simone@alchemy.solutions"]
         },
         {
             "launchpad_id": "everett-toews",
@@ -19115,6 +19119,18 @@
             "emails": ["mahati.chamarthy@gmail.com", "mahati.chamarthy@intel.com"]
         },
         {
+            "launchpad_id": "mahendrakamble",
+            "github_id": "mahendraKamble",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Mahendra Kamble",
+            "emails": ["mahendra.kamble358@gmail.com", "mahendra.kamble@calsoftinc.com", "mahendra_kamble@dellteam.com"]
+        },
+        {
             "launchpad_id": "maheshkumar-pandurangan",
             "companies": [
                 {
@@ -19257,6 +19273,10 @@
                 },
                 {
                     "company_name": "NEC",
+                    "end_date": "2019-Jun-14"
+                },
+                {
+                    "company_name": "Orange",
                     "end_date": null
                 }
             ],
@@ -28022,7 +28042,7 @@
                 }
             ],
             "user_name": "Son Pham Viettel",
-            "emails": ["phamngocsonls@gmail.com", "sonpn13@viettel.com.vn"]
+            "emails": ["sonpn13@viettel.com.vn"]
         },
         {
             "launchpad_id": "sonu-sudhakaran",
@@ -35977,6 +35997,11 @@
         {
             "domains": ["dtdream.com"],
             "company_name": "Dt Dream"
+        },
+        {
+            "domains": ["e4company.com"],
+            "company_name": "E4 Computer Engineering",
+            "aliases": ["E4"]
         },
         {
             "domains": ["earthlink.net"],
