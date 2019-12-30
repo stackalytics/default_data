@@ -26876,6 +26876,17 @@
             "emails": ["shashirekha.j.gundur@intel.com", "shashi.j.gundur@gmail.com"]
         },
         {
+            "launchpad_id": "shatadru",
+            "companies": [
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Shatadru Bandyopadhyay",
+            "emails": ["sbandyop@redhat.com", "shatadru1@gmail.com"]
+        },
+        {
             "launchpad_id": "shaun-edwards",
             "companies": [
                 {
