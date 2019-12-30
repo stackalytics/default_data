@@ -40689,6 +40689,11 @@
             "organization": "Linkerd"
         },
         {
+            "module": "linkerd2",
+            "uri": "https://github.com/linkerd/linkerd2.git",
+            "organization": "Linkerd"
+        },
+        {
             "module": "helm",
             "uri": "https://github.com/helm/helm.git",
             "organization": "Helm"
