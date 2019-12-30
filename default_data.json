@@ -11992,6 +11992,17 @@
             "emails": ["sunc@rc.inesa.com"]
         },
         {
+            "launchpad_id": "hemanth-n",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hemanth Nakkina",
+            "emails": ["hemanth.nakkina@canonical.com", "mail2hemanth.n@gmail.com"]
+        },
+        {
             "launchpad_id": "henrique-4",
             "companies": [
                 {
