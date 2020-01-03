@@ -41645,7 +41645,7 @@
             "title": "CNCF",
             "modules": [
                 "kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess", "coredns", "linkerd", "helm", "cni",
-                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly", "containerd"
+                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly", "containerd", "linkerd2"
             ]
         },
         {
@@ -41701,6 +41701,12 @@
             "title": "linkerd",
             "child": true,
             "modules": ["linkerd"]
+        },
+        {
+            "id": "linkerd2",
+            "title": "linkerd2",
+            "child": true,
+            "modules": ["linkerd2"]
         },
         {
             "id": "helm",
