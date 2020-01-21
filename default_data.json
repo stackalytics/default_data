@@ -20313,15 +20313,16 @@
             "emails": ["maty.grosz@alcatel-lucent.com", "imdg24@gmail.com"]
         },
         {
-            "launchpad_id": "maurice-schreiber",
+            "launchpad_id": "maurice-escher",
+            "github_id": "carthaca",
             "companies": [
                 {
                     "company_name": "SAP",
                     "end_date": null
                 }
             ],
-            "user_name": "Maurice Schreiber",
-            "emails": ["maurice.schreiber@sap.com"]
+            "user_name": "Maurice Escher",
+            "emails": ["maurice.schreiber@sap.com", "maurice.escher@sap.com"]
         },
         {
             "launchpad_id": "mauricio-lima",
