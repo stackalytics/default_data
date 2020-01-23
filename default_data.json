@@ -1793,6 +1793,17 @@
             "emails": ["wqlu@alauda.io", "kenan3015@gmail.com"]
         },
         {
+            "github_id": "adrian555",
+            "companies": [
+                {
+                    "company_name": "IBM",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Adrian Zhuang",
+            "emails": ["wzhuang@us.ibm.com"]
+        },
+        {
             "launchpad_id": "adrianmo",
             "companies": [
                 {
