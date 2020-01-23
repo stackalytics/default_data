@@ -6337,6 +6337,10 @@
             "launchpad_id": "clauz",
             "companies": [
                 {
+                    "company_name": "Unidata",
+                    "end_date": "2015-Sep-30"
+                },
+                {
                     "company_name": "GARR",
                     "end_date": null
                 }
@@ -38347,6 +38351,10 @@
         {
             "domains": ["uni-wuerzburg.de"],
             "company_name": "University of Würzburg"
+        },
+        {
+            "domains": ["unidata.it"],
+            "company_name": "Unidata"
         },
         {
             "domains": ["unimelb.edu.au"],
