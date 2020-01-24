@@ -40731,6 +40731,36 @@
             "uri": "https://github.com/kubeflow/manifests.git"
         },
         {
+            "module": "kfctl@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/kfctl.git"
+        },
+        {
+            "module": "code-intelligence@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/code-intelligence.git"
+        },
+        {
+            "module": "kfp-tekton@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/kfp-tekton.git"
+        },
+        {
+            "module": "frontend@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/frontend.git"
+        },
+        {
+            "module": "xgboost-operator@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/xgboost-operator.git"
+        },
+        {
+            "module": "reporting@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/reporting.git"
+        },
+        {
             "module": "kubespray",
             "organization": "kubernetes-sigs",
             "uri": "https://github.com/kubernetes-sigs/kubespray.git"
