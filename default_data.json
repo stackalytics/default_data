@@ -42239,7 +42239,9 @@
                 "arena@kubeflow", "pytorch-operator@kubeflow", "tf-operator@kubeflow", "fairing@kubeflow",
                 "testing@kubeflow", "crd-validation@kubeflow", "mxnet-operator@kubeflow", "batch-predict@kubeflow",
                 "chainer-operator@kubeflow", "mpi-operator@kubeflow", "example-seldon@kubeflow", "common@kubeflow",
-                "metadata@kubeflow", "kfserving@kubeflow", "manifests@kubeflow"
+                "metadata@kubeflow", "kfserving@kubeflow", "manifests@kubeflow", "kfctl@kubeflow",
+                "code-intelligence@kubeflow", "kfp-tekton@kubeflow", "frontend@kubeflow",
+                "xgboost-operator@kubeflow", "reporting@kubeflow"
             ]
         },
         {
