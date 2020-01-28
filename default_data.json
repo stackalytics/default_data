@@ -1951,6 +1951,17 @@
             "emails": ["aishu.ece@gmail.com", "aishwarya.thangappa@gmail.com"]
         },
         {
+            "launchpad_id": "aitianxiang",
+            "companies": [
+                {
+                    "company_name": "China Telecom",
+                    "end_date": null
+                }
+            ],
+            "user_name": "tianxiang ai",
+            "emails": ["shuaibitu@gmail.com", "aitianxiang@chinatelecom.cn"]
+        },
+        {
             "launchpad_id": "ajayaa",
             "companies": [
                 {
@@ -4246,6 +4257,10 @@
             "companies": [
                 {
                     "company_name": "B1 Systems GmbH",
+                    "end_date": "2019-Dec-31"
+                },
+                {
+                    "company_name": "Betacloud Solutions GmbH",
                     "end_date": null
                 }
             ],
@@ -6018,6 +6033,17 @@
             ],
             "user_name": "Ramesh Chander Chhaba",
             "emails": ["ramesh.chander@sandisk.com"]
+        },
+        {
+            "launchpad_id": "chi-simone98k",
+            "companies": [
+                {
+                    "company_name": "Troila",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Meng Chi",
+            "emails": ["chisimon98k@gmail.com"]
         },
         {
             "launchpad_id": "chi-xu",
@@ -8797,6 +8823,18 @@
                 }
             ],
             "emails": ["dougwig@parkside.io", "dougw@a10networks.com", "dwiegley@salesforce.com"]
+        },
+        {
+            "launchpad_id": "douyali",
+            "github_id": "fightdou",
+            "companies": [
+                {
+                    "company_name": "Troila",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Yali dou",
+            "emails": ["douyali@troila.com", "douyali328@gmail.com"]
         },
         {
             "github_id": "dqmihn",
@@ -21659,6 +21697,10 @@
                 },
                 {
                     "company_name": "Futurewei",
+                    "end_date": "2020-Jan-03"
+                },
+                {
+                    "company_name": "IBM",
                     "end_date": null
                 }
             ],
@@ -36409,6 +36451,10 @@
             "company_name": "Best Buy"
         },
         {
+            "domains": ["betacloud-solutions.de", "betacloud.de", "betacloud.io"],
+            "company_name": "Betacloud Solutions GmbH"
+        },
+        {
             "domains": ["bigswitch.com"],
             "company_name": "Big Switch Networks",
             "aliases": ["Big Switch"]
@@ -38285,6 +38331,11 @@
             "company_name": "TriggerMesh"
         },
         {
+            "domains": ["troila.com", "kunluncloud.com"],
+            "company_name": "Troila",
+            "aliases": ["Troila Technology", "Troila Tech"]
+        },
+        {
             "domains": ["tsh-world.co.jp"],
             "company_name": "TOKYO SYSTEM HOUSE"
         },
@@ -38807,9 +38858,15 @@
                     "tag_from": "14.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/train",
                     "tag_to": "HEAD",
                     "release_name": "Train",
                     "tag_from": "15.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "16.0.0.0rc1"
                 }
             ],
             "uri": "https://opendev.org/openstack/keystone.git",
