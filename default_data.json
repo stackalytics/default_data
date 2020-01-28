@@ -40750,6 +40750,36 @@
             "uri": "https://github.com/kubeflow/manifests.git"
         },
         {
+            "module": "kfctl@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/kfctl.git"
+        },
+        {
+            "module": "code-intelligence@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/code-intelligence.git"
+        },
+        {
+            "module": "kfp-tekton@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/kfp-tekton.git"
+        },
+        {
+            "module": "frontend@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/frontend.git"
+        },
+        {
+            "module": "xgboost-operator@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/xgboost-operator.git"
+        },
+        {
+            "module": "reporting@kubeflow",
+            "organization": "kubeflow",
+            "uri": "https://github.com/kubeflow/reporting.git"
+        },
+        {
             "module": "kubespray",
             "organization": "kubernetes-sigs",
             "uri": "https://github.com/kubernetes-sigs/kubespray.git"
@@ -42228,7 +42258,9 @@
                 "arena@kubeflow", "pytorch-operator@kubeflow", "tf-operator@kubeflow", "fairing@kubeflow",
                 "testing@kubeflow", "crd-validation@kubeflow", "mxnet-operator@kubeflow", "batch-predict@kubeflow",
                 "chainer-operator@kubeflow", "mpi-operator@kubeflow", "example-seldon@kubeflow", "common@kubeflow",
-                "metadata@kubeflow", "kfserving@kubeflow", "manifests@kubeflow"
+                "metadata@kubeflow", "kfserving@kubeflow", "manifests@kubeflow", "kfctl@kubeflow",
+                "code-intelligence@kubeflow", "kfp-tekton@kubeflow", "frontend@kubeflow",
+                "xgboost-operator@kubeflow", "reporting@kubeflow"
             ]
         },
         {
