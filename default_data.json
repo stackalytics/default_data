@@ -6338,6 +6338,17 @@
             "emails": ["ck.khullar@gmail.com"]
         },
         {
+            "github_id": "ckadner",
+            "companies": [
+                {
+                    "company_name": "IBM",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Christian Kadner",
+            "emails": ["ckadner@us.ibm.com", "ckadner@users.noreply.github.com", "ckadner@apache.org"]
+        },
+        {
             "launchpad_id": "ckonstanski",
             "companies": [
                 {
