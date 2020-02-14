@@ -7382,6 +7382,18 @@
             "emails": ["pawlik.dan@gmail.com", "daniel.pawlik@corp.ovh.com"]
         },
         {
+            "launchpad_id": "danielarthurt",
+            "github_id": "danielarthurt",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Daniel Arthur Silveira Tapia",
+            "emails": ["danielarthurt@gmail.com", "daniel.tapia@fit-tecnologia.org.br", "dtapia@netapp.com"]
+        },
+        {
             "github_id": "danielfbm",
             "companies": [
                 {
@@ -11591,6 +11603,17 @@
             ],
             "user_name": "Greg Lange",
             "emails": ["greglange@gmail.com", "glange@rackspace.com"]
+        },
+        {
+            "launchpad_id": "gregoiremahe",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": "2019-Dec-05"
+                }
+            ],
+            "user_name": "Grégoire Mahé",
+            "emails": ["gregoire.mahe@corp.ovh.com"]
         },
         {
             "launchpad_id": "gregoryhooksjr",
@@ -24291,6 +24314,17 @@
             "emails": ["psiwczak@internap.com", "psiwczak@mirantis.com"]
         },
         {
+            "launchpad_id": "pslestang",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Pierre-Samuel Le Stang",
+            "emails": ["pierre-samuel.le-stang@corp.ovh.com"]
+        },
+        {
             "launchpad_id": "psp0808",
             "companies": [
                 {
@@ -24494,6 +24528,17 @@
             ],
             "user_name": "luqitao",
             "emails": ["qtlu@fiberhome.com", "luqt2011@163.com"]
+        },
+        {
+            "launchpad_id": "quentin.grolleau",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Quentin Grolleau",
+            "emails": ["quentin.grolleau@ovhcloud.com"]
         },
         {
             "launchpad_id": "qunyingran",
@@ -34925,6 +34970,17 @@
             "emails": ["nguzcf@gmail.com", "zhangchengfei@t2cloud.net"]
         },
         {
+            "launchpad_id": "zed-0xff",
+            "companies": [
+                {
+                    "company_name": "Samsung",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Andrey Zaikin",
+            "emails": ["a.zaikin@partner.samsung.com", "zed.0xff@gmail.com"]
+        },
+        {
             "launchpad_id": "zefciu",
             "github_id": "zefciu",
             "companies": [
@@ -41894,6 +41950,11 @@
             "organization": "openstack"
         },
         {
+            "module": "airship-website",
+            "uri": "https://github.com/airshipweb/airship-website.git",
+            "organization": "openstack"
+        },
+        {
             "module": "istio-forked",
             "organization": "cloudfoundry",
             "uri": "git://github.com/cloudfoundry/istio.git"
@@ -42287,7 +42348,7 @@
                 "airship-governance", "airship-images", "airship-kubernetes-entrypoint", "airship-maas",
                 "airship-pegleg", "airship-porthole", "airship-promenade", "airship-shipyard", "airship-specs",
                 "airship-spyglass", "airship-spyglass-plugin-xls", "airship-tempest-plugin", "airship-treasuremap",
-                "airship-utils"
+                "airship-utils", "airship-website"
             ]
         },
         {
