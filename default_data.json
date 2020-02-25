@@ -8215,6 +8215,19 @@
             "emails": ["dan.florea@gmail.com", "dflorea@vmware.com"]
         },
         {
+            "github_id": "dgn",
+            "companies": [
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Daniel Grimm",
+            "emails": [
+                "dgn@users.noreply.github.com", "dgrimm@redhat.com"
+            ]
+        },
+        {
             "launchpad_id": "dgonzalez",
             "companies": [
                 {
