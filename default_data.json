@@ -692,6 +692,16 @@
             "emails": ["rama.rao@salesforce.com", "ramaraochavali@gmail.com"]
         },
         {
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Luna Das",
+            "emails": ["cse2013luna@gmail.com", "ld366r@att.com", "luna.das@imaginea.com"]
+        },
+        {
             "launchpad_id": "0-doug",
             "companies": [
                 {
