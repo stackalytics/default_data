@@ -18141,6 +18141,17 @@
             "emails": ["lianghao@cmss.chinamobile.com", "root@lh-test1.localdomain"]
         },
         {
+            "launchpad_id": "ShuaiSun",
+            "companies": [
+                {
+                    "company_name": "China Mobile",
+                    "end_date": null
+                }
+            ],
+            "user_name": "willise",
+            "emails": ["sunshuai@cmss.chinamobile.com"]
+        },
+        {
             "launchpad_id": "liaoishere",
             "companies": [
                 {
