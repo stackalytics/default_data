@@ -32884,6 +32884,17 @@
             "emails": ["william.diego@orange.com"]
         },
         {
+            "github_id": "willise",
+            "companies": [
+                {
+                    "company_name": "China Mobile",
+                    "end_date": null
+                }
+            ],
+            "user_name": "willise",
+            "emails": ["sunshuai@cmss.chinamobile.com"]
+        },
+        {
             "github_id": "willstudy",
             "companies": [
                 {
