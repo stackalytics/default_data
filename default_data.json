@@ -26486,6 +26486,21 @@
             "emails": ["jingyuan@unitedstack.com", "rustinpeace@163.com"]
         },
         {
+            "launchpad_id": "lsofia-enriquez",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": "2018-Oct-16"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Sofia Enriquez",
+            "emails": ["lsofia.enriquez@gmail.com", "senrique@redhat.com"]
+        },
+        {
             "launchpad_id": "rusty-lynch-intel",
             "companies": [
                 {
