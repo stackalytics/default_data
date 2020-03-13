@@ -3788,12 +3788,12 @@
             "launchpad_id": "ashu.kumar",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
             "user_name": "Ashu Kumar",
-            "emails": ["ashu_kumar@dellteam.com"]
+            "emails": ["ashu_kumar@dellteam.com", "ashughorla@gmail.com"]
         },
         {
             "launchpad_id": "ashwin-agate",
@@ -4694,6 +4694,10 @@
                 },
                 {
                     "company_name": "VMware",
+                    "end_date": "2020-Mar-01"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -6632,6 +6636,17 @@
             "emails": ["singh.surya64mnnit@gmail.com", "surya.singh@india.nec.com"]
         },
         {
+            "launchpad_id": "congnt95",
+            "companies": [
+                {
+                    "company_name": "VCCorp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Nguyen Thanh Cong",
+            "emails": ["ntcong1705@gmail.com", "congnguyenthanh@vccorp.vn"]
+        },
+        {
             "launchpad_id": "coolias-lj",
             "companies": [
                 {
@@ -6763,7 +6778,7 @@
             "launchpad_id": "cps1408",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -8029,14 +8044,15 @@
         },
         {
             "launchpad_id": "demoncoder95",
+            "github_id": "demonrcCoder95",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
             "user_name": "Noor Muhammad",
-            "emails": ["noor.muhammad@xflowresearch.com", "noor_muhammad@dellteam.com"]
+            "emails": ["noor.muhammad@xflowresearch.com", "noor_muhammad@dellteam.com", "noormuhammadmalik95@gmail.com"]
         },
         {
             "launchpad_id": "demoyuw",
@@ -8404,7 +8420,7 @@
                     "end_date": null
                 }
             ],
-            "user_name": "Digambar",
+            "user_name": "Digambar Patil",
             "emails": [
                 "digambarpatil15@yahoo.co.in", "digambarpat@gmail.com", "digambar.patil@calsoftinc.com",
                 "digmabar_patil@dellteam.com"
@@ -9832,6 +9848,18 @@
             ]
         },
         {
+            "launchpad_id": "erbarr",
+            "github_id": "erbarr",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Eric Barrera",
+            "emails": ["eric_barrera@dell.com"]
+        },
+        {
             "launchpad_id": "erezak",
             "companies": [
                 {
@@ -10172,6 +10200,10 @@
             "companies": [
                 {
                     "company_name": "VMware",
+                    "end_date": "2020-Mar-01"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -10963,7 +10995,7 @@
             "launchpad_id": "garimamisra",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -11005,6 +11037,10 @@
                 },
                 {
                     "company_name": "VMware",
+                    "end_date": "2020-Mar-01"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -12567,7 +12603,7 @@
             "launchpad_id": "hiregoudarg",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -16254,7 +16290,7 @@
                 }
             ],
             "user_name": "John T. Williams",
-            "emails": ["j_t_willaims@dell.com"]
+            "emails": ["j_t_willaims@dell.com", "jtwill98@yahoo.com"]
         },
         {
             "launchpad_id": "juan-pablo-lopez-gutierrez",
@@ -17161,7 +17197,7 @@
             "launchpad_id": "kirandivekar",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -19595,7 +19631,7 @@
             "launchpad_id": "madhumatichougule31",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -21714,7 +21750,7 @@
             "launchpad_id": "mraineri",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -22103,12 +22139,12 @@
             "github_id": "nasir-kamal",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
             "user_name": "Nasir Kamal",
-            "emails": ["nasir_kamal@dellteam.com"]
+            "emails": ["nasir_kamal@dellteam.com", "nasirkamal@live.com"]
         },
         {
             "launchpad_id": "nate-graf",
@@ -22213,7 +22249,7 @@
             "launchpad_id": "neha-alhat",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -23557,7 +23593,7 @@
             "launchpad_id": "pcheli",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -24967,14 +25003,15 @@
         },
         {
             "launchpad_id": "raschid",
+            "github_id": "rashidxf",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
             "user_name": "Rashid Iqbal",
-            "emails": ["rashid_iqbal@dellteam.com"]
+            "emails": ["rashid_iqbal@dellteam.com", "rashid.iqbal@gmail.com"]
         },
         {
             "launchpad_id": "ravishekar-jethani",
@@ -24990,6 +25027,18 @@
             ],
             "user_name": "Ravi Shekhar Jethani",
             "emails": ["rsjethani@gmail.com", "ravishekar.jethani@nttdata.com"]
+        },
+        {
+            "github_id": "raviwaghmare",
+            "launchpad_id": "raviwaghmare",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ravi Waghamare",
+            "emails": ["raviwaghmare@gmail.com", "ravi_waghamare@dellteam.com"]
         },
         {
             "launchpad_id": "rawlin-peters",
@@ -25353,6 +25402,10 @@
             "companies": [
                 {
                     "company_name": "VMware",
+                    "end_date": "2020-Mar-01"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -26315,14 +26368,15 @@
         },
         {
             "launchpad_id": "rsharma101",
+            "github_id": "sharajat",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
             "user_name": "Rajat Sharma",
-            "emails": ["rajat.sharma@calsoftinc.com", "rajat_sharma10@dellteam.com"]
+            "emails": ["rajat.sharma@calsoftinc.com", "rajat_sharma10@dellteam.com", "rajatcu143@gmail.com"]
         },
         {
             "launchpad_id": "rsokolkov",
@@ -26898,7 +26952,7 @@
             "launchpad_id": "sana-aawan",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -26964,7 +27018,7 @@
             "launchpad_id": "santoshra",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -28410,7 +28464,7 @@
             "launchpad_id": "skaushal14",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -28704,6 +28758,17 @@
             ],
             "user_name": "Christopher Brown",
             "emails": ["snecklifter@gmail.com", "cbrown2@ocf.co.uk", "chris.brown@redhat.com", "chribrow@redhat.com"]
+        },
+        {
+            "github_id": "snehal1797",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Snehal Hodage",
+            "emails": ["snehal.hodage97@gmail.com", "snehal_hodage@dellteam.com"]
         },
         {
             "github_id": "sniperking1234",
@@ -29537,6 +29602,17 @@
             "emails": ["sumant.murke@intel.com"]
         },
         {
+            "github_id": "sumitjadhav1",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Sumit Jadhav",
+            "emails": ["jadhavsumit24@gmail.com", "sumit_jadhav@dellteam.com"]
+        },
+        {
             "launchpad_id": "sumitjami",
             "companies": [
                 {
@@ -29642,7 +29718,7 @@
             "launchpad_id": "surendra1904",
             "companies": [
                 {
-                    "company_name": "DellEMC",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
@@ -34498,6 +34574,21 @@
             "emails": ["a-yoshiyama@bu.jp.nec.com", "akirayoshiyama@gmail.com"]
         },
         {
+            "launchpad_id": "yottatsa",
+            "companies": [
+                {
+                    "company_name": "Yandex",
+                    "end_date": "2015-Sep-25"
+                },
+                {
+                    "company_name": "Mirantis",
+                    "end_date": "2017-Apr-21"
+                }
+            ],
+            "user_name": "Atsuko Ito",
+            "emails": ["me@yottatsa.name", "veremin@mirantis.com", "yottatsa@yandex-team.ru"]
+        },
+        {
             "launchpad_id": "youngilkim",
             "companies": [
                 {
@@ -35860,6 +35951,7 @@
         },
         {
             "launchpad_id": "zhu-rong",
+            "github_id": "zhur0ng",
             "companies": [
                 {
                     "company_name": "99cloud",
@@ -42686,6 +42778,7 @@
         "http://lists.airshipit.org/pipermail/airship-discuss/",
         "http://lists.airshipit.org/pipermail/airship-job-failures/",
         "http://lists.openstack.org/pipermail/openstack-dev/",
+        "http://lists.openstack.org/pipermail/openstack-discuss/",
         "http://lists.openstack.org/pipermail/openstack-docs/",
         "http://lists.openstack.org/pipermail/openstack-i18n/",
         "http://lists.openstack.org/pipermail/openstack-infra/",
