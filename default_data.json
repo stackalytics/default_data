@@ -2019,6 +2019,17 @@
             "emails": ["aju@iraw.net"]
         },
         {
+            "github_id": "ajya",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Aija Jaunteva",
+            "emails": ["aija.jauteva@dell.com", "code@clusums.eu"]
+        },
+        {
             "launchpad_id": "akamyshnikova",
             "companies": [
                 {
@@ -2677,6 +2688,17 @@
             "emails": ["avmerzlyakov.sbt@sberbank.ru", "amerzlyakov@selit.ru"]
         },
         {
+            "launchpad_id": "ameyar",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ameya Raut",
+            "emails": ["rautameya04@gmail.com", "ameya.raut@calsoftinc.com", "ameya_r@dellteam.com"]
+        },
+        {
             "launchpad_id": "amitry",
             "companies": [
                 {
@@ -2981,11 +3003,15 @@
             "companies": [
                 {
                     "company_name": "University of Melbourne",
+                    "end_date": "2018-Jun-30"
+                },
+                {
+                    "company_name": "Australian Research Data Commons",
                     "end_date": null
                 }
             ],
             "user_name": "Andy Botting",
-            "emails": ["andy@andybotting.com", "andrew.botting@unimelb.edu.au", "nectar@andybotting.com"]
+            "emails": ["andy@andybotting.com", "andrew.botting@unimelb.edu.au", "nectar@andybotting.com", "andy.botting@ardc.edu.au"]
         },
         {
             "launchpad_id": "aniketanikhindi",
@@ -3929,6 +3955,21 @@
             ],
             "user_name": "Nastya Urlapova",
             "emails": ["aurlapova@mirantis.com", "a.urlapova@gmail.com"]
+        },
+        {
+            "launchpad_id": "aussieade",
+            "companies": [
+                {
+                    "company_name": "University of Melbourne",
+                    "end_date": "2018-Jun-30"
+                },
+                {
+                    "company_name": "Australian Research Data Commons",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Adrian Smith",
+            "emails": ["aussieade@gmail.com", "adrian.smith@ardc.edu.au"]
         },
         {
             "launchpad_id": "avinash-prasad",
@@ -6997,6 +7038,18 @@
             ],
             "user_name": "Richard Avelar",
             "emails": ["csravelar@gmail.com"]
+        },
+        {
+            "launchpad_id": "csss.youk",
+            "github_id": "csyouk",
+            "companies": [
+                {
+                    "company_name": "Samsung",
+                    "end_date": "2022-Jan-01"
+                }
+            ],
+            "user_name": "Changsu Youk",
+            "emails": ["csyouk@gmail.com", "csss.youk@gmail.com", "csss.youk@samsung.com"]
         },
         {
             "launchpad_id": "cstacke",
@@ -10280,6 +10333,18 @@
             "emails": ["peni@microsoft.com", "feiskyer@users.noreply.github.com"]
         },
         {
+            "launchpad_id": "felipefutty",
+            "github_id": "felipefutty",
+            "companies": [
+                {
+                    "company_name": "NetApp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Felipe Rodrigues",
+            "emails": ["felipefuty01@gmail.com", "felipe.novaes@fit-tecnologia.org.br"]
+        },
+        {
             "launchpad_id": "fellypefca",
             "companies": [
                 {
@@ -11084,6 +11149,17 @@
             ],
             "user_name": "Gerard Braad",
             "emails": ["me@gbraad.nl", "gbraad@redhat.com"]
+        },
+        {
+            "launchpad_id": "gcm918",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Gopi Manapragada",
+            "emails": ["gopi.manpragada@dell.com"]
         },
         {
             "github_id": "gcy1012",
@@ -13411,11 +13487,11 @@
             "companies": [
                 {
                     "company_name": "Accenture",
-                    "end_date": null
+                    "end_date": "2020-Mar-17"
                 }
             ],
             "user_name": "Ian Pittwood",
-            "emails": ["pittwoodian@gmail.com", "ip692y@att.com"]
+            "emails": ["pittwoodian@gmail.com"]
         },
         {
             "launchpad_id": "ibolotin",
@@ -22221,6 +22297,22 @@
             ]
         },
         {
+            "launchpad_id": "natsume-takashi",
+            "github_id": "takanattie",
+            "companies": [
+                {
+                    "company_name": "NTT",
+                    "end_date": "2020-Jan-31"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Takashi Natsume",
+            "emails": ["takanattie@gmail.com", "natsume.takashi@lab.ntt.co.jp"]
+        },
+        {
             "launchpad_id": "nbeard",
             "companies": [
                 {
@@ -27107,6 +27199,22 @@
             ],
             "user_name": "Sascha Peilicke",
             "emails": ["saschpe@suse.de", "saschpe@gmx.de"]
+        },
+        {
+            "launchpad_id": "satender346",
+            "github_id": "satender346",
+            "companies": [
+                {
+                    "company_name": "Ericsson",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Satender Yadav",
+            "emails": [
+                "sy336r@att.com",
+                "satenderdusad@gmail.com",
+                "satender.y.yadav@ericsson.com"
+            ]
         },
         {
             "launchpad_id": "satish-venkatasubramanian-7",
@@ -34465,6 +34573,17 @@
             ],
             "user_name": "JackieYuan",
             "emails": ["jing.yuan@easystack.cn", "yj2311@126.com"]
+        },
+        {
+            "launchpad_id": "yjmango",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Li YaJie",
+            "emails": ["yajiemango@163.com"]
         },
         {
             "launchpad_id": "ymlong",
