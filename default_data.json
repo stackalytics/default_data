@@ -12878,6 +12878,17 @@
             "emails": ["xuhh@awcloud.com"]
         },
         {
+            "launchpad_id": "honglan0914",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "XiaoYu Zhu",
+            "emails": ["z503755743@gmail.com", "z503755743@qq.com"]
+        },
+        {
             "launchpad_id": "hougangliu",
             "companies": [
                 {
@@ -18614,6 +18625,18 @@
             ],
             "user_name": "linlin",
             "emails": ["469923498@qq.com", "kf.linlin@h3c.com"]
+        },
+        {
+            "launchpad_id": "linpeiwen",
+            "github_id": "LinPeiWen",
+            "companies": [
+                {
+                    "company_name": "Troila",
+                    "end_date": null
+                }
+            ],
+            "user_name": "LinPeiWen",
+            "emails": ["linpeiwen@troila.com", "591171850@qq.com"]
         },
         {
             "launchpad_id": "linuxjedi",
