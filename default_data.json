@@ -63,6 +63,16 @@
         {
             "companies": [
                 {
+                    "company_name": "ChinaMobile-xa",
+                    "end_date": null
+                }
+            ],
+            "user_name": "yarntime",
+            "emails": ["yarntime@163.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "Google",
                     "end_date": null
                 }
@@ -37084,6 +37094,10 @@
             "domains": ["cmbc.com.cn"],
             "company_name": "CMBC",
             "aliases": ["China Minsheng Bank"]
+        },
+        {
+            "domains": ["cmccsi.cn"],
+            "company_name": "ChinaMobile-xa"
         },
         {
             "domains": ["cmos.chinamobile.com"],
