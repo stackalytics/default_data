@@ -1,5 +1,15 @@
 {
     "users": [
+       {
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "limin0801",
+            "emails": ["limin.lc@inspur.com"]
+        },
         {
             "companies": [
                 {
@@ -8437,6 +8447,17 @@
             "emails": ["david.hillyard@verizonwireless.com"]
         },
         {
+            "launchpad_id": "dhuldev30",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dhuldev Valekar",
+            "emails": ["dhuldev.valekar@gmail.com", "dhuldev_valekar@dellteam.com", "dhuldev.valekar@calsoftinc.com"]
+        },
+        {
             "launchpad_id": "diana-clarke",
             "companies": [
                 {
@@ -11041,6 +11062,17 @@
             ],
             "user_name": "Viola Gao",
             "emails": ["gaoqian1983@outlook.com"]
+        },
+        {
+            "launchpad_id": "gaoyublack",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "gao yu",
+            "emails": ["gaoyublack@163.com"]
         },
         {
             "launchpad_id": "gaozhenhai",
@@ -13866,6 +13898,18 @@
             ],
             "user_name": "Irena Berezovsky",
             "emails": ["irenab.dev@gmail.com", "irena@midokura.com", "irenab@mellanox.com"]
+        },
+        {
+            "launchpad_id": "irisdingbj",
+            "github_id": "irisdingbj",
+            "companies": [
+                {
+                    "company_name": "IBM",
+                    "end_date": null
+                }
+            ],
+            "user_name": "IrisDing",
+            "emails": ["dingsj@cn.ibm.com", "irisdingbj@gmail.com"]
         },
         {
             "launchpad_id": "ironcamel",
@@ -17318,12 +17362,12 @@
             "launchpad_id": "kiseok7",
             "companies": [
                 {
-                    "company_name": "Netmarble",
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Kiseok Kim",
-            "emails": ["kskim@netmarble.com", "kiseok7@gmail.com"]
+            "emails": ["kiseok7@gmail.com"]
         },
         {
             "launchpad_id": "kiwik-chenrui",
@@ -27548,11 +27592,15 @@
                 },
                 {
                     "company_name": "Cisco Systems",
+                    "end_date": "2018-Nov-15"
+                },
+                {
+                    "company_name": "IBM",
                     "end_date": null
                 }
             ],
             "user_name": "Steven Dake",
-            "emails": ["sdake@redhat.com", "stdake@cisco.com"]
+            "emails": ["sdake@redhat.com", "stdake@cisco.com", "sdake@ibm.com", "steven.dake@gmail.com"]
         },
         {
             "launchpad_id": "sdeaton2",
@@ -40594,6 +40642,43 @@
             "uri": "https://opendev.org/openstack/api-site.git",
             "module": "api-site",
             "organization": "openstack"
+        },
+        {
+            "module": "tap-as-a-service",
+            "organization": "openstack",
+            "uri": "https://opendev.org/x/tap-as-a-service",
+            "releases": [
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "6.0.0"
+                },
+                {
+                    "tag_to": "6.0.0",
+                    "release_name": "Stein",
+                    "tag_from": "5.0.0"
+                },
+                {
+                    "tag_to": "5.0.0",
+                    "release_name": "Rocky",
+                    "tag_from": "4.0.0"
+                },
+                {
+                    "tag_to": "4.0.0",
+                    "release_name": "Queens",
+                    "tag_from": "3.0.0"
+                },
+                {
+                    "tag_to": "3.0.0",
+                    "release_name": "Pike",
+                    "tag_from": "2.0.0"
+                },
+                {
+                    "tag_to": "2.0.0",
+                    "release_name": "Ocata",
+                    "tag_from": "1.0.0"
+                }
+            ]
         },
         {
             "module": "sahara",
