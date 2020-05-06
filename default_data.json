@@ -23096,6 +23096,21 @@
             ]
         },
         {
+            "launchpad_id": "obondarev",
+            "companies": [
+                {
+                    "company_name": "Mirantis",
+                    "end_date": "2020-Feb-21"
+                },
+                {
+                    "company_name": "Huawei",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Oleg Bondarev",
+            "emails": ["obondarev@mirantis.com", "bondarevoi@gmail.com", "oleg.bondarev@huawei.com"]
+        },
+        {
             "launchpad_id": "octopuszhang",
             "companies": [
                 {
