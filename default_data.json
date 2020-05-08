@@ -24313,6 +24313,18 @@
             "emails": ["ppiela@cray.com"]
         },
         {
+            "launchpad_id": "pponnuvel",
+            "github_id": "pponnuvel",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ponnuvel Palaniyappan",
+            "emails": ["pponnuvel@gmail.com", "ponnuvel.palaniyappan@canonical.com"]
+        },
+        {
             "launchpad_id": "prabhu-murthy",
             "companies": [
                 {
