@@ -42989,6 +42989,14 @@
                 "pipeline@tekton", "website@tekton", "catalog@tekton", "dashboard@tekton",
                 "experimental@tekton", "cli@tekton", "plumbing@tekton", "community@tekton"
             ]
+        },
+        {
+            "module_group_name": "longhorn-group",
+            "modules": [
+                "longhorn", "longhorn-ui@longhorn", "website@longhorn", "engine@longhorn",
+                "manager@longhorn", "backupstore@longhorn", "longhorn-tests@longhorn", "go-iscsi-helper@longhorn",
+                "longhorn-instance-manager@longhorn", "sparse-tools@longhorn", "community@longhorn"
+            ]
         }
     ],
     "releases": [
@@ -43363,7 +43371,7 @@
             "id": "longhorn",
             "title": "longhorn",
             "child": true,
-            "modules": ["longhorn"]
+            "modules": ["longhorn-group"]
         },
         {
             "id": "helm",
