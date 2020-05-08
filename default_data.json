@@ -13,16 +13,6 @@
         {
             "companies": [
                 {
-                    "company_name": "Inspur",
-                    "end_date": null
-                }
-            ],
-            "user_name": "limin0801",
-            "emails": ["limin.lc@inspur.com"]
-        },
-        {
-            "companies": [
-                {
                     "company_name": "Rancher Labs",
                     "end_date": null
                 }
@@ -89,6 +79,96 @@
             ],
             "user_name": "yarntime",
             "emails": ["yarntime@163.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "China Mobile System Integration",
+                    "end_date": null
+                }
+            ],
+            "user_name": "guoshuai",
+            "emails": ["1025951714@qq.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "China Mobile System Integration",
+                    "end_date": null
+                }
+            ],
+            "user_name": "DGBStarSky",
+            "emails": ["862076528@qq.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "China Mobile System Integration",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhangru-dev",
+            "emails": ["zhangru@chinamobile.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "China Mobile System Integration",
+                    "end_date": null
+                }
+            ],
+            "user_name": "titank",
+            "emails": ["titank@gmail.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "China Mobile System Integration",
+                    "end_date": null
+                }
+            ],
+            "user_name": "yeyanGM",
+            "emails": ["2232036241@qq.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "China Mobile System Integration",
+                    "end_date": null
+                }
+            ],
+            "user_name": "fengyue2",
+            "emails": ["1415355063@qq.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "China Mobile System Integration",
+                    "end_date": null
+                }
+            ],
+            "user_name": "shiftraodd",
+            "emails": ["1572197779@qq.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "China Mobile System Integration",
+                    "end_date": null
+                }
+            ],
+            "user_name": "emma",
+            "emails": ["zhangaxin@chinamobile.com"]
+        },
+        {
+            "companies": [
+                {
+                    "company_name": "China Mobile System Integration",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhanggong",
+            "emails": ["823194381@qq.com"]
         },
         {
             "companies": [
@@ -3501,6 +3581,17 @@
             ],
             "user_name": "Ahmed Rahal",
             "emails": ["arahal@iweb.com", "arahal@internap.com"]
+        },
+        {
+            "launchpad_id": "archiephan",
+            "companies": [
+                {
+                    "company_name": "VCCorp",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Chung Phan",
+            "emails": ["chungphan7819@gmail.com", "chungphanhuuthanh@vccorp.vn"]
         },
         {
             "launchpad_id": "areial",
@@ -18602,6 +18693,17 @@
             "emails": ["limeng@awcloud.com"]
         },
         {
+            "launchpad_id": "limin0801",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "limin0801",
+            "emails": ["limin.lc@inspur.com"]
+        },
+        {
             "launchpad_id": "liminliu",
             "companies": [
                 {
@@ -22560,18 +22662,6 @@
             "emails": ["newypei@gmail.com"]
         },
         {
-            "launchpad_id": "nexusz99",
-            "zanata_id": "nexusz99",
-            "companies": [
-                {
-                    "company_name": "*independent",
-                    "end_date": null
-                }
-            ],
-            "user_name": "SeongSoo Cho",
-            "emails": ["nexusz99@gmail.com"]
-        },
-        {
             "launchpad_id": "nfedotov",
             "user_name": "Nikolay Fedotov",
             "companies": [
@@ -23104,6 +23194,21 @@
             "emails": [
                 "gbrown@redhat.com", "github@brownuk.com"
             ]
+        },
+        {
+            "launchpad_id": "obondarev",
+            "companies": [
+                {
+                    "company_name": "Mirantis",
+                    "end_date": "2020-Feb-21"
+                },
+                {
+                    "company_name": "Huawei",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Oleg Bondarev",
+            "emails": ["obondarev@mirantis.com", "bondarevoi@gmail.com", "oleg.bondarev@huawei.com"]
         },
         {
             "launchpad_id": "octopuszhang",
@@ -24308,6 +24413,18 @@
             ],
             "user_name": "Peter Piela",
             "emails": ["ppiela@cray.com"]
+        },
+        {
+            "launchpad_id": "pponnuvel",
+            "github_id": "pponnuvel",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ponnuvel Palaniyappan",
+            "emails": ["pponnuvel@gmail.com", "ponnuvel.palaniyappan@canonical.com"]
         },
         {
             "launchpad_id": "prabhu-murthy",
@@ -27803,6 +27920,18 @@
             ],
             "user_name": "Robin Naundorf",
             "emails": ["r.naundorf@fh-muenster.de"]
+        },
+        {
+            "launchpad_id": "seongsoo.cho",
+            "zanata_id": "nexusz99",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "SeongSoo Cho",
+            "emails": ["nexusz99@gmail.com", "ppiyakk2@printf.kr"]
         },
         {
             "launchpad_id": "serenafeng",
@@ -34302,7 +34431,7 @@
                 },
                 {
                     "company_name": "Mesosphere",
-                    "end_date": null
+                    "end_date": "2020-Apr-17"
                 }
             ],
             "user_name": "Nick Jones",
@@ -36506,11 +36635,15 @@
             "companies": [
                 {
                     "company_name": "DaoCloud",
+                    "end_date": "2020-Mar-03"
+                },
+                {
+                    "company_name": "Alibaba",
                     "end_date": null
                 }
             ],
             "user_name": "Weiwei zhu",
-            "emails": ["weiwei.zhu@daocloud.io", "zwwhdls@hotmail.com"]
+            "emails": ["zwwhdls@hotmail.com"]
         },
         {
             "github_id": "zxDiscovery",
@@ -43037,6 +43170,17 @@
         {
             "release_name": "Ussuri",
             "end_date": "2020-May-15",
+            "refs": {
+                "governance": {
+                    "type": "big_tent",
+                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
+                }
+            },
+            "project": "openstack"
+        },
+        {
+            "release_name": "Victoria",
+            "end_date": "2020-Oct-16",
             "refs": {
                 "governance": {
                     "type": "big_tent",
