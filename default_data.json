@@ -22560,18 +22560,6 @@
             "emails": ["newypei@gmail.com"]
         },
         {
-            "launchpad_id": "nexusz99",
-            "zanata_id": "nexusz99",
-            "companies": [
-                {
-                    "company_name": "*independent",
-                    "end_date": null
-                }
-            ],
-            "user_name": "SeongSoo Cho",
-            "emails": ["nexusz99@gmail.com"]
-        },
-        {
             "launchpad_id": "nfedotov",
             "user_name": "Nikolay Fedotov",
             "companies": [
@@ -27818,6 +27806,18 @@
             ],
             "user_name": "Robin Naundorf",
             "emails": ["r.naundorf@fh-muenster.de"]
+        },
+        {
+            "launchpad_id": "seongsoo.cho",
+            "zanata_id": "nexusz99",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "SeongSoo Cho",
+            "emails": ["nexusz99@gmail.com", "ppiyakk2@printf.kr"]
         },
         {
             "launchpad_id": "serenafeng",
