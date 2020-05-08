@@ -1,6 +1,16 @@
 {
     "users": [
-       {
+        {
+            "companies": [
+                {
+                    "company_name": "Rancher Labs",
+                    "end_date": null
+                }
+            ],
+            "user_name": "jasonvanbrackel",
+            "emails": ["jason@vanbrackel.net"]
+        },
+        {
             "companies": [
                 {
                     "company_name": "Inspur",
@@ -41322,6 +41332,11 @@
             "uri": "https://github.com/kubernetes/kops.git"
         },
         {
+            "module": "longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/longhorn.git"
+        },
+        {
             "module": "virtual-kubelet",
             "organization": "virtual-kubelet",
             "uri": "https://github.com/virtual-kubelet/virtual-kubelet.git"
@@ -43087,7 +43102,7 @@
             "title": "CNCF",
             "modules": [
                 "kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess", "coredns", "linkerd", "helm", "cni",
-                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly", "containerd", "linkerd2"
+                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly", "containerd", "linkerd2", "longhorn"
             ]
         },
         {
@@ -43149,6 +43164,12 @@
             "title": "linkerd2",
             "child": true,
             "modules": ["linkerd2"]
+        },
+        {
+            "id": "longhorn",
+            "title": "longhorn",
+            "child": true,
+            "modules": ["longhorn"]
         },
         {
             "id": "helm",
