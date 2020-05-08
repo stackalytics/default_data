@@ -36521,11 +36521,15 @@
             "companies": [
                 {
                     "company_name": "DaoCloud",
+                    "end_date": "2020-Mar-03"
+                },
+                {
+                    "company_name": "Alibaba",
                     "end_date": null
                 }
             ],
             "user_name": "Weiwei zhu",
-            "emails": ["weiwei.zhu@daocloud.io", "zwwhdls@hotmail.com"]
+            "emails": ["zwwhdls@hotmail.com"]
         },
         {
             "github_id": "zxDiscovery",
