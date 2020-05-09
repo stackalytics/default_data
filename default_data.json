@@ -23459,6 +23459,21 @@
             "emails": ["goppegard@pivotallabs.com"]
         },
         {
+            "launchpad_id": "osmanlicilegi",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": "2019-Sep-11"
+                },
+                {
+                    "company_name": "Trendyol",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dincer Celik",
+            "emails": ["hello@dincercelik.com", "dincer.celik@trendyol.com"]
+        },
+        {
             "github_id": "oss-xzdong",
             "companies": [
                 {
@@ -38891,6 +38906,10 @@
         {
             "domains": ["treasuredata.com"],
             "company_name": "Treasure Data"
+        },
+        {
+            "domains": ["trendyol.com"],
+            "company_name": "Trendyol"
         },
         {
             "domains": ["triggermesh.com"],
