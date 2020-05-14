@@ -41493,6 +41493,56 @@
             "uri": "https://github.com/longhorn/longhorn.git"
         },
         {
+            "module": "longhorn-ui@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/longhorn-ui.git"
+        },
+        {
+            "module": "website@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/website.git"
+        },
+        {
+            "module": "engine@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/longhorn-engine.git"
+        },
+        {
+            "module": "manager@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/longhorn-manager.git"
+        },
+        {
+            "module": "backupstore@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/backupstore.git"
+        },
+        {
+            "module": "longhorn-tests@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/longhorn-tests.git"
+        },
+        {
+            "module": "go-iscsi-helper@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/go-iscsi-helper.git"
+        },
+        {
+            "module": "longhorn-instance-manager@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/longhorn-instance-manager.git"
+        },
+        {
+            "module": "sparse-tools@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/sparse-tools.git"
+        },
+        {
+            "module": "community@longhorn",
+            "organization": "longhorn",
+            "uri": "https://github.com/longhorn/community.git"
+        },
+        {
             "module": "virtual-kubelet",
             "organization": "virtual-kubelet",
             "uri": "https://github.com/virtual-kubelet/virtual-kubelet.git"
@@ -42962,6 +43012,14 @@
                 "pipeline@tekton", "website@tekton", "catalog@tekton", "dashboard@tekton",
                 "experimental@tekton", "cli@tekton", "plumbing@tekton", "community@tekton"
             ]
+        },
+        {
+            "module_group_name": "longhorn-group",
+            "modules": [
+                "longhorn", "longhorn-ui@longhorn", "website@longhorn", "engine@longhorn",
+                "manager@longhorn", "backupstore@longhorn", "longhorn-tests@longhorn", "go-iscsi-helper@longhorn",
+                "longhorn-instance-manager@longhorn", "sparse-tools@longhorn", "community@longhorn"
+            ]
         }
     ],
     "releases": [
@@ -43336,7 +43394,7 @@
             "id": "longhorn",
             "title": "longhorn",
             "child": true,
-            "modules": ["longhorn"]
+            "modules": ["longhorn-group"]
         },
         {
             "id": "helm",
