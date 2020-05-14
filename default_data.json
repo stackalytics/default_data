@@ -33530,12 +33530,12 @@
             "launchpad_id": "wu.chunyang",
             "companies": [
                 {
-                    "company_name": "99cloud",
+                    "company_name": "Yovole",
                     "end_date": null
                 }
             ],
             "user_name": "Wu Chunyang",
-            "emails": ["wu.chunyang@99cloud.net"]
+            "emails": ["wchy1001@gmail.com", "wuchunyang@yovole.com"]
         },
         {
             "launchpad_id": "wudx05",
@@ -34344,6 +34344,10 @@
             "companies": [
                 {
                     "company_name": "China Telecom",
+                    "end_date": "2019-Jun-30"
+                },
+                {
+                    "company_name": "Troila",
                     "end_date": null
                 }
             ],
@@ -40812,7 +40816,7 @@
         {
             "module": "tap-as-a-service",
             "organization": "openstack",
-            "uri": "https://opendev.org/x/tap-as-a-service",
+            "uri": "https://opendev.org/x/tap-as-a-service.git",
             "releases": [
                 {
                     "tag_to": "HEAD",
