@@ -29822,6 +29822,17 @@
             "emails": ["stig.openstack@telfer.org", "stelfer@cray.com"]
         },
         {
+            "launchpad_id": "stingrayza",
+            "companies": [
+                {
+                    "company_name": "EXFO Inc.",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Raimund Hook",
+            "emails": ["openstack@sting-ray.za.net", "raimund.hook@exfo.com"]
+        },
+        {
             "launchpad_id": "stremovsky",
             "companies": [
                 {
@@ -37561,6 +37572,10 @@
         {
             "domains": ["evoila.de"],
             "company_name": "evoila"
+        },
+        {
+            "domains": ["exfo.com"],
+            "company_name": "EXFO Inc."
         },
         {
             "domains": ["facebook.com", "fb.com"],
