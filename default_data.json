@@ -33164,10 +33164,14 @@
                 {
                     "company_name": "Intel",
                     "end_date": "2017-Sep-08"
+                },
+                {
+                    "company_name": "ARM",
+                    "end_date": null
                 }
             ],
             "user_name": "Dave Chen",
-            "emails": ["dave.jungler@gmail.com", "wei.d.chen@intel.com"]
+            "emails": ["dave.jungler@gmail.com", "wei.d.chen@intel.com", "dave.chen@arm.com"]
         },
         {
             "launchpad_id": "wei-li",
