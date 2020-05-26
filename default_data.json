@@ -4611,6 +4611,18 @@
             "emails": ["bharath.stacker@gmail.com", "bharath.m@hp.com", "bharath.m@hpe.com"]
         },
         {
+            "launchpad_id": "bijayasharma",
+            "github_id": "vetbijaya",
+            "companies": [
+                {
+                    "company_name": "Accenture",
+                    "end_date": null
+                }
+            ],
+            "user_name": "bijayasharma",
+            "emails": ["vetbijaya@gmail.com", "bijaya.sharma@att.com"]
+        },
+        {
             "github_id": "binblee",
             "companies": [
                 {
@@ -6138,7 +6150,7 @@
                 }
             ],
             "user_name": "chenyingnan",
-            "emails": ["chenyingnan@inspur.com"]
+            "emails": ["chenyingnan01@inspur.com"]
         },
         {
             "launchpad_id": "chenyuan314",
@@ -8887,11 +8899,15 @@
                 },
                 {
                     "company_name": "Red Hat",
+                    "end_date": "2020-May-08"
+                },
+                {
+                    "company_name": "Ubisoft",
                     "end_date": null
                 }
             ],
             "user_name": "David Moreau Simard",
-            "emails": ["moi@dmsimard.com", "dmsimard@iweb.com", "dmsimard@internap.com", "dms@redhat.com"]
+            "emails": ["moi@dmsimard.com", "dmsimard@iweb.com", "dmsimard@internap.com", "dms@redhat.com", "dmsimard@redhat.com", "david.moreau-simard@ubisoft.com"]
         },
         {
             "launchpad_id": "docaedo",
@@ -10966,6 +10982,17 @@
             "emails": ["fuzk@inspur.com"]
         },
         {
+            "launchpad_id": "fuzihao",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Zihao Fu",
+            "emails": ["fuzihao@inspur.com"]
+        },
+        {
             "github_id": "fzdarsky",
             "companies": [
                 {
@@ -12223,6 +12250,17 @@
             ],
             "user_name": "Hai Shi",
             "emails": ["shihai1992@gmail.com"]
+        },
+        {
+            "launchpad_id": "haixin77",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "haixin",
+            "emails": ["haixin@inspur.com"]
         },
         {
             "launchpad_id": "halfcrazy",
@@ -13601,6 +13639,17 @@
                 }
             ],
             "emails": ["ipekelny@mirantis.com", "ipekelny@griddynamics.com", "pekelny@gmail.com"]
+        },
+        {
+            "launchpad_id": "iamtomas",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "tomas",
+            "emails": ["zhangchg03@inspur.com"]
         },
         {
             "github_id": "ian952",
@@ -16165,6 +16214,17 @@
             "emails": ["jorgefrancoibanez@gmail.com", "jorge.franco@ormuco.com"]
         },
         {
+            "launchpad_id": "jorhson",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jorhson Deng",
+            "emails": ["dengzhaosen@inspur.com"]
+        },
+        {
             "launchpad_id": "jose-eduardo-jr",
             "zanata_id": "josemello",
             "companies": [
@@ -16989,6 +17049,17 @@
                 "mkr1481@gmail.com", "kanagaraj.manickam@hp.com", "kanagaraj.manickam@hpe.com",
                 "kanagaraj.manickam@huawei.com"
             ]
+        },
+        {
+            "launchpad_id": "kangyufei",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "kangyufei",
+            "emails": ["kangyf@inspur.com"]
         },
         {
             "launchpad_id": "kannan",
@@ -18462,6 +18533,17 @@
             "emails": ["liao.zd@gmail.com", "liao_zd@hotmail.com", "liaozhuodi@t2cloud.net"]
         },
         {
+            "launchpad_id": "libaofei",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "libaofei",
+            "emails": ["libaofei@inspur.com"]
+        },
+        {
             "launchpad_id": "libing863",
             "companies": [
                 {
@@ -18527,6 +18609,17 @@
             ],
             "user_name": "lichunhan",
             "emails": ["chunhan_ryan@163.com", "li.chunhan@h3c.com"]
+        },
+        {
+            "launchpad_id": "lidongshi",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "lidongshi",
+            "emails": ["lidongshi@inspur.com"]
         },
         {
             "launchpad_id": "liemmn",
@@ -19870,6 +19963,17 @@
             ],
             "user_name": "Mihai Plasoianu",
             "emails": ["mihai@plasoianu.de", "m.plasoianu@vertical.de"]
+        },
+        {
+            "launchpad_id": "maaoyu",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "maaoyu",
+            "emails": ["maaoyu@inspur.com"]
         },
         {
             "launchpad_id": "maciej-iai",
@@ -24880,6 +24984,17 @@
             "emails": ["qienze@beyondcent.com", "sepveneto@qq.com"]
         },
         {
+            "launchpad_id": "qihongtao",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "qihongtao",
+            "emails": ["qihongtao@inspur.com"]
+        },
+        {
             "github_id": "qihuiz93",
             "companies": [
                 {
@@ -26791,6 +26906,17 @@
             "user_name": "Ruijian Zhang",
             "emails": ["qiudog825@gmail.com", "zhang.ruijian@h3c.com"]
         },
+       {
+            "launchpad_id": "runsxx",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "XinxinShen",
+            "emails": ["shenxinxin@inspur.com"]
+        },
         {
             "launchpad_id": "rupakg",
             "companies": [
@@ -28352,6 +28478,17 @@
             ],
             "user_name": "Yangkai Shi",
             "emails": ["shiyangkai333@126.com", "shiyangkai@hnu.edu.cn"]
+        },
+        {
+            "launchpad_id": "shiyawei",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "shiyawei",
+            "emails": ["shiyawei@inspur.com"]
         },
         {
             "github_id": "shiyuan1992",
@@ -33104,6 +33241,17 @@
             "emails": ["waynechan76@gmail.com", "chenlx@fiberhome.com"]
         },
         {
+            "launchpad_id": "wbc",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "weibo cui",
+            "emails": ["cuiweibo@inspur.com"]
+        },
+        {
             "launchpad_id": "wbluo0907",
             "companies": [
                 {
@@ -33260,6 +33408,17 @@
                 "jian.wen@canonical.com", "wenjianhn@gmail.com", "jian.wen@ubuntu.com",
                 "wenjian@letv.com"
             ]
+        },
+        {
+            "launchpad_id": "wenping1",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Wenping Song",
+            "emails": ["songwenping@inspur.com"]
         },
         {
             "launchpad_id": "wes-gurney",
@@ -34199,6 +34358,17 @@
             "emails": ["xuxinkun@gmail.com"]
         },
         {
+            "launchpad_id": "xuyuanhao",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "xuyuanhao",
+            "emails": ["xuyuanhao@inspur.com"]
+        },
+        {
             "github_id": "xuzhenglun",
             "companies": [
                 {
@@ -34345,6 +34515,17 @@
             ],
             "user_name": "Shengming Yang",
             "emails": ["rory.yang@elits.com", "smyang92@qq.com"]
+        },
+        {
+            "launchpad_id": "yang612",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "yangyawei",
+            "emails": ["yangyawei@inspur.com"]
         },
         {
             "launchpad_id": "yangangang",
@@ -35777,6 +35958,17 @@
             "emails": ["zhangbailin@inspur.com"]
         },
         {
+            "launchpad_id": "zhangboye",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhangboye",
+            "emails": ["zhangboye@inspur.com"]
+        },
+        {
             "launchpad_id": "zhangdaolong",
             "companies": [
                 {
@@ -35992,6 +36184,17 @@
             ],
             "user_name": "zhaohua",
             "emails": ["zhaohua.zhao@huawei.com"]
+        },
+        {
+            "launchpad_id": "zhaoleilc",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhaoleilc",
+            "emails": ["15247232416@163.com"]
         },
         {
             "launchpad_id": "zhaolijun",
@@ -36269,6 +36472,17 @@
             ],
             "user_name": "Han Zhou",
             "emails": ["hzhou8@ebaysf.com", "zhouhan@gmail.com"]
+        },
+        {
+            "launchpad_id": "zhouhenglc",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhouhenglc",
+            "emails": ["zhouhenglc@inspur.com"]
         },
         {
             "launchpad_id": "zhouhy",
@@ -43277,7 +43491,7 @@
         },
         {
             "release_name": "Ussuri",
-            "end_date": "2020-May-15",
+            "end_date": "2020-May-13",
             "refs": {
                 "governance": {
                     "type": "big_tent",
