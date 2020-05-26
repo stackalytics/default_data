@@ -17750,11 +17750,15 @@
                 },
                 {
                     "company_name": "Aptira",
+                    "end_date": "2020-Apr-15"
+                },
+                {
+                    "company_name": "Australian Research Data Commons",
                     "end_date": null
                 }
             ],
             "user_name": "Kieran Spear",
-            "emails": ["kispear@gmail.com", "kieran.spear@unimelb.edu.au", "kieran@aptira.com"]
+            "emails": ["kispear@gmail.com", "kieran.spear@unimelb.edu.au", "kieran@aptira.com", "kieran.spear@ardc.edu.au"]
         },
         {
             "launchpad_id": "kszab",
