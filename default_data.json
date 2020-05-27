@@ -14200,11 +14200,15 @@
                 },
                 {
                     "company_name": "SUSE",
+                    "end_date": "2020-May-31"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Antonio Ojea",
-            "emails": ["itsuugo@gmail.com", "aojeagarcia@suse.com"]
+            "emails": ["antonio.ojea.garcia@gmail.com", "aojea@redhat.com"]
         },
         {
             "launchpad_id": "itsvaishnavi",
