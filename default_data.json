@@ -14200,11 +14200,11 @@
                 },
                 {
                     "company_name": "SUSE",
-                    "end_date": null
+                    "end_date": "2020-May-31"
                 }
             ],
             "user_name": "Antonio Ojea",
-            "emails": ["itsuugo@gmail.com", "aojeagarcia@suse.com"]
+            "emails": ["antonio.ojea.garcia@gmail.com"]
         },
         {
             "launchpad_id": "itsvaishnavi",
