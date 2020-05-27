@@ -39596,9 +39596,21 @@
                     "tag_from": "18.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/train",
                     "tag_to": "HEAD",
                     "release_name": "Train",
                     "tag_from": "19.0.0.0rc1"
+                },
+                {
+                    "branch": "stable/ussuri",
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "20.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "21.0.0.0rc1"
                 }
             ],
             "uri": "https://opendev.org/openstack/nova.git",
@@ -39694,10 +39706,17 @@
                     "tag_from": "15.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/ussuri",
                     "tag_to": "HEAD",
                     "release_name": "Ussuri",
                     "tag_from": "16.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "17.0.0.0rc1"
                 }
+
             ],
             "uri": "https://opendev.org/openstack/keystone.git",
             "module": "keystone",
@@ -39781,9 +39800,21 @@
                     "tag_from": "13.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/train",
                     "tag_to": "HEAD",
                     "release_name": "Train",
                     "tag_from": "14.0.0.0rc1"
+                },
+                {
+                    "branch": "stable/ussuri",
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "15.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "16.0.0.0rc1"
                 }
             ],
             "uri": "https://opendev.org/openstack/cinder.git",
@@ -39873,9 +39904,21 @@
                     "tag_from": "17.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/train",
                     "tag_to": "HEAD",
                     "release_name": "Train",
                     "tag_from": "18.0.0.0rc1"
+                },
+                {
+                    "branch": "stable/ussuri",
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "19.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "20.0.0.0rc1"
                 }
             ],
             "uri": "https://opendev.org/openstack/glance.git",
@@ -39965,9 +40008,21 @@
                     "tag_from": "13.0.0.0rc2"
                 },
                 {
+                    "branch": "stable/train",
                     "tag_to": "HEAD",
                     "release_name": "Train",
                     "tag_from": "14.0.0.0rc1"
+                },
+                {
+                    "branch": "stable/ussuri",
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "15.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "16.0.0.0rc1"
                 },
                 {
                     "branch": "feature/pecan",
@@ -40069,9 +40124,21 @@
                     "tag_from": "14.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/train",
                     "tag_to": "HEAD",
                     "release_name": "Train",
                     "tag_from": "15.0.0.0rc1"
+                },
+                {
+                    "branch": "stable/ussuri",
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "16.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "17.0.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/horizon.git",
@@ -40161,9 +40228,21 @@
                     "tag_from": "2.19.0"
                 },
                 {
+                    "branch": "stable/train",
                     "tag_to": "HEAD",
                     "release_name": "Train",
                     "tag_from": "2.21.0"
+                },
+                {
+                    "branch": "stable/ussuri",
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "2.23.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "2.25.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/swift.git",
@@ -40243,9 +40322,19 @@
                     "tag_from": "3.17.0"
                 },
                 {
-                    "tag_to": "HEAD",
+                    "tag_to": "3.21.0",
                     "release_name": "Train",
                     "tag_from": "3.19.0"
+                },
+                {
+                    "tag_to": "4.0.0",
+                    "release_name": "Ussuri",
+                    "tag_from": "3.21.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "4.0.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-keystoneclient.git",
@@ -40310,24 +40399,34 @@
                     "tag_from": "7.1.0"
                 },
                 {
-                    "tag_to": "10.1.0",
+                    "tag_to": "10.1.1",
                     "release_name": "Queens",
                     "tag_from": "9.1.1"
                 },
                 {
-                    "tag_to": "11.0.0",
+                    "tag_to": "11.0.1",
                     "release_name": "Rocky",
-                    "tag_from": "10.1.0"
+                    "tag_from": "10.1.1"
                 },
                 {
-                    "tag_to": "13.0.0",
+                    "tag_to": "13.0.2",
                     "release_name": "Stein",
-                    "tag_from": "11.0.0"
+                    "tag_from": "11.0.1"
+                },
+                {
+                    "tag_to": "15.1.0",
+                    "release_name": "Train",
+                    "tag_from": "13.0.2"
+                },
+                {
+                    "tag_to": "17.0.0",
+                    "release_name": "Ussuri",
+                    "tag_from": "15.1.0"
                 },
                 {
                     "tag_to": "HEAD",
-                    "release_name": "Train",
-                    "tag_from": "13.0.0"
+                    "release_name": "Victoria",
+                    "tag_from": "17.0.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-novaclient.git",
@@ -40402,9 +40501,19 @@
                     "tag_from": "4.0.2"
                 },
                 {
-                    "tag_to": "HEAD",
+                    "tag_to": "5.0.0",
                     "release_name": "Train",
                     "tag_from": "4.2.0"
+                },
+                {
+                    "tag_to": "7.0.0",
+                    "release_name": "Ussuri",
+                    "tag_from": "5.0.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "7.0.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-cinderclient.git",
@@ -40479,9 +40588,19 @@
                     "tag_from": "2.13.1"
                 },
                 {
-                    "tag_to": "HEAD",
+                    "tag_to": "2.17.0",
                     "release_name": "Train",
                     "tag_from": "2.16.0"
+                },
+                {
+                    "tag_to": "3.1.1",
+                    "release_name": "Ussuri",
+                    "tag_from": "2.17.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "3.1.1"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-glanceclient.git",
@@ -40561,9 +40680,19 @@
                     "tag_from": "6.9.1"
                 },
                 {
-                    "tag_to": "HEAD",
+                    "tag_to": "6.14.0",
                     "release_name": "Train",
                     "tag_from": "6.12.0"
+                },
+                {
+                    "tag_to": "7.1.0",
+                    "release_name": "Ussuri",
+                    "tag_from": "6.14.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "7.1.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-neutronclient.git",
@@ -40628,19 +40757,29 @@
                     "tag_from": "3.4.0"
                 },
                 {
-                    "tag_to": "3.6.0",
+                    "tag_to": "3.6.1",
                     "release_name": "Rocky",
                     "tag_from": "3.5.0"
                 },
                 {
-                    "tag_to": "3.7.0",
+                    "tag_to": "3.7.1",
                     "release_name": "Stein",
-                    "tag_from": "3.6.0"
+                    "tag_from": "3.6.1"
+                },
+                {
+                    "tag_to": "3.8.1",
+                    "release_name": "Train",
+                    "tag_from": "3.7.1"
+                },
+                {
+                    "tag_to": "3.9.0",
+                    "release_name": "Ussuri",
+                    "tag_from": "3.8.1"
                 },
                 {
                     "tag_to": "HEAD",
-                    "release_name": "Train",
-                    "tag_from": "3.7.0"
+                    "release_name": "Victoria",
+                    "tag_from": "3.9.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-swiftclient.git",
@@ -40720,9 +40859,21 @@
                     "tag_from": "11.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/train",
                     "tag_to": "HEAD",
                     "release_name": "Train",
                     "tag_from": "12.0.0.0rc1"
+                },
+                {
+                    "branch": "stable/ussuri",
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "13.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "14.0.0.0rc1"
                 }
             ],
             "uri": "https://opendev.org/openstack/heat.git",
@@ -40797,9 +40948,19 @@
                     "tag_from": "1.16.2"
                 },
                 {
-                    "tag_to": "HEAD",
+                    "tag_to": "1.18.0",
                     "release_name": "Train",
                     "tag_from": "1.17.0"
+                },
+                {
+                    "tag_to": "2.1.0",
+                    "release_name": "Ussuri",
+                    "tag_from": "1.18.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "2.1.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/python-heatclient.git",
@@ -40874,9 +41035,21 @@
                     "tag_from": "11.0.0"
                 },
                 {
+                    "branch": "stable/train",
                     "tag_to": "HEAD",
                     "release_name": "Train",
                     "tag_from": "12.0.0"
+                },
+                {
+                    "branch": "stable/ussuri",
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "13.0.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "14.0.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/ceilometer.git",
@@ -41161,9 +41334,21 @@
                     "tag_from": "9.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/train",
                     "tag_to": "HEAD",
                     "release_name": "Train",
                     "tag_from": "10.0.0.0rc1"
+                },
+                {
+                    "branch": "stable/ussuri",
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "11.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "12.0.0.0rc1"
                 }
             ]
         },
@@ -41250,9 +41435,19 @@
                     "tag_from": "2.0.0"
                 },
                 {
-                    "tag_to": "HEAD",
+                    "tag_to": "2.3.0",
                     "release_name": "Train",
                     "tag_from": "2.2.0"
+                },
+                {
+                    "tag_to": "3.1.0",
+                    "release_name": "Ussuri",
+                    "tag_from": "2.3.0"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "3.1.0"
                 }
             ]
         },
@@ -41996,9 +42191,27 @@
                     "tag_from": "6.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/stein",
                     "tag_to": "HEAD",
                     "release_name": "Stein",
                     "tag_from": "7.0.0.0rc1"
+                },
+                {
+                    "branch": "stable/train",
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "8.0.0.0rc1"
+                },
+                {
+                    "branch": "stable/ussuri",
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "9.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "10.0.0.0rc1"
                 }
             ]
         },
@@ -42056,9 +42269,33 @@
                     "tag_from": "5.0.0.0rc1"
                 },
                 {
+                    "branch": "stable/rocky",
                     "tag_to": "HEAD",
                     "release_name": "Rocky",
                     "tag_from": "6.0.0.0rc1"
+                },
+                {
+                    "branch": "stable/stein",
+                    "tag_to": "HEAD",
+                    "release_name": "Stein",
+                    "tag_from": "7.0.0.0rc1"
+                },
+                {
+                    "branch": "stable/train",
+                    "tag_to": "HEAD",
+                    "release_name": "Train",
+                    "tag_from": "8.0.0.0rc1"
+                },
+                {
+                    "branch": "stable/ussuri",
+                    "tag_to": "HEAD",
+                    "release_name": "Ussuri",
+                    "tag_from": "9.0.0.0rc1"
+                },
+                {
+                    "tag_to": "HEAD",
+                    "release_name": "Victoria",
+                    "tag_from": "10.0.0.0rc1"
                 }
             ]
         },
