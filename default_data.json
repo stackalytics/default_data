@@ -9908,11 +9908,15 @@
             "companies": [
                 {
                     "company_name": "Intel",
+                    "end_date": "2020-Mar-31"
+                },
+                {
+                    "company_name": "Samsung",
                     "end_date": null
                 }
             ],
             "user_name": "Victor Morales",
-            "emails": ["victor.morales@intel.com", "chipahuac@hotmail.com", "electrocucaracha@gmail.com"]
+            "emails": ["victor.morales@intel.com", "v.morales@samsung.com", "chipahuac@hotmail.com", "electrocucaracha@gmail.com"]
         },
         {
             "launchpad_id": "ellen-hui",
