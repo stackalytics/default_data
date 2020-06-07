@@ -34048,11 +34048,15 @@
             "companies": [
                 {
                     "company_name": "99cloud",
+                    "end_date": "2020-Jun-01"
+                },
+                {
+                    "company_name": "cetccloud",
                     "end_date": null
                 }
             ],
             "user_name": "XiaojueGuan",
-            "emails": ["guanalbertjone@gmail.com"]
+            "emails": ["guanalbertjone@gmail.com", "xiaojueguan@gmail.com"]
         },
         {
             "launchpad_id": "xiaoquqi",
