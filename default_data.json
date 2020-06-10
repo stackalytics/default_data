@@ -5346,6 +5346,21 @@
             "emails": ["caleb@calebgroom.com", "cgroom@rackspace.com"]
         },
         {
+            "launchpad_id": "cao-yuan",
+            "companies": [
+                {
+                    "company_name": "99cloud",
+                    "end_date": "2020-Mar-27"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "caoyuan",
+            "emails": ["cao.yingjunz@gmail.com"]
+        },
+        {
             "launchpad_id": "caowei-e",
             "companies": [
                 {
@@ -18778,6 +18793,17 @@
             ],
             "user_name": "likangkang01",
             "emails": ["likangkang01@inspur.com"]
+        },
+        {
+            "launchpad_id": "likui",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "likui",
+            "emails": ["likui13@outlook.com", "likui@yovole.com"]
         },
         {
             "launchpad_id": "lilingxing20",
@@ -43752,7 +43778,7 @@
             "refs": {
                 "governance": {
                     "type": "big_tent",
-                    "source": "https://git.openstack.org/cgit/openstack/governance/plain/reference/projects.yaml"
+                    "source": "https://opendev.org/openstack/governance/raw/branch/master/reference/projects.yaml"
                 }
             },
             "project": "openstack"
