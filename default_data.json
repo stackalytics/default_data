@@ -3936,7 +3936,7 @@
             "emails": ["ashu@coolsvap.net"]
         },
         {
-            "launchpad_id": "ashu.kumar",
+            "launchpad_id": "ashughorla",
             "companies": [
                 {
                     "company_name": "Dell EMC",
@@ -19637,6 +19637,17 @@
             "emails": ["lorin@isi.edu", "lorin@nimbisservices.com"]
         },
         {
+            "launchpad_id": "lplearn",
+            "companies": [
+                {
+                    "company_name": "Troila",
+                    "end_date": null
+                }
+            ],
+            "user_name": "liupeng",
+            "emails": ["liupeng2@troila.com", "lplearn@163.com"]
+        },
+        {
             "launchpad_id": "lr699s",
             "github_id": "larryrensing",
             "companies": [
@@ -20389,6 +20400,17 @@
             ],
             "user_name": "manoelrui",
             "emails": ["manoelrui19@gmail.com", "manoel.rui@lsbd.ufc.br"]
+        },
+        {
+            "launchpad_id": "manpreetk",
+            "companies": [
+                {
+                    "company_name": "NEC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Manpreet Kaur",
+            "emails": ["kaurmanpreet2620@gmail.com"]
         },
         {
             "launchpad_id": "maoshuai",
@@ -22717,7 +22739,7 @@
                 }
             ],
             "user_name": "Neha Alhat",
-            "emails": ["neha_alhat@dellteam.com"]
+            "emails": ["neha_alhat@dellteam.com", "neha.alhat.30@gmail.com", "neha.alhat@calsoftinc.com"]
         },
         {
             "launchpad_id": "neil-borle",
@@ -25522,6 +25544,18 @@
             "emails": ["rashid_iqbal@dellteam.com", "rashid.iqbal@gmail.com"]
         },
         {
+            "github_id": "ravipwaghmare",
+            "launchpad_id": "ravi2908",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ravi Waghmare",
+            "emails": ["raviwaghmare2908@gmail.com", "ravi_waghmare@dellteam.com", "ravi.waghmare@calsoftinc.com"]
+        },
+        {
             "launchpad_id": "ravishekar-jethani",
             "companies": [
                 {
@@ -25535,18 +25569,6 @@
             ],
             "user_name": "Ravi Shekhar Jethani",
             "emails": ["rsjethani@gmail.com", "ravishekar.jethani@nttdata.com"]
-        },
-        {
-            "github_id": "raviwaghmare",
-            "launchpad_id": "raviwaghmare",
-            "companies": [
-                {
-                    "company_name": "Dell EMC",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Ravi Waghamare",
-            "emails": ["raviwaghmare@gmail.com", "ravi_waghamare@dellteam.com"]
         },
         {
             "launchpad_id": "rawlin-peters",
@@ -26873,18 +26895,6 @@
             ],
             "user_name": "Roman Rufanov",
             "emails": ["rrufanov@mirantis.com"]
-        },
-        {
-            "launchpad_id": "rsharma101",
-            "github_id": "sharajat",
-            "companies": [
-                {
-                    "company_name": "Dell EMC",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Rajat Sharma",
-            "emails": ["rajat.sharma@calsoftinc.com", "rajat_sharma10@dellteam.com", "rajatcu143@gmail.com"]
         },
         {
             "launchpad_id": "rsokolkov",
@@ -28304,6 +28314,18 @@
             ],
             "user_name": "liangxiaoping",
             "emails": ["shapeliang@gmail.com", "liangxiaoping@jd.com"]
+        },
+        {
+            "launchpad_id": "sharajat",
+            "github_id": "sharajat",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Rajat Sharma",
+            "emails": ["rajat.sharma@calsoftinc.com", "rajat_sharma10@dellteam.com", "rajatcu143@gmail.com"]
         },
         {
             "launchpad_id": "sharyhua",
@@ -30109,6 +30131,17 @@
             "emails": ["sugar-2008@163.com", "suzhengwei@inspur.com"]
         },
         {
+            "launchpad_id": "suha9102",
+            "companies": [
+                {
+                    "company_name": "Troila",
+                    "end_date": null
+                }
+            ],
+            "user_name": "sunhao",
+            "emails": ["suha9102@163.com"]
+        },
+        {
             "github_id": "suigh",
             "companies": [
                 {
@@ -31742,6 +31775,17 @@
             "emails": ["doantungbk.203@gmail.com", "tung.doan_van@tu-dresden.de"]
         },
         {
+            "launchpad_id": "tushargite96",
+            "companies": [
+                {
+                    "company_name": "NEC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Tushar Gite",
+            "emails": ["tushargite96@gmail.com"]
+        },
+        {
             "github_id": "tvieira",
             "companies": [
                 {
@@ -33133,6 +33177,18 @@
             ],
             "user_name": "Yao Wang",
             "emails": ["wangyao@cmss.chinamobile.com"]
+        },
+        {
+            "launchpad_id": "wangyao18322710251",
+            "github_id": "dadegeshuaige",
+            "companies": [
+                {
+                    "company_name": "Troila",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wangyao829",
+            "emails": ["wangyao@troila.com", "a64957782017@163.com"]
         },
         {
             "launchpad_id": "wangyayan",
