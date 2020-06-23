@@ -2869,11 +2869,15 @@
                 },
                 {
                     "company_name": "Independent",
+                    "end_date": "2020-Mar-16"
+                },
+                {
+                    "company_name": "Red Hat",
                     "end_date": null
                 }
             ],
             "user_name": "Amy Marrich",
-            "emails": ["amy@demarco.com", "amy@taotesting.com", "amy@linuxacademy.com", "amy.marrich@rackspace.com"]
+            "emails": ["amy@demarco.com", "amy@redhat.com", "amy@taotesting.com", "amy@linuxacademy.com", "amy.marrich@rackspace.com"]
         },
         {
             "launchpad_id": "anand1712",
@@ -18738,6 +18742,17 @@
             ],
             "user_name": "lihong7313",
             "emails": ["38098369@qq.com"]
+        },
+        {
+            "launchpad_id": "lijiaping",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jiaping LI",
+            "emails": ["lijiaping@yovole.com", "japlee1986@163.com"]
         },
         {
             "launchpad_id": "lijiawang8866",
