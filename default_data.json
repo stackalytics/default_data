@@ -10663,6 +10663,18 @@
             "emails": ["ffilzlnx@mindspring.com"]
         },
         {
+            "launchpad_id": "francisyi",
+            "github_id": "francisyi19",
+            "companies": [
+                {
+                    "company_name": "Accenture",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Francis Yi",
+            "emails": ["fy4491@att.com", "francisyi19@gmail.com"]
+        },
+        {
             "launchpad_id": "ficoos",
             "companies": [
                 {
