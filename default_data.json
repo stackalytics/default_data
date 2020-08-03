@@ -22155,6 +22155,10 @@
                 },
                 {
                     "company_name": "Red Hat",
+                    "end_date": "2020-Jun-30"
+                },
+                {
+                    "company_name": "In August",
                     "end_date": null
                 }
             ],
