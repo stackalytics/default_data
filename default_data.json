@@ -10835,6 +10835,18 @@
             "emails": ["filip@pytloun.cz", "filip.pytloun@tcpcloud.eu"]
         },
         {
+            "launchpad_id": "francisyi",
+            "github_id": "francisyi19",
+            "companies": [
+                {
+                    "company_name": "Accenture",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Francis Yi",
+            "emails": ["fy4491@att.com", "francisyi19@gmail.com"]
+        },
+        {
             "launchpad_id": "francotseng",
             "companies": [
                 {
@@ -34218,11 +34230,15 @@
             "companies": [
                 {
                     "company_name": "99cloud",
+                    "end_date": "2020-Jun-01"
+                },
+                {
+                    "company_name": "cetcloud",
                     "end_date": null
                 }
             ],
             "user_name": "XiaojueGuan",
-            "emails": ["guanalbertjone@gmail.com"]
+            "emails": ["guanalbertjone@gmail.com", "xiaojueguan@gmail.com"]
         },
         {
             "launchpad_id": "xiaoquqi",
@@ -37630,6 +37646,11 @@
         {
             "domains": ["certusnet.com"],
             "company_name": "CertusNet"
+        },
+        {
+            "domains": ["cetcloud.org"],
+            "company_name": "CET Cloud",
+            "aliases": ["cetcloud"]
         },
         {
             "domains": ["charter.com", "twcable.com"],
