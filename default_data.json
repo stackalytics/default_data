@@ -12397,6 +12397,17 @@
             "emails": ["hanchao7@lenovo.com"]
         },
         {
+            "launchpad_id": "hanchl",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "hanchl",
+            "emails": ["hanchunlei@inspur.com"]
+        },
+        {
             "github_id": "hangyan",
             "companies": [
                 {
@@ -21123,11 +21134,15 @@
                 },
                 {
                     "company_name": "VMware",
+                    "end_date": "2020-Jan-01"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Mark Beierl",
-            "emails": ["mbeierl@vmware.com", "mark@jemms.net"]
+            "emails": ["mark@jemms.net"]
         },
         {
             "launchpad_id": "mbonell",
@@ -22482,6 +22497,18 @@
             "emails": ["mtoy54@users.noreply.github.com"]
         },
         {
+            "github_id": "mudit-simlote",
+            "launchpad_id": "mudit-simlote",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Mudit Simlote",
+            "emails": ["mudit.simlote@dell.com"]
+        },
+        {
             "launchpad_id": "multi-task",
             "companies": [
                 {
@@ -22491,6 +22518,18 @@
             ],
             "user_name": "Zhengwei Gao",
             "emails": ["multi_task@163.com"]
+        },
+        {
+            "launchpad_id": "muly",
+            "github_id": "muly",
+            "companies": [
+                {
+                    "company_name": "Accenture",
+                    "end_date": null
+                }
+            ],
+            "user_name": "muly",
+            "emails": ["msrinivasareddy@gmail.com", "srinivasa.muly@att.com"]
         },
         {
             "launchpad_id": "munnangi2010",
@@ -33056,6 +33095,17 @@
             "emails": ["wang.changyu@zte.com.cn", "wangchangyu315@126.com"]
         },
         {
+            "launchpad_id": "wangdengdeng",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wangzihao",
+            "emails": ["wangzihao@yovole.com"]
+        },
+        {
             "launchpad_id": "wangfang",
             "zanata_id": "wangfang",
             "companies": [
@@ -35323,6 +35373,10 @@
                 },
                 {
                     "company_name": "SK telecom",
+                    "end_date": "2020-Jul-17"
+                },
+                {
+                    "company_name": "Smilegate",
                     "end_date": null
                 }
             ],
@@ -39138,6 +39192,10 @@
         {
             "domains": ["slack-corp.com"],
             "company_name": "Slack"
+        },
+        {
+            "domains": ["smilegate.com"],
+            "company_name": "Smilegate"
         },
         {
             "domains": ["snabb.co"],
