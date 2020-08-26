@@ -1,6 +1,21 @@
 {
     "users": [
         {
+            "launchpad_id": "outbrito",
+            "companies": [
+                {
+                    "company_name": "Universidade Federal de Campina Grande",
+                    "end_date": "2018-Jan-31"
+                },
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Thiago Paiva Brito",
+            "emails": ["tpborion@gmail.com", "outbrito@gmail.com", "thiagop@lsd.ufcg.edu.br", "tbrito@daitan.com"]
+        },
+        {
             "companies": [
                 {
                     "company_name": "Rancher Labs",
