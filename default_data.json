@@ -37941,6 +37941,10 @@
             "company_name": "Daikanyama RED"
         },
         {
+            "domains": ["daitan.com"],
+            "company_name": "Daitan Group"
+        },
+        {
             "domains": ["daocloud.io"],
             "company_name": "DaoCloud"
         },
