@@ -5610,6 +5610,17 @@
             "emails": ["carloscesario@gmail.com", "ccesario@tecnomega.com.br"]
         },
         {
+            "launchpad_id": "ccheung",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhangchun",
+            "emails": ["zhangchun@yovole.com"]
+        },
+        {
             "launchpad_id": "cdearbor",
             "companies": [
                 {
@@ -7372,11 +7383,15 @@
             "companies": [
                 {
                     "company_name": "Samsung",
+                    "end_date": "2020-Aug-17"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Danil Golov",
-            "emails": ["d.golov@samsung.com"]
+            "emails": ["golov_danya@mail.ru"]
         },
         {
             "launchpad_id": "dachary",
@@ -16231,6 +16246,17 @@
             "emails": ["jonas.pfannschmidt@hp.com", "jonas.pfannschmidt@hpe.com"]
         },
         {
+            "github_id": "jonas-werner",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jonas Werner",
+            "emails": ["jonas.werner@dell.com"]
+        },
+        {
             "launchpad_id": "jonnary-liu",
             "companies": [
                 {
@@ -18676,6 +18702,17 @@
             "emails": ["libing863@fiberhome.com", "libing871202@163.com", "libnwlh@gmail.com"]
         },
         {
+            "launchpad_id": "libo",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Simon Li",
+            "emails": ["libo04@inspur.com", "liboqss2016@163.com", "liboqss@gmail.com"]
+        },
+        {
             "launchpad_id": "libosvar",
             "companies": [
                 {
@@ -20150,7 +20187,8 @@
             "emails": ["mkwiek@mirantis.com"]
         },
         {
-            "launchpad_id": "maciej.jozefczyk",
+            "launchpad_id": "maciejjozefczyk",
+            "github_id": "mjozefcz",
             "companies": [
                 {
                     "company_name": "OVH",
@@ -20158,6 +20196,10 @@
                 },
                 {
                     "company_name": "Red Hat",
+                    "end_date": "2020-Aug-31"
+                },
+                {
+                    "company_name": "Independent",
                     "end_date": null
                 }
             ],
@@ -27941,6 +27983,17 @@
             "emails": ["adam.vanpr@gmail.com", "adamvp@fb.com"]
         },
         {
+            "github_id": "scilla0531",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "liujinxin",
+            "emails": ["hbbfxyxxgcljx@163.com", "liujinxin@inspur.com"]
+        },
+        {
             "launchpad_id": "scollins",
             "companies": [
                 {
@@ -33998,6 +34051,17 @@
             ],
             "user_name": "wujun",
             "emails": ["wujun@awcloud.com"]
+        },
+        {
+            "launchpad_id": "wushiming",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wushiming",
+            "emails": ["wushiming@yovole.com"]
         },
         {
             "launchpad_id": "wuwei",
@@ -42232,6 +42296,11 @@
             "module": "kubespray",
             "organization": "kubernetes-sigs",
             "uri": "https://github.com/kubernetes-sigs/kubespray.git"
+        },
+        {
+            "module": "cloud-provider-openstack",
+            "organization": "kubernetes-sigs",
+            "uri": "https://github.com/kubernetes/cloud-provider-openstack"
         },
         {
             "module": "kind",
