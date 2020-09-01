@@ -3,6 +3,20 @@
         {
             "companies": [
                 {
+                    "company_name": "Universidade Federal de Campina Grande",
+                    "end_date": "2018-Jan-31"
+                },
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Thiago Paiva Brito",
+            "emails": ["tpborion@gmail.com", "outbrito@gmail.com", "thiagop@lsd.ufcg.edu.br", "tbrito@daitan.com"]
+        },
+        {
+            "companies": [
+                {
                     "company_name": "Rancher Labs",
                     "end_date": null
                 }
@@ -37924,6 +37938,10 @@
         {
             "domains": ["d-red.jp"],
             "company_name": "Daikanyama RED"
+        },
+        {
+            "domains": ["daitan.com"],
+            "company_name": "Daitan Group"
         },
         {
             "domains": ["daocloud.io"],
