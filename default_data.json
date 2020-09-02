@@ -3,20 +3,6 @@
         {
             "companies": [
                 {
-                    "company_name": "Universidade Federal de Campina Grande",
-                    "end_date": "2018-Jan-31"
-                },
-                {
-                    "company_name": "Daitan Group",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Thiago Paiva Brito",
-            "emails": ["tpborion@gmail.com", "outbrito@gmail.com", "thiagop@lsd.ufcg.edu.br", "tbrito@daitan.com"]
-        },
-        {
-            "companies": [
-                {
                     "company_name": "Rancher Labs",
                     "end_date": null
                 }
@@ -13718,6 +13704,17 @@
             "emails": ["gopher.mian@outlook.com"]
         },
         {
+            "launchpad_id": "hyogyunbang",
+            "companies": [
+                {
+                    "company_name": "Smilegate",
+                    "end_date": null
+                }
+            ],
+            "user_name": "hyogyunbang",
+            "emails": ["honillusion@gmail.com"]
+        },
+        {
             "github_id": "hyzhou",
             "companies": [
                 {
@@ -14068,6 +14065,10 @@
             "companies": [
                 {
                     "company_name": "Sberbank",
+                    "end_date": "2020-Aug-17"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -22043,6 +22044,10 @@
                 },
                 {
                     "company_name": "Sberbank",
+                    "end_date": "2020-Aug-17"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -23874,6 +23879,21 @@
             "emails": ["hotsuka@mirantis.com"]
         },
         {
+            "launchpad_id": "outbrito",
+            "companies": [
+                {
+                    "company_name": "Universidade Federal de Campina Grande",
+                    "end_date": "2018-Jan-31"
+                },
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Thiago Paiva Brito",
+            "emails": ["tpborion@gmail.com", "outbrito@gmail.com", "thiagop@lsd.ufcg.edu.br", "tbrito@daitan.com"]
+        },
+        {
             "launchpad_id": "p-draigbrady",
             "companies": [
                 {
@@ -25239,7 +25259,7 @@
                 }
             ],
             "user_name": "qihongtao",
-            "emails": ["qihongtao@inspur.com"]
+            "emails": ["qihongtao@inspur.com", "893216718@qq.com"]
         },
         {
             "github_id": "qihuiz93",
@@ -28414,6 +28434,10 @@
             "companies": [
                 {
                     "company_name": "Sberbank",
+                    "end_date": "2020-Aug-17"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
