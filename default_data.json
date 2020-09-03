@@ -42324,7 +42324,7 @@
         {
             "module": "cloud-provider-openstack",
             "organization": "kubernetes-sigs",
-            "uri": "https://github.com/kubernetes/cloud-provider-openstack"
+            "uri": "https://github.com/kubernetes/cloud-provider-openstack.git"
         },
         {
             "module": "kind",
@@ -43853,7 +43853,9 @@
         },
         {
             "module_group_name": "kubernetes-installers",
-            "modules": ["kubeadm", "kubespray", "kind", "minikube", "kops", "kubernetes-release"]
+            "modules": [
+                "kubeadm", "kubespray", "kind", "minikube", "kops", "kubernetes-release", "cloud-provider-openstack"
+            ]
         },
         {
             "module_group_name": "airship-group",
