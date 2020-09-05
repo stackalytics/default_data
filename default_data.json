@@ -6770,6 +6770,19 @@
             "emails": ["cnjie0616@gmail.com"]
         },
         {
+          "launchpad_id": "cocahack",
+          "github_id": "cocahack",
+          "zanata_id": "jake_chae",
+          "companies": [
+            {
+              "company_name": "*independent",
+              "end_date": null
+            }
+          ],
+          "user_name": "Myeongchul Chae",
+          "emails": ["cocahack@naver.com", "rncchae@gmail.com"]
+        },
+        {
             "launchpad_id": "coco-gao",
             "companies": [
                 {
