@@ -8115,6 +8115,17 @@
             "emails": ["david@dollar.io"]
         },
         {
+            "launchpad_id": "ddorahee123123123",
+            "user_name": "JoMingi",
+            "companies": [
+                {
+                    "company_name": "Google",
+                    "end_date": null
+                }
+            ],
+            "emails": ["mingi@tatum.com", "alsrl2187@naver.com"]
+        },
+        {
             "github_id": "ddysher",
             "user_name": "Deyuan Deng",
             "companies": [
