@@ -12445,6 +12445,17 @@
             "emails": ["hanjiabao@awcloud.com"]
         },
         {
+            "launchpad_id": "hanjoo.cho",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "hanjoo.cho",
+            "emails": ["johanjoo@naver.com","vjswl132@gmail.com"]
+        },
+        {
             "launchpad_id": "hanrong",
             "companies": [
                 {
