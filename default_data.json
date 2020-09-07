@@ -10107,6 +10107,19 @@
             ]
         },
         {
+            "launchpad_id": "epdlemflaj",
+            "github_id": "Regexp96",
+            "zanata_id": "silica_jung",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Gyuseok Jung",
+            "emails": ["epdlemflaj@gmail.com"]
+        },
+        {
             "launchpad_id": "erbarr",
             "github_id": "erbarr",
             "companies": [
