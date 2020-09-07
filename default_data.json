@@ -17498,6 +17498,17 @@
             "emails": ["ikeontang@gmail.com", "tangjiyuan@caicloud.io"]
         },
         {
+	    "launchpad_id": "keonwoo lee",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "keonwoo.lee",
+            "emails": ["lkeonw0o@naver.com"]
+        },
+	{
             "launchpad_id": "kevin-carter",
             "companies": [
                 {
