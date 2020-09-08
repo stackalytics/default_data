@@ -8978,6 +8978,19 @@
             "emails": ["doc@aedo.net", "caedo@mirantis.com"]
         },
         {
+            "launchpad_id": "dohan0930",
+            "github_id": "dohan0930",
+            "zanata_id": "revival0n",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dong-won Jang",
+            "emails": ["dohan0930@gmail.com", "revival0n@naver.com"]
+        },
+        {
             "launchpad_id": "dolph",
             "companies": [
                 {
