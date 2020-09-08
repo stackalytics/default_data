@@ -10107,6 +10107,21 @@
             ]
         },
         {
+            "launchpad_id": "epicarts",
+            "github_id": "epicarts",
+            "zanata_id": "epicarts",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Youngho Choi",
+            "emails": [
+                "0505zxc@gmail.com"
+            ]
+        },
+        {
             "launchpad_id": "erbarr",
             "github_id": "erbarr",
             "companies": [
