@@ -10038,6 +10038,19 @@
             ]
         },
         {
+            "launchpad_id": "vincent-m",
+            "companies": [
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Vincent S. Cojot",
+            "emails": [
+                "vincent@cojot.name", "vcojot@redhat.com"
+            ]
+        },
+        {
             "launchpad_id": "endre-karlson",
             "companies": [
                 {
