@@ -17526,6 +17526,19 @@
             "emails": ["ikeontang@gmail.com", "tangjiyuan@caicloud.io"]
         },
         {
+            "launchpad_id": "keonwoolee",
+            "zanata_id": "keonwoo_lee",
+            "github_id": "lkeonwoo94",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "keonwoo lee",
+            "emails": ["lkeonw0o@naver.com"]
+        },
+        {
             "launchpad_id": "kevin-carter",
             "companies": [
                 {
