@@ -4827,6 +4827,21 @@
             "emails": ["bnemec@us.ibm.com", "openstack@nemebean.com", "bnemec@redhat.com"]
         },
         {
+            "launchpad_id": "bo314",
+            "github_id": "umi0410",
+            "zanata_id": "umi0410",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jinsu Park",
+            "emails": [
+                "bo314@naver.com"
+            ]
+        },
+        {
             "launchpad_id": "bob-haddleton",
             "companies": [
                 {
