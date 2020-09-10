@@ -21396,6 +21396,18 @@
             "emails": ["mekala.sarath@gmail.com", "sarathmekala.openstack@gmail.com", "sarathcm@juniper.net"]
         },
         {
+             "launchpad_id": "melkitan",
+             "github_id": "melkitan",
+             "companies": [
+                 {
+                     "company_name": "*independent",
+                     "end_date": null
+                 }
+             ],
+             "user_name": "Hyeim Yang",
+             "emails": ["yanghyeimm@gmail.com"]
+        },
+        {
             "launchpad_id": "melwitt",
             "companies": [
                 {
