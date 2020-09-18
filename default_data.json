@@ -2284,6 +2284,17 @@
             "emails": ["ikharin@mirantis.com", "akscram@gmail.com"]
         },
         {
+            "launchpad_id": "akth",
+            "companies": [
+                {
+                    "company_name": "ZTE Corporation",
+                    "end_date": null
+                }
+            ],
+            "user_name": "akth",
+            "emails": ["liu99wei@outlook.com"]
+        },
+        {
             "launchpad_id": "al-foo",
             "companies": [
                 {
@@ -9724,6 +9735,17 @@
             ],
             "user_name": "wizardre",
             "emails": ["dennis.eastman@verizonwireless.com", "dreastman@gmail.com"]
+        },
+        {
+            "launchpad_id": "ecsantos",
+            "companies": [
+                {
+                    "company_name": "FIT Instituto de Tecnologia",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Eduardo da Costa Santos",
+            "emails": ["eduardo.experimental@gmail.com", "eduardo.santos@fit-tecnologia.org.br"]
         },
         {
             "launchpad_id": "ed--cranford",
@@ -20133,6 +20155,17 @@
             ],
             "user_name": "lvxx",
             "emails": ["lvxx@awcloud.com", "57320398@qq.com"]
+        },
+        {
+            "launchpad_id": "lw-zte",
+            "companies": [
+                {
+                    "company_name": "ZTE Corporation",
+                    "end_date": null
+                }
+            ],
+            "user_name": "lw-zte",
+            "emails": ["liu.wei38@zte.com.cn"]
         },
         {
             "launchpad_id": "lxstar01",
@@ -36558,6 +36591,17 @@
             ],
             "user_name": "zhangjianfeng",
             "emails": ["kill51216@163.com", "zhangjianfeng@chinac.com"]
+        },
+        {
+            "launchpad_id": "zhangjunhui",
+            "companies": [
+                {
+                    "company_name": "Yovole",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhangjunhui",
+            "emails": ["zhangjunhui@yovole.com"]
         },
         {
             "launchpad_id": "zhangleiqiang",
