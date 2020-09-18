@@ -6475,6 +6475,17 @@
             "emails": ["christopher.m.spencer@intel.com"]
         },
         {
+            "launchpad_id": "chrm7070",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "kyungyong choi",
+            "emails": ["vdqvdw@naver.com", "vdqvdw@gmail.com"]
+        },
+        {
             "launchpad_id": "chuanbo",
             "companies": [
                 {
