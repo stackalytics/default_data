@@ -34058,6 +34058,17 @@
             "emails": ["wingwj@gmail.com", "wingwj.wu@huawei.com"]
         },
         {
+            "launchpad_id": "wirespecter",
+            "companies": [
+                {
+                    "company_name": "CERN",
+                    "end_date": "2021-Aug-31"
+                }
+            ],
+            "user_name": "Stavros Moiras",
+            "emails": ["steve@vipersec.com", "stavros.moiras@cern.ch"]
+        },
+        {
             "launchpad_id": "witold-bedyk",
             "companies": [
                 {
