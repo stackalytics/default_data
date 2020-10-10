@@ -44753,6 +44753,18 @@
             "title": "tekton",
             "child": true,
             "modules": ["tekton-group"]
+        },
+        {
+            "github_id": "benjaminhuo",
+            "launchpad_id": "benjaminhuo",
+            "companies": [
+                {
+                    "company_name": "QingCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "benjaminhuo",
+            "emails": ["benjamin@yunify.com", "huobj@qq.com"]
         }
     ]
 }
