@@ -9278,13 +9278,18 @@
                 },
                 {
                     "company_name": "China Telecom",
+                    "end_date": "2020-Sep-17"
+                },
+                {
+                    "company_name": "China Unicom",
                     "end_date": null
                 }
+
             ],
             "user_name": "LIU Yulong",
             "emails": [
                 "liuyulong@letv.com", "yulong@cloudcraft.cn", "dragon889@163.com", "liuyulong@le.com", "i@liuyulong.me",
-                "liuyul@chinatelecom.cn"
+                "liuyul@chinatelecom.cn", "liuyl1990@chinaunicom.cn"
             ]
         },
         {
@@ -26166,14 +26171,17 @@
                     "end_date": "2018-Jul-25"
                 },
                 {
-                    "company_name": "Red Hat",
+                   "company_name": "Red Hat",
+                    "end_date": "2019-May-30"
+                },
+                {
+                    "company_name": "LINE Corporation",
                     "end_date": null
                 }
             ],
             "user_name": "Reedip Banerjee",
             "emails": [
-                "reedip.banerjee@nectechnologies.in", "reedip14@gmail.com", "reedip.banerjee@gmail.com",
-                "rbanerje@redhat.com"
+                "reedip.banerjee@linecorp.com", "reedip14@gmail.com", "reedip.banerjee@gmail.com"
             ]
         },
         {
@@ -38153,6 +38161,10 @@
             "company_name": "Citrix Systems"
         },
         {
+            "domains": ["cloudandheat.com"],
+            "company_name": "Cloud&Heat Technologies"
+        },
+        {
             "domains": ["cloudbasesolutions.com"],
             "company_name": "Cloudbase Solutions",
             "aliases": ["Cloudbase"]
@@ -39533,6 +39545,10 @@
             "domains": ["seagate.com"],
             "company_name": "Seagate",
             "aliases": ["Seagate Technology"]
+        },
+        {
+            "domains": ["secustack.com"],
+            "company_name": "secustack"
         },
         {
             "domains": ["selectel.com", "selectel.ru"],
@@ -44462,6 +44478,17 @@
         {
             "release_name": "Victoria",
             "end_date": "2020-Oct-16",
+            "refs": {
+                "governance": {
+                    "type": "big_tent",
+                    "source": "https://opendev.org/openstack/governance/raw/tag/0.8.0/reference/projects.yaml"
+                }
+            },
+            "project": "openstack"
+        },
+        {
+            "release_name": "Wallaby",
+            "end_date": "2021-Apr-14",
             "refs": {
                 "governance": {
                     "type": "big_tent",
