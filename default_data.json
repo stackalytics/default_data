@@ -4449,21 +4449,6 @@
             ]
         },
         {
-            "github_id": "yuswift",
-            "launchpad_id": "yuswift",
-            "companies": [
-                {
-                    "company_name": "QingCloud",
-                    "end_date": null
-                }
-            ],
-            "user_name": "yuswift",
-            "emails": [
-                "yuswiftli@yunify.com",
-                "yuswift2018@gmail.com"
-            ]
-        },
-        {
             "launchpad_id": "benjenwong",
             "github_id": "benjenwong",
             "companies": [
@@ -36092,6 +36077,21 @@
             ],
             "user_name": "Yusuke Higashino",
             "emails": ["yusuke_higashino@adoc.co.jp"]
+        },
+        {
+            "github_id": "yuswift",
+            "launchpad_id": "yuswift",
+            "companies": [
+                {
+                    "company_name": "QingCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "yuswift",
+            "emails": [
+                "yuswiftli@yunify.com",
+                "yuswift2018@gmail.com"
+            ]
         },
         {
             "launchpad_id": "yuxcer",
