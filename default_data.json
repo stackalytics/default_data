@@ -19531,11 +19531,15 @@
             "companies": [
                 {
                     "company_name": "GohighSec",
+                    "end_date": "2020-Mar-31"
+                },
+                {
+                    "company_name": "China Unicom",
                     "end_date": null
                 }
             ],
             "user_name": "Jeremy Liu",
-            "emails": ["liujiong@gohighsec.com"]
+            "emails": ["liujiong@gohighsec.com", "liuj285@chinaunicom.cn"]
         },
         {
             "launchpad_id": "liujunpeng",
@@ -33559,11 +33563,15 @@
             "companies": [
                 {
                     "company_name": "GohighSec",
+                    "end_date": "2020-Aug-31"
+                },
+                {
+                    "company_name": "China Unicom",
                     "end_date": null
                 }
             ],
             "user_name": "Liangyu Wang",
-            "emails": ["wangliangyu@gohigh.com.cn"]
+            "emails": ["wangliangyu@gohigh.com.cn", "wangly2097@chinaunicom.cn"]
         },
         {
             "launchpad_id": "wangqian99cloud",
@@ -33697,11 +33705,15 @@
                 },
                 {
                     "company_name": "Lenovo",
+                    "end_date": "2020-Jun-15"
+                },
+                {
+                    "company_name": "China Telecom",
                     "end_date": null
                 }
             ],
             "user_name": "wangzhh",
-            "emails": ["wangzh21@lenovo.com", "wangzhh@awcloud.com", "wzh_1993@126.com"]
+            "emails": ["wangzhengh@chinatelecom.cn", "wangzhh@awcloud.com", "wzh_1993@126.com"]
         },
         {
             "launchpad_id": "wangzhiguang",
