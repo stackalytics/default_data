@@ -39670,6 +39670,10 @@
             "company_name": "SoundCloud"
         },
         {
+            "domains": ["spectrocloud.com"],
+            "company_name": "Spectro Cloud"
+        },
+        {
             "domains": ["spilgames.com"],
             "company_name": "Spil Games"
         },
