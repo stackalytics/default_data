@@ -1588,6 +1588,17 @@
             "emails": ["abhijeet.malawade@gmail.com", "abhijeet.malawade@nttdata.com"]
         },
         {
+            "github_id": "abhinavnagaraj",
+            "companies": [
+                {
+                    "company_name": "Spectro Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Abhinav Nagaraj",
+            "emails": ["ahinav@spectrocloud.com"]
+        },
+        {
             "launchpad_id": "abhishek-g-m",
             "companies": [
                 {
@@ -17157,6 +17168,17 @@
             "emails": ["jxxiaohou331500@yeah.net"]
         },
         {
+            "github_id": "jzhoucliqr",
+            "companies": [
+                {
+                    "company_name": "Spectro Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jun Zhou",
+            "emails": ["zhoujun06@gmail.com"]
+        },
+        {
             "github_id": "jzwlqx",
             "companies": [
                 {
@@ -19800,6 +19822,17 @@
             ],
             "user_name": "Laurel Michaels",
             "emails": ["lmichaels@parelastic.com", "lmichaels@tesora.com"]
+        },
+        {
+            "github_id": "lochanrn",
+            "companies": [
+                {
+                    "company_name": "Spectro Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Raja Lochan",
+            "emails": ["rajanaga_ra@srmuniv.edu.in"]
         },
         {
             "launchpad_id": "lodgenbd",
@@ -27658,6 +27691,17 @@
             ],
             "user_name": "Sam Yaple",
             "emails": ["sam@yaple.net", "samuel@yaple.net", "syaple@servosity.com", "sam.yaple@rackspace.com"]
+        },
+        {
+            "github_id": "saamalik",
+            "companies": [
+                {
+                    "company_name": "Spectro Cloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Saad Malik",
+            "emails": ["simfox3@gmail.com"]
         },
         {
             "launchpad_id": "sachin-shukla",
@@ -39668,6 +39712,10 @@
         {
             "domains": ["soundcloud.com"],
             "company_name": "SoundCloud"
+        },
+        {
+            "domains": ["spectrocloud.com"],
+            "company_name": "Spectro Cloud"
         },
         {
             "domains": ["spilgames.com"],
