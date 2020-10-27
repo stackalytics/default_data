@@ -4475,6 +4475,7 @@
         },
         {
             "launchpad_id": "berendt",
+            "github_id": "berendt",
             "companies": [
                 {
                     "company_name": "B1 Systems GmbH",
@@ -7862,6 +7863,18 @@
             ],
             "user_name": "Darren Birkett",
             "emails": ["darren.birkett@gmail.com"]
+        },
+        {
+            "launchpad_id": "darren.dejaeger",
+            "github_id": "darrendejaeger",
+            "companies": [
+                {
+                    "company_name": "AT&T",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Darren DeJaeger",
+            "emails": ["darren.dejaeger@att.com", "dd118r@att.com", "dd118r@us.att.com"]
         },
         {
             "launchpad_id": "daschab",
@@ -25506,7 +25519,7 @@
                 }
             ],
             "user_name": "qihongtao",
-            "emails": ["15662728521@163.com", "qihongtao@inspur.com"]
+            "emails": ["qihongtao@aliyun.com", "15662728521@163.com", "qihongtao@inspur.com"]
         },
         {
             "github_id": "qihuiz93",
@@ -36517,6 +36530,17 @@
             "emails": ["zerodivisible@gmail.com"]
         },
         {
+            "launchpad_id": "zeroup",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "RotanChen",
+            "emails": ["chengluteng@inspur.com"]
+        },
+        {
             "launchpad_id": "zeroxkim",
             "companies": [
                 {
@@ -37243,7 +37267,7 @@
                 }
             ],
             "user_name": "zhoulinhui",
-            "emails": ["zhoulinhui@yovole.com"]
+            "emails": ["df.some@foxmail.com", "zhoulinhui@yovole.com"]
         },
         {
             "launchpad_id": "zhoumo",
