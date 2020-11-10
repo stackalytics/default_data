@@ -11,6 +11,17 @@
             "emails": ["jason@vanbrackel.net"]
         },
         {
+          "github_id": "Cweiping",
+          "companies": [
+            {
+              "company_name": "DaoCloud",
+              "end_date": null
+            }
+          ],
+          "user_name": "Weiping Cai",
+          "emails": ["weiping.cai@daocloud.io"]
+        },
+        {
             "companies": [
                 {
                     "company_name": "Rancher Labs",
