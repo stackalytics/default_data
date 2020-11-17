@@ -7747,6 +7747,17 @@
             "emails": ["danielfbm@gmail.com", "daniel@alauda.io"]
         },
         {
+            "launchpad_id": "danielpereira01",
+            "companies": [
+                {
+                    "company_name": "Daitan Group",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Daniel de Oliveira Pereira",
+            "emails": ["dopereira@daitan.com"]
+        },
+        {
             "launchpad_id": "danielr-2",
             "companies": [
                 {
@@ -7885,7 +7896,7 @@
                 }
             ],
             "user_name": "Darren DeJaeger",
-            "emails": ["darren.dejaeger@att.com", "dd118r@att.com", "dd118r@us.att.com"]
+            "emails": ["darren.dejaeger@gmail.com", "dd118r@att.com", "dd118r@us.att.com"]
         },
         {
             "launchpad_id": "daschab",
@@ -22189,16 +22200,16 @@
                     "end_date": "2017-Mar-31"
                 },
                 {
-                    "company_name": "*independent",
-                    "end_date": "2018-Aug-08"
+                    "company_name": "NetApp",
+                    "end_date": "2018-Oct-24"
                 },
                 {
-                    "company_name": "NetApp",
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Miriam Yumi",
-            "emails": ["miriamyume@gmail.com", "miriam.peixoto@fit-tecnologia.org.br"]
+            "emails": ["miriamyume@gmail.com", "myumi@daitan.com"]
         },
         {
             "launchpad_id": "mishra-rakesh510",
@@ -25530,7 +25541,7 @@
                 }
             ],
             "user_name": "qihongtao",
-            "emails": ["qihongtao@aliyun.com", "15662728521@163.com", "qihongtao@inspur.com"]
+            "emails": ["qihongtao@aliyun.com", "qihongtao@inspur.com"]
         },
         {
             "github_id": "qihuiz93",
@@ -29958,6 +29969,17 @@
             ],
             "user_name": "Somik Behera",
             "emails": ["somikbehera@gmail.com", "somik@nicira.com"]
+        },
+        {
+            "launchpad_id": "sonaliborkar85",
+            "companies": [
+                {
+                    "company_name": "Dell EMC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Sonali Borkar",
+            "emails": ["sonaliborkar85@gmail.com", "sonali.borkar@calsoftinc.com", "sonali_borkar@dellteam.com"]
         },
         {
             "launchpad_id": "song-ruixia",
@@ -35751,6 +35773,18 @@
             "emails": ["ynshenoy@gmail.com", "yogeshwar.shenoy@ril.com"]
         },
         {
+            "launchpad_id": "yoctozepto",
+            "github_id": "yoctozepto",
+            "companies": [
+                {
+                    "company_name": "University of Bialystok",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Radosław Piliszek",
+            "emails": ["radoslaw.piliszek@gmail.com", "r.piliszek@uwb.edu.pl"]
+        },
+        {
             "launchpad_id": "yogesh-srikrishnan",
             "companies": [
                 {
@@ -36718,7 +36752,18 @@
                 }
             ],
             "user_name": "zhangdaolong",
-            "emails": ["zhangdaolong@fiberhome.com"]
+            "emails": ["zhangdaolong@fiberhome.com", "daodragonzhang@gmail.com"]
+        },
+        {
+            "launchpad_id": "zhanghao2",
+            "companies": [
+                {
+                    "company_name": "China Mobile",
+                    "end_date": null
+                }
+            ],
+            "user_name": "zhanghao",
+            "emails": ["zhanghao2@cmss.chinamobile.com", "zhanghao2_yewu@cmss.chinamobile.com"]
         },
         {
             "launchpad_id": "zhanghj",
@@ -40080,6 +40125,10 @@
             "company_name": "UnitedStack"
         },
         {
+            "domains": ["uwb.edu.pl"],
+            "company_name": "University of Bialystok"
+        },
+        {
             "domains": ["valinux.co.jp"],
             "company_name": "VA Linux",
             "aliases": ["VA Linux Systems Japan K.K."]
@@ -42292,6 +42341,11 @@
                     "tag_to": "591c480cafc2e729586feffbd3e0565d82bb528f"
                 }
             ]
+        },
+        {
+            "module": "venus",
+            "uri": "https://opendev.org/inspur/venus.git",
+            "organization": "openstack"
         },
         {
             "module": "cli@docker",
