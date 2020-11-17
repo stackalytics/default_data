@@ -1157,6 +1157,17 @@
             "emails": ["gergely.csatari@nokia.com"]
         },
         {
+            "github_id": "Cweiping",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Weiping Cai",
+            "emails": ["weiping.cai@daocloud.io"]
+        },
+        {
             "github_id": "FilipB",
             "companies": [
                 {
