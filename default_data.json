@@ -24325,6 +24325,28 @@
             "emails": ["aparathyras@stackmasters.eu"]
         },
         {
+            "launchpad_id": "parczewski",
+            "github_id": "cityofships",
+            "companies": [
+                {
+                    "company_name": "IBM",
+                    "end_date": "2018-Sep-30"
+                },
+                {
+                    "company_name": "Nokia",
+                    "end_date": "2020-Nov-30"
+                },
+                {
+                    "company_name": "StackHPC",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Piotr Parczewski",
+            "emails": [
+                "piotr.parczewski@outlook.com", "piotr.parczewski@pl.ibm.com", "piotr.parczewski@nokia.com", "piotr@stackhpc.com"
+            ]
+        },
+        {
             "launchpad_id": "partha.b",
             "github_id": "beevatsyu",
             "companies": [
