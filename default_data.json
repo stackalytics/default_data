@@ -707,7 +707,7 @@
             ],
             "user_name": "Shriram Rajagopalan",
             "emails": [
-                "rshriram@users.noreply.github.com", "shriram@us.ibm.com", "rshriram@tetrate.io",
+                "rshriram@users.noreply.github.com", "shriram@us.ibm.com", "shriramr@vmware.com", "rshriram@tetrate.io",
                 "rshriram@gmail.com"
             ]
         },
@@ -1954,15 +1954,11 @@
                 },
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Adrian Moreno",
-            "emails": ["adrian@morenomartinez.com"]
+            "emails": ["adrian@morenomartinez.com", "adrian.moreno@emc.com"]
         },
         {
             "launchpad_id": "adriansmith",
@@ -2189,7 +2185,7 @@
                 }
             ],
             "user_name": "Akash Gangil",
-            "emails": ["akashg1611@gmail.com"]
+            "emails": ["agangil@vmware.com", "akashg1611@gmail.com"]
         },
         {
             "launchpad_id": "akaszuba",
@@ -6144,15 +6140,11 @@
                 },
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "chen, hao",
-            "emails": ["chenh1987@gmail.com"]
+            "emails": ["chen.hao@emc.com", "chenh1987@gmail.com"]
         },
         {
             "launchpad_id": "chenhanxiao",
@@ -7088,10 +7080,6 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -8225,10 +8213,6 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -8620,7 +8604,7 @@
                 }
             ],
             "user_name": "Dan Florea",
-            "emails": ["dan.florea@gmail.com", "floread@vmware.com"]
+            "emails": ["dan.florea@gmail.com", "dflorea@vmware.com"]
         },
         {
             "github_id": "dgn",
@@ -8810,16 +8794,13 @@
                 },
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Digambar Patil",
             "emails": [
-                "digambarpatil15@yahoo.co.in", "digambarpat@gmail.com"
+                "digambarpatil15@yahoo.co.in", "digambarpat@gmail.com", "digambar.patil@calsoftinc.com",
+                "digmabar_patil@dellteam.com"
             ]
         },
         {
@@ -10104,12 +10085,12 @@
                     "end_date": "2017-Jan-31"
                 },
                 {
-                    "company_name": "*independent",
+                    "company_name": "Dell EMC",
                     "end_date": null
                 }
             ],
             "user_name": "Elad Zucker",
-            "emails": ["eladz@hexsys-solutions.com"]
+            "emails": ["elad.zucker@emc.com", "eladz@hexsys-solutions.com"]
         },
         {
             "launchpad_id": "eldar-nugaev",
@@ -11530,15 +11511,11 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Garima Misra",
-            "emails": ["garima.misra@calsoftinc.com"]
+            "emails": ["garima_misra@dellteam.com", "garima.misra@calsoftinc.com"]
         },
         {
             "launchpad_id": "gary-w-smith",
@@ -11583,7 +11560,7 @@
                 }
             ],
             "user_name": "Gary Kotton",
-            "emails": ["gkotton@redhat.com", "garyk@radware.com"]
+            "emails": ["gkotton@vmware.com", "gkotton@redhat.com", "garyk@radware.com"]
         },
         {
             "github_id": "gbaufake",
@@ -13198,15 +13175,11 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Jan-01"
-                },
-                {
-                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
             "user_name": "Ganesh Hiregoudar",
-            "emails": ["ghiregoudar@vmware.com"]
+            "emails": ["ganeshkumar.hiregoudar@dell.com"]
         },
         {
             "launchpad_id": "hjw",
@@ -13743,12 +13716,12 @@
             "launchpad_id": "hugonicodemos",
             "companies": [
                 {
-                    "company_name": "Daitan Group",
+                    "company_name": "Universidade Federal de Campina Grande",
                     "end_date": null
                 }
             ],
             "user_name": "Hugo Nicodemos",
-            "emails": ["hugonicodemos@gmail.com", "nicodemos@lsd.ufcg.edu.br", "hbrito@daitan.com"]
+            "emails": ["hugonicodemos@gmail.com", "nicodemos@lsd.ufcg.edu.br"]
         },
         {
             "launchpad_id": "huifeng82",
@@ -14680,15 +14653,11 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Prasuk Jain",
-            "emails": ["jainprasuk1996@gmail.com"]
+            "emails": ["jainprasuk1996@gmail.com", "prasuk_jain@dellteam.com", "prasuk.jain@calsoftinc.com"]
         },
         {
             "launchpad_id": "jaiveek-shah",
@@ -17921,15 +17890,11 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Oct-01"
-                },
-                {
-                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
             "user_name": "Kiran Divekar",
-            "emails": ["dkiran@vmware.com"]
+            "emails": ["kiran.divekar@calsoftinc.com", "kiran.divekar@vce.com"]
         },
         {
             "launchpad_id": "kiseok7",
@@ -18415,15 +18380,11 @@
             "companies": [
                 {
                     "company_name": "VMware",
-                    "end_date": "2020-Jan-02"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Peter Balland",
-            "emails": ["peter@balland.net", "peter@congress-dev.localdomain"]
+            "emails": ["peter@balland.net", "pballand@vmware.com", "peter@congress-dev.localdomain"]
         },
         {
             "launchpad_id": "l-xiaoqiang",
@@ -20646,15 +20607,11 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Mahendra Kamble",
-            "emails": ["mahendra.kamble358@gmail.com", "mahendra.kamble@calsoftinc.com"]
+            "emails": ["mahendra.kamble358@gmail.com", "mahendra.kamble@calsoftinc.com", "mahendra_kamble@dellteam.com"]
         },
         {
             "launchpad_id": "maheshkumar-pandurangan",
@@ -21162,10 +21119,6 @@
                 },
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -22341,10 +22294,6 @@
             "companies": [
                 {
                     "company_name": "VMware",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -25247,30 +25196,22 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Pradip Kadam",
-            "emails": ["pradip.kadam001@gmail.com", "pradip.kadam@calsoftinc.com"]
+            "emails": ["pradip.kadam001@gmail.com", "pradip.kadam@calsoftinc.com", "pradip_k@dellteam.com"]
         },
         {
             "launchpad_id": "pramchan-5",
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Prakash Ramchandran",
-            "emails": ["pramchan@yahoo.com"]
+            "emails": ["pramchan@yahoo.com", "prakash_ramchandran@dell.com"]
         },
         {
             "launchpad_id": "prameswar",
@@ -25358,15 +25299,11 @@
                 },
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "praveen",
-            "emails": ["npraveen35@gmail.com"]
+            "emails": ["npraveen35@gmail.com", "Nagegowda.Praveen@emc.com"]
         },
         {
             "launchpad_id": "prdsilva",
@@ -26088,15 +26025,11 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Rashid Iqbal",
-            "emails": ["rashid.iqbal@gmail.com"]
+            "emails": ["rashid_iqbal@dellteam.com", "rashid.iqbal@gmail.com"]
         },
         {
             "github_id": "ravipwaghmare",
@@ -27084,7 +27017,7 @@
                 }
             ],
             "user_name": "Roey Chen",
-            "emails": ["chen.roey@gmail.com"]
+            "emails": ["roeyc@vmware.com", "chen.roey@gmail.com"]
         },
         {
             "launchpad_id": "roger-yu",
@@ -28051,10 +27984,6 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -28121,15 +28050,11 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Jan-01"
-                },
-                {
-                    "company_name": "VMware",
                     "end_date": null
                 }
             ],
             "user_name": "Santosh K. Ramappa",
-            "emails": ["sramappa@vmware.com"]
+            "emails": ["Santosh.Ramappa@emc.com"]
         },
         {
             "launchpad_id": "saphi070",
@@ -28642,15 +28567,13 @@
                 },
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Oct-20"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Sean McGinnis",
             "emails": [
+                "sean_mcginnis@dell.com",
+                "sean.mcginnis@dell.com",
                 "sean.mcginnis@gmail.com",
                 "sean.mcginnis@gmx.com",
                 "sean.mcginnis@huawei.com",
@@ -29064,10 +28987,6 @@
                 },
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2019-Nov-25"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
@@ -29675,15 +29594,11 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Shubham Kaushal",
-            "emails": ["shubham.kaushal@calsoftinc.com"]
+            "emails": ["shubham.kaushal@calsoftinc.com", "shubham_kaushal@dellteam.com"]
         },
         {
             "launchpad_id": "skazi",
@@ -32513,15 +32428,11 @@
             "companies": [
                 {
                     "company_name": "Dell EMC",
-                    "end_date": "2020-Nov-30"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "Uday Patil",
-            "emails": ["uday344@gmail.com", "uday.patil@calsoftinc.com"]
+            "emails": ["uday344@gmail.com", "uday.patil@calsoftinc.com", "uday_patil1@dellteam.com"]
         },
         {
             "launchpad_id": "uestc-shi",
@@ -33694,17 +33605,6 @@
             "emails": ["sxmatch1986@gmail.com", "hwang7073@fiberhome.com"]
         },
         {
-            "github_id": "wangi1",
-            "companies": [
-                {
-                    "company_name": "Dell EMC",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Ivan Wang",
-            "emails": ["ivan.wang@dell.com"]
-        },
-        {
             "launchpad_id": "wangjianhe",
             "companies": [
                 {
@@ -34864,7 +34764,7 @@
                 }
             ],
             "user_name": "Hong Hui Xiao",
-            "emails": ["honghui_xiao@yeah.net", "xiaohhui123@gmail.com"]
+            "emails": ["honghui_xiao@yeah.net", "xiaohhui123@gmail.com", "honghuix@vmware.com"]
         },
         {
             "launchpad_id": "xiaojueguan",
@@ -34953,16 +34853,12 @@
                 },
                 {
                     "company_name": "Huawei",
-                    "end_date": "2019-Dec-24"
-                },
-                {
-                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "xing-yang",
             "emails": [
-                "xyang@alum.mit.edu", "xing.yang@huawei.com",
+                "xing.yang@emc.com", "xing.yang@dell.com", "xyang@alum.mit.edu", "xing.yang@huawei.com",
                 "xingyang105@gmail.com"
             ]
         },
@@ -35261,17 +35157,6 @@
             ],
             "user_name": "Yasunori Maruyama",
             "emails": ["y-maruyama@tsh-world.co.jp"]
-        },
-        {
-            "github_id": "y0ng-wang",
-            "companies": [
-                {
-                    "company_name": "Dell EMC",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Yong Wang",
-            "emails": ["yong.wang@dell.com"]
         },
         {
             "launchpad_id": "yab277",
@@ -35738,17 +35623,6 @@
             ],
             "user_name": "Ye Feng Wen",
             "emails": ["earnest.yefeng.wen@gmail.com", "ye.feng.wen@huawei.com"]
-        },
-        {
-            "launchpad_id": "yehaiyang",
-            "companies": [
-                {
-                    "company_name": "China Mobile",
-                    "end_date": null
-                }
-            ],
-            "user_name": "YeHaiyang",
-            "emails": ["6161910042@vip.jiangnan.edu.cn"]
         },
         {
             "launchpad_id": "yevgen-runts",
@@ -41143,15 +41017,9 @@
                     "tag_from": "16.0.0.0rc1"
                 },
                 {
-                    "branch": "stable/victoria",
                     "tag_to": "HEAD",
                     "release_name": "Victoria",
                     "tag_from": "17.0.0"
-                },
-                {
-                    "tag_to": "HEAD",
-                    "release_name": "Wallaby",
-                    "tag_from": "18.0.0"
                 }
             ],
             "uri": "https://opendev.org/openstack/horizon.git",
@@ -42502,21 +42370,6 @@
             "organization": "openstack"
         },
         {
-            "module": "python-venusclient",
-            "uri": "https://opendev.org/inspur/python-venusclient.git",
-            "organization": "openstack"
-        },
-        {
-            "module": "venus-specs",
-            "uri": "https://opendev.org/inspur/venus-specs.git",
-            "organization": "openstack"
-        },
-        {
-            "module": "venus-tempest-plugin",
-            "uri": "https://opendev.org/inspur/venus-tempest-plugin.git",
-            "organization": "openstack"
-        },
-        {
             "module": "cli@docker",
             "organization": "docker",
             "uri": "https://github.com/docker/cli.git"
@@ -42592,229 +42445,9 @@
             "uri": "https://github.com/docker/docker.github.io.git"
         },
         {
-            "module": "ansible-playbooks",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/ansible-playbooks.git"
-        },
-        {
-            "module": "test",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/test.git"
-        },
-        {
-            "module": "distcloud",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/distcloud.git"
-        },
-        {
-            "module": "metal",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/metal.git"
-        },
-        {
-            "module": "config",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/config.git"
-        },
-        {
-            "module": "tools",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/tools.git"
-        },
-        {
-            "module": "nfv",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/nfv.git"
-        },
-        {
-            "module": "root",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/root.git"
-        },
-        {
-            "module": "fault",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/fault.git"
-        },
-        {
-            "module": "kernel",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/kernel.git"
-        },
-        {
-            "module": "utilities",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/utilities.git"
-        },
-        {
-            "module": "openstack-armada-app",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/openstack-armada-app.git"
-        },
-        {
-            "module": "ha",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/ha.git"
-        },
-        {
-            "module": "upstream",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/upstream.git"
-        },
-        {
-            "module": "stx-puppet",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/stx-puppet.git"
-        },
-        {
-            "module": "update",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/update.git"
-        },
-        {
-            "module": "integ",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/integ.git"
-        },
-        {
-            "module": "config-files",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/config-files.git"
-        },
-        {
-            "module": "monitoring",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/monitoring.git"
-        },
-        {
-            "module": "manifest",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/manifest.git"
-        },
-        {
-            "module": "distcloud-client",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/distcloud-client.git"
-        },
-        {
-            "module": "containers",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/containers.git"
-        },
-        {
-            "module": "oidc-auth-armada-app",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/oidc-auth-armada-app.git"
-        },
-        {
-            "module": "gui",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/gui.git"
-        },
-        {
-            "module": "cert-manager-armada-app",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/cert-manager-armada-app.git"
-        },
-        {
-            "module": "clients",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/clients.git"
-        },
-        {
-            "module": "vault-armada-app",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/vault-armada-app.git"
-        },
-        {
-            "module": "compile",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/compile.git"
-        },
-        {
-            "module": "portieris-armada-app",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/portieris-armada-app.git"
-        },
-        {
-            "module": "monitor-armada-app",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/monitor-armada-app.git"
-        },
-        {
-            "module": "nginx-ingress-controller-armada-app",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/nginx-ingress-controller-armada-app.git"
-        },
-        {
-            "module": "platform-armada-app",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/platform-armada-app.git"
-        },
-        {
-            "module": "helm-charts",
-            "organization": "starlingx",
-            "uri": "https://github.com/starlingx/helm-charts.git"
-        },
-        {
-            "module": "apiserver-proxy@gardener",
+            "module": "gardener",
             "organization": "gardener",
-            "uri": "https://github.com/gardener/apiserver-proxy.git"
-        },
-        {
-            "module": "autoscaler@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/autoscaler.git"
-        },
-        {
-            "module": "aws-lb-readvertiser@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/aws-lb-readvertiser.git"
-        },
-        {
-            "module": "cc-utils@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/cc-utils.git"
-        },
-        {
-            "module": "cert-management@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/cert-management.git"
-        },
-        {
-            "module": "certificate-dns-bridge@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/certificate-dns-bridge.git"
-        },
-        {
-            "module": "cloud-provider-aws@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/cloud-provider-aws.git"
-        },
-        {
-            "module": "cloud-provider-azure@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/cloud-provider-azure.git"
-        },
-        {
-            "module": "cloud-provider-gcp@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/cloud-provider-gcp.git"
-        },
-        {
-            "module": "component-spec@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/component-spec.git"
-        },
-        {
-            "module": "controller-manager-library@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/controller-manager-library.git"
-        },
-        {
-            "module": "controller-runtime@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/controller-runtime.git"
+            "uri": "https://github.com/gardener/gardener.git"
         },
         {
             "module": "dashboard@gardener",
@@ -42822,379 +42455,14 @@
             "uri": "https://github.com/gardener/dashboard.git"
         },
         {
-            "module": "dependency-watchdog@gardener",
+            "module": "gardentctl@gardener",
             "organization": "gardener",
-            "uri": "https://github.com/gardener/dependency-watchdog.git"
-        },
-        {
-            "module": "dnslb-controller-manager@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/dnslb-controller-manager.git"
-        },
-        {
-            "module": "documentation@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/documentation.git"
-        },
-        {
-            "module": "etcd-backup-restore@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/etcd-backup-restore.git"
-        },
-        {
-            "module": "etcd-custom-image@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/etcd-custom-image.git"
-        },
-        {
-            "module": "etcd-druid@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/etcd-druid.git"
-        },
-        {
-            "module": "external-dns-management@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/external-dns-management.git"
+            "uri": "https://github.com/gardener/gardenctl.git"
         },
         {
             "module": "garden-setup@gardener",
             "organization": "gardener",
             "uri": "https://github.com/gardener/garden-setup.git"
-        },
-        {
-            "module": "gardenctl@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardenctl.git"
-        },
-        {
-            "module": "gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener.git"
-        },
-        {
-            "module": "gardener-extension-networking-calico@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-networking-calico.git"
-        },
-        {
-            "module": "gardener-extension-networking-cilium@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-networking-cilium.git"
-        },
-        {
-            "module": "gardener-extension-os-coreos@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-os-coreos.git"
-        },
-        {
-            "module": "gardener-extension-os-coreos-alicloud@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-os-coreos-alicloud.git"
-        },
-        {
-            "module": "gardener-extension-os-gardenlinux@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-os-gardenlinux.git"
-        },
-        {
-            "module": "gardener-extension-os-suse-chost@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-os-suse-chost.git"
-        },
-        {
-            "module": "gardener-extension-os-ubuntu@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-os-ubuntu.git"
-        },
-        {
-            "module": "gardener-extension-os-ubuntu-alicloud@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-os-ubuntu-alicloud.git"
-        },
-        {
-            "module": "gardener-extension-provider-alicloud@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-provider-alicloud.git"
-        },
-        {
-            "module": "gardener-extension-provider-aws@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-provider-aws.git"
-        },
-        {
-            "module": "gardener-extension-provider-azure@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-provider-azure.git"
-        },
-        {
-            "module": "gardener-extension-provider-gcp@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-provider-gcp.git"
-        },
-        {
-            "module": "gardener-extension-provider-kubevirt@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-provider-kubevirt.git"
-        },
-        {
-            "module": "gardener-extension-provider-mock@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-provider-mock.git"
-        },
-        {
-            "module": "gardener-extension-provider-openshift@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-provider-openshift.git"
-        },
-        {
-            "module": "gardener-extension-provider-openstack@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-provider-openstack.git"
-        },
-        {
-            "module": "gardener-extension-provider-packet@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-provider-packet.git"
-        },
-        {
-            "module": "gardener-extension-provider-vsphere@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-provider-vsphere.git"
-        },
-        {
-            "module": "gardener-extension-runtime-gvisor@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-runtime-gvisor.git"
-        },
-        {
-            "module": "gardener-extension-sample@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-sample.git"
-        },
-        {
-            "module": "gardener-extension-shoot-cert-service@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-shoot-cert-service.git"
-        },
-        {
-            "module": "gardener-extension-shoot-dns-service@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-extension-shoot-dns-service.git"
-        },
-        {
-            "module": "gardener-metrics-exporter@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-metrics-exporter.git"
-        },
-        {
-            "module": "gardener-resource-manager@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gardener-resource-manager.git"
-        },
-        {
-            "module": "gem@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gem.git"
-        },
-        {
-            "module": "gpu-installer@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/gpu-installer.git"
-        },
-        {
-            "module": "homebrew-tap@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/homebrew-tap.git"
-        },
-        {
-            "module": "hub@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/hub.git"
-        },
-        {
-            "module": "hvpa-controller@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/hvpa-controller.git"
-        },
-        {
-            "module": "hyperkube@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/hyperkube.git"
-        },
-        {
-            "module": "ingress-default-backend@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/ingress-default-backend.git"
-        },
-        {
-            "module": "k8s-conformance@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/k8s-conformance.git"
-        },
-        {
-            "module": "kube-openapi@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/kube-openapi.git"
-        },
-        {
-            "module": "kubify@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/kubify.git"
-        },
-        {
-            "module": "kubify-aws-template@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/kubify-aws-template.git"
-        },
-        {
-            "module": "kubify-openstack-template@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/kubify-openstack-template.git"
-        },
-        {
-            "module": "kupid@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/kupid.git"
-        },
-        {
-            "module": "landscape-setup@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/landscape-setup.git"
-        },
-        {
-            "module": "landscape-setup-template@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/landscape-setup-template.git"
-        },
-        {
-            "module": "landscaper@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/landscaper.git"
-        },
-        {
-            "module": "logging@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/logging.git"
-        },
-        {
-            "module": "machine-controller-manager@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/machine-controller-manager.git"
-        },
-        {
-            "module": "machine-controller-manager-provider-alicloud@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/machine-controller-manager-provider-alicloud.git"
-        },
-        {
-            "module": "machine-controller-manager-provider-aws@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/machine-controller-manager-provider-aws.git"
-        },
-        {
-            "module": "machine-controller-manager-provider-gcp@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/machine-controller-manager-provider-gcp.git"
-        },
-        {
-            "module": "machine-controller-manager-provider-kubevirt@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/machine-controller-manager-provider-kubevirt.git"
-        },
-        {
-            "module": "machine-controller-manager-provider-sampleprovider@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/machine-controller-manager-provider-sampleprovider.git"
-        },
-        {
-            "module": "machine-controller-manager-provider-vsphere@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/machine-controller-manager-provider-vsphere.git"
-        },
-        {
-            "module": "machine-controller-manager-provider-yandex@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/machine-controller-manager-provider-yandex.git"
-        },
-        {
-            "module": "machine-spec@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/machine-spec.git"
-        },
-        {
-            "module": "monitoring@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/monitoring.git"
-        },
-        {
-            "module": "nsxt-lb-provider@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/nsxt-lb-provider.git"
-        },
-        {
-            "module": "ops-toolbelt@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/ops-toolbelt.git"
-        },
-        {
-            "module": "remedy-controller@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/remedy-controller.git"
-        },
-        {
-            "module": "reserve-excess-capacity@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/reserve-excess-capacity.git"
-        },
-        {
-            "module": "sow@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/sow.git"
-        },
-        {
-            "module": "structured-merge-diff@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/structured-merge-diff.git"
-        },
-        {
-            "module": "terminal-controller-manager@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/terminal-controller-manager.git"
-        },
-        {
-            "module": "terraformer@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/terraformer.git"
-        },
-        {
-            "module": "test-infra@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/test-infra.git"
-        },
-        {
-            "module": "vpa-exporter@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/vpa-exporter.git"
-        },
-        {
-            "module": "vpn@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/vpn.git"
-        },
-        {
-            "module": "vscode-gardener-tools@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/vscode-gardener-tools.git"
-        },
-        {
-            "module": "website@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/website.git"
-        },
-        {
-            "module": "website-generator@gardener",
-            "organization": "gardener",
-            "uri": "https://github.com/gardener/website-generator.git"
         },
         {
             "module": "istio",
@@ -45107,104 +44375,7 @@
         {
             "module_group_name": "gardener-group",
             "modules": [
-                "apiserver-proxy@gardener",
-                "autoscaler@gardener",
-                "aws-lb-readvertiser@gardener",
-                "cc-utils@gardener",
-                "cert-management@gardener",
-                "certificate-dns-bridge@gardener",
-                "cloud-provider-aws@gardener",
-                "cloud-provider-azure@gardener",
-                "cloud-provider-gcp@gardener",
-                "component-spec@gardener",
-                "controller-manager-library@gardener",
-                "controller-runtime@gardener",
-                "dashboard@gardener",
-                "dependency-watchdog@gardener",
-                "dnslb-controller-manager@gardener",
-                "documentation@gardener",
-                "etcd-backup-restore@gardener",
-                "etcd-custom-image@gardener",
-                "etcd-druid@gardener",
-                "external-dns-management@gardener",
-                "garden-setup@gardener",
-                "gardenctl@gardener",
-                "gardener",
-                "gardener-extension-networking-calico@gardener",
-                "gardener-extension-networking-cilium@gardener",
-                "gardener-extension-os-coreos@gardener",
-                "gardener-extension-os-coreos-alicloud@gardener",
-                "gardener-extension-os-gardenlinux@gardener",
-                "gardener-extension-os-suse-chost@gardener",
-                "gardener-extension-os-ubuntu@gardener",
-                "gardener-extension-os-ubuntu-alicloud@gardener",
-                "gardener-extension-provider-alicloud@gardener",
-                "gardener-extension-provider-aws@gardener",
-                "gardener-extension-provider-azure@gardener",
-                "gardener-extension-provider-gcp@gardener",
-                "gardener-extension-provider-kubevirt@gardener",
-                "gardener-extension-provider-mock@gardener",
-                "gardener-extension-provider-openshift@gardener",
-                "gardener-extension-provider-openstack@gardener",
-                "gardener-extension-provider-packet@gardener",
-                "gardener-extension-provider-vsphere@gardener",
-                "gardener-extension-runtime-gvisor@gardener",
-                "gardener-extension-sample@gardener",
-                "gardener-extension-shoot-cert-service@gardener",
-                "gardener-extension-shoot-dns-service@gardener",
-                "gardener-metrics-exporter@gardener",
-                "gardener-resource-manager@gardener",
-                "gem@gardener",
-                "gpu-installer@gardener",
-                "homebrew-tap@gardener",
-                "hub@gardener",
-                "hvpa-controller@gardener",
-                "hyperkube@gardener",
-                "ingress-default-backend@gardener",
-                "k8s-conformance@gardener",
-                "kube-openapi@gardener",
-                "kubify@gardener",
-                "kubify-aws-template@gardener",
-                "kubify-openstack-template@gardener",
-                "kupid@gardener",
-                "landscape-setup@gardener",
-                "landscape-setup-template@gardener",
-                "landscaper@gardener",
-                "logging@gardener",
-                "machine-controller-manager@gardener",
-                "machine-controller-manager-provider-alicloud@gardener",
-                "machine-controller-manager-provider-aws@gardener",
-                "machine-controller-manager-provider-gcp@gardener",
-                "machine-controller-manager-provider-kubevirt@gardener",
-                "machine-controller-manager-provider-sampleprovider@gardener",
-                "machine-controller-manager-provider-vsphere@gardener",
-                "machine-controller-manager-provider-yandex@gardener",
-                "machine-spec@gardener",
-                "monitoring@gardener",
-                "nsxt-lb-provider@gardener",
-                "ops-toolbelt@gardener",
-                "remedy-controller@gardener",
-                "reserve-excess-capacity@gardener",
-                "sow@gardener",
-                "structured-merge-diff@gardener",
-                "terminal-controller-manager@gardener",
-                "terraformer@gardener",
-                "test-infra@gardener",
-                "vpa-exporter@gardener",
-                "vpn@gardener",
-                "vscode-gardener-tools@gardener",
-                "website@gardener",
-                "website-generator@gardener"
-            ]
-        },
-        {
-            "module_group_name": "starlingx-group",
-            "modules": [
-                "ansible-playbooks", "test", "distcloud", "metal", "config", "tools", "nfv", "root", "fault", "kernel",
-                "utilities", "openstack-armada-app", "ha", "upstream", "stx-puppet", "update", "integ", "config-files",
-                "monitoring", "manifest", "distcloud-client", "containers", "oidc-auth-armada-app", "gui",
-                "cert-manager-armada-app", "clients", "vault-armada-app", "compile", "portieris-armada-app",
-                "monitor-armada-app", "nginx-ingress-controller-armada-app", "platform-armada-app", "helm-charts"
+                "gardener", "dashboard@gardener", "gardenctl@gardener", "garden-setup@gardener"
             ]
         },
         {
@@ -45663,12 +44834,6 @@
             "modules": ["gardener-group"]
         },
         {
-            "id": "starlingx-group",
-            "title": "Starlingx",
-            "child": true,
-            "modules": ["starlingx-group"]
-        },
-        {
             "id": "jaeger",
             "title": "jaeger",
             "child": true,
@@ -45705,7 +44870,7 @@
                 "ansible-group", "ceph-group", "concourse-group", "docker-group", "fdio-group", "istio-group",
                 "knative-group", "kubeflow-group", "jclouds", "cloudfoundry", "opnfv", "openlab", "openshift", "ovs",
                 "pypa-group", "spinnaker", "opendaylight", "kubernetes-group", "tekton-group", "facebookincubator",
-                "rancher", "cntt", "gardener-group", "starlingx-group"
+                "rancher", "cntt", "gardener-group"
             ]
         },
         {
