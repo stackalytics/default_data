@@ -20709,6 +20709,26 @@
             "emails": ["makebin@qiniu.com"]
         },
         {
+            "launchpad_id": "makowals",
+            "companies": [
+                {
+                    "company_name": "CERN",
+                    "end_date": "2018-Apr-30"
+                },
+                {
+                    "company_name": "*independent",
+                    "end_date": "2021-Mar-31"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Mateusz Kowalski",
+            "github_id": "mkowalski",
+            "emails": ["mateusz@mkowalski.com"]
+        },
+        {
             "launchpad_id": "maksimov",
             "companies": [
                 {
