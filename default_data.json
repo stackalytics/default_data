@@ -21779,6 +21779,17 @@
             "emails": ["melwitt@yahoo-inc.com", "melwittt@gmail.com", "melwitt@redhat.com"]
         },
         {
+            "github_id": "mengjiao-liu",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "mengjiao-liu",
+            "emails": ["mengjiao.liu@daocloud.io", "liumengjiao69@gmail.com"]
+        },
+        {
             "github_id": "menglingwei",
             "companies": [
                 {
@@ -34743,6 +34754,17 @@
             ],
             "user_name": "Michelle King",
             "emails": ["wangyan@awcloud.com"]
+        },
+        {
+            "github_id": "wzshiming",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wzshiming",
+            "emails": ["wzshiming@foxmail.com", "me@zsm.io", "shiming.zhang@daocloud.io"]
         },
         {
             "github_id": "xavier-grall",
