@@ -39971,6 +39971,10 @@
             "company_name": "secustack"
         },
         {
+            "domains": ["seldon.io"],
+            "company_name": "Seldon"
+        },
+        {
             "domains": ["selectel.com", "selectel.ru"],
             "company_name": "Selectel"
         },
