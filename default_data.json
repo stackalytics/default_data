@@ -37553,6 +37553,18 @@
             "emails": ["zhouhenglc@inspur.com"]
         },
         {
+            "github_id": "liupeng0518",
+            "launchpad_id": "liupeng0518",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "liupeng0518",
+            "emails": ["liupeng0518@gmail.com"]
+        },
+        {
             "launchpad_id": "zhouhy",
             "companies": [
                 {
