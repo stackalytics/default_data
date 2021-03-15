@@ -17649,6 +17649,17 @@
             "emails": ["jin.ke@99cloud.net", "1534057243@qq.com"]
         },
         {
+            "github_id": "kebe7jun",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Kebe Liu",
+            "emails": ["mail@kebe7jun.com", "kebe.liu@daocloud.io"]
+        },
+        {
             "github_id": "kedmison",
             "companies": [
                 {
@@ -23026,6 +23037,17 @@
             ],
             "user_name": "Matt Wringe",
             "emails": ["mwringe@redhat.com"]
+        },
+        {
+            "github_id": "MXuDong",
+            "companies": [
+                {
+                    "company_name": "DaoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "MXuDong",
+            "emails": ["34544445+MXuDong@users.noreply.github.com", "xudong.meng@daocloud.io"]
         },
         {
             "github_id": "mybesthd",
