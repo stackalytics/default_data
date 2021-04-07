@@ -28995,18 +28995,6 @@
             "emails": ["shaomingwu@inspur.com"]
         },
         {
-            "launchpad_id": "shaowenchen",
-            "github_id": "shaowenchen",
-            "companies": [
-                {
-                    "company_name": "QingCloud Technologies Corp",
-                    "end_date": null
-                }
-            ],
-            "user_name": "Shaowen Chen",
-            "emails": ["mail@chenshaowen.com", "shaowenchen@yunify.com"]
-        },
-        {
             "launchpad_id": "shapeliang",
             "companies": [
                 {
