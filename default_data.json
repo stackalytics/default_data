@@ -38064,6 +38064,17 @@
             ],
             "user_name": "renhao",
             "emails": ["renhao@beyondcent.com", "rh1457509849@163.com"]
+        },
+        {
+            "launchpad_id": "jiashujia",
+            "companies": [
+                {
+                    "company_name": "Inspur",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Shujia Jia",
+            "emails": ["jiashujia@inspur.com"]
         }
     ],
     "companies": [
