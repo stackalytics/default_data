@@ -6967,6 +6967,22 @@
             "emails": ["ntcong1705@gmail.com", "congnguyenthanh@vccorp.vn"]
         },
         {
+            "launchpad_id": "connoreika",
+            "github_id": "connoreika",
+            "companies": [
+                {
+                    "company_name": "Sberbank",
+                    "end_date": "2020-Aug-17"
+                },
+                {
+                    "company_name": "VTB Bank (PJSC)",
+                    "end_date": null
+                }
+            ],
+            "user_name": "connoreika",
+            "emails": ["connoreika@gmail.com", "ssrayskiy@sberbank.ru", "raiskii@vtb.ru"]
+        },
+        {
             "launchpad_id": "coolias-lj",
             "companies": [
                 {
@@ -14312,12 +14328,12 @@
                     "end_date": "2020-Aug-17"
                 },
                 {
-                    "company_name": "*independent",
+                    "company_name": "VTB Bank (PJSC)",
                     "end_date": null
                 }
             ],
             "user_name": "Ilya Popov",
-            "emails": ["ilvpopov.sbt@sberbank.ru", "ilya_p@hotmail.com"]
+            "emails": ["ilvpopov.sbt@sberbank.ru", "ilya_p@hotmail.com", "ivpopov@vtb.ru"]
         },
         {
             "launchpad_id": "ilyaalekseyev",
@@ -22434,12 +22450,12 @@
                     "end_date": "2020-Aug-17"
                 },
                 {
-                    "company_name": "*independent",
+                    "company_name": "VTB Bank (PJSC)",
                     "end_date": null
                 }
             ],
             "user_name": "Maksim Malchuk",
-            "emails": ["maksim.malchuk@gmail.com", "mmalchuk@mirantis.com", "malchuk.m.a@sberbank.ru"]
+            "emails": ["maksim.malchuk@gmail.com", "mmalchuk@mirantis.com", "malchuk.m.a@sberbank.ru", "malchuk@vtb.ru"]
         },
         {
             "launchpad_id": "mmaleckk",
@@ -28928,12 +28944,12 @@
                     "end_date": "2020-Aug-17"
                 },
                 {
-                    "company_name": "*independent",
+                    "company_name": "VTB Bank (PJSC)",
                     "end_date": null
                 }
             ],
             "user_name": "Margarita Shakhova",
-            "emails": ["mbshakhova.sbt@sberbank.ru", "shakhova.margarita@gmail.com"]
+            "emails": ["mbshakhova.sbt@sberbank.ru", "shakhova.margarita@gmail.com", "mbshahova@vtb.ru"]
         },
         {
             "launchpad_id": "shamail-tahir",
@@ -40483,6 +40499,11 @@
             "domains": ["voereir.com"],
             "company_name": "VoerEir AB",
             "aliases": ["VoerEir", "VoerEir India Pvt Ltd"]
+        },
+        {
+            "domains": ["vtb.ru"],
+            "company_name": "VTB Bank (PJSC)",
+            "aliases": ["VTB", "VTB Bank"]
         },
         {
             "domains": ["vu.lt"],
