@@ -37947,6 +37947,17 @@
             "emails": ["chuck.short@canonical.com", "zulcss@ubuntu.com"]
         },
         {
+            "launchpad_id": "nkshirsagar",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Nikhil Kshirsagar",
+            "emails": ["nikhil.kshirsagar@canonical.com", "nkshirsagar@gmail.com"]
+        },
+        {
             "launchpad_id": "zuohuasun",
             "companies": [
                 {
