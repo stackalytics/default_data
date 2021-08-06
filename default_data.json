@@ -6240,6 +6240,10 @@
             "companies": [
                 {
                     "company_name": "BoCloud",
+                    "end_date": "2021-June-18"
+                },
+                {   
+                    "company_name": "Baidu",
                     "end_date": null
                 }
             ],
