@@ -20144,6 +20144,18 @@
             "emails": ["lucioseki@gmail.com", "luciomitsuru.seki@fit-tecnologia.org.br"]
         },
         {
+            "launchpad_id": "lsmman",
+            "zanata_id": "lsmman07",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Seunghyun Lim",
+            "emails": ["lsmman07@gmail.com"]
+        },
+        {
             "launchpad_id": "lsofia-enriquez",
             "companies": [
                 {
