@@ -14688,6 +14688,18 @@
             "emails": ["jaegerandi@gmail.com", "aj@suse.de", "aj@suse.come"]
         },
         {
+            "launchpad_id": "jaeyonglee",
+            "zanata_id": "JAE YONG LEE",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "jaeyong Lee",
+            "emails": ["jaeljy135@gmail.com","jae_young_97@khu.ac.kr"]
+        },
+        {
             "launchpad_id": "jaimegildesagredo",
             "companies": [
                 {
