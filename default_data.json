@@ -5236,6 +5236,10 @@
             "companies": [
                 {
                     "company_name": "StackHPC",
+                    "end_date": "2021-Sep-02"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
