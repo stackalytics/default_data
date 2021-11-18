@@ -16598,6 +16598,17 @@
             "emails": ["jordan.dao@verizonwireless.com"]
         },
         {
+            "launchpad_id": "jorge-merlino",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jorge Merlino",
+            "emails": ["jorge.merlino@canonical.com", "jorge.merlino@gmail.com"]
+        },
+        {
             "github_id": "JorgeFrancoIbanez",
             "launchpad_id": "jorgefrancoibanez",
             "companies": [
