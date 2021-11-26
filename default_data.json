@@ -44133,6 +44133,16 @@
             "uri": "git://github.com/kubernetes/kubernetes.git"
         },
         {
+            "module": "karmada",
+            "organization": "karmada-io",
+            "uri": "https://github.com/karmada-io/karmada.git"
+        },
+        {
+            "module": "kubeedge",
+            "organization": "kubeedge",
+            "uri": "https://github.com/kubeedge/kubeedge.git"
+        },
+        {
             "module": "releng",
             "organization": "opnfv",
             "uri": "git://git.opnfv.org/releng.git"
@@ -45699,7 +45709,8 @@
             "title": "CNCF",
             "modules": [
                 "kubernetes", "prometheus", "fluentd", "grpc", "rkt", "vitess", "coredns", "linkerd", "helm", "cni",
-                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly", "containerd", "linkerd2", "longhorn"
+                "envoy", "jaeger", "notary", "tuf", "kubernetes-installers", "dragonfly", "containerd", "linkerd2", 
+                "longhorn", "karmada", "kubeedge"
             ]
         },
         {
