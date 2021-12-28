@@ -20114,11 +20114,15 @@
             "companies": [
                 {
                     "company_name": "DaoCloud",
+                    "end_date": "2019-Nov-15"
+                },
+                {
+                    "company_name": "*independent",
                     "end_date": null
                 }
             ],
             "user_name": "renxiang.li",
-            "emails": ["lrx0014@hotmail.com", "renxiang.li@daocloud.io"]
+            "emails": ["lrx0014@hotmail.com"]
         },
         {
             "launchpad_id": "lseki",
