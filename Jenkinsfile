@@ -1,5 +1,6 @@
 node {
     stage('build'){
+        checkout scm
         echo "building"
         sh "env | sort"
     }
