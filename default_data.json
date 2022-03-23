@@ -3590,16 +3590,16 @@
             "launchpad_id": "aqsamm",
             "companies": [
                 {
-                    "company_name": "NUST",
-                    "end_date": "2016-Aug-31"
+                    "company_name": "SUSE",
+                    "end_date": "2021-Nov-30"
                 },
                 {
-                    "company_name": "NEC",
+                    "company_name": "Canonical",
                     "end_date": null
                 }
             ],
             "user_name": "Aqsa Malik",
-            "emails": ["aqsamm@gmail.com", "aqsa.malik@neclab.eu"]
+            "emails": ["aqsamm@gmail.com", "aqsa.malik@canonical.com"]
         },
         {
             "launchpad_id": "aradhana1-singh",
