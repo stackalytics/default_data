@@ -39565,7 +39565,7 @@
             "company_name": "NetApp"
         },
         {
-            "domains": ["netease.com"],
+            "domains": ["netease.com", "corp.netease.com"],
             "company_name": "NetEase"
         },
         {
