@@ -40370,6 +40370,11 @@
             "company_name": "China UnionPay"
         },
         {
+            "domains": ["uniontech.com"],
+            "company_name": "UnionTech Software Technology Co., Ltd.",
+            "aliases": ["统信软件技术有限公司"]
+        },
+        {
             "domains": ["upv.es"],
             "company_name": "UPV"
         },
