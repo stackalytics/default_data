@@ -29894,6 +29894,21 @@
             "emails": ["skaplons@redhat.com", "slawomir.kaplonski@ovh.net", "slawek@kaplonski.pl"]
         },
         {
+            "launchpad_id": "minsel",
+            "companies": [
+                {
+                    "company_name": "Verizon Media",
+                    "end_date": "2021-Nov-28"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Miguel Lavalle",
+            "emails": ["mlavalle@redhat.com", "miguel.lavalle@verizonmedia.com", "miguel@mlavalle.com"]
+        },
+        {
             "launchpad_id": "sleepsonthefloor",
             "companies": [
                 {
