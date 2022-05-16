@@ -38552,8 +38552,9 @@
             "company_name": "Citrix"
         },
         {
-            "domains": ["citynetwork.se", "citynetwork.eu", "citycloud.com"],
-            "company_name": "City Network"
+            "domains": ["cleura.com", "cleura.cloud", "citynetwork.se", "citynetwork.eu", "citycloud.com"],
+            "company_name": "Cleura",
+            "aliases": ["City Network"]
         },
         {
             "domains": ["clear-code.com"],
