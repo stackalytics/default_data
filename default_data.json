@@ -23262,6 +23262,18 @@
             "emails": ["navist2020@163.com", "lijun@beyondcent.com"]
         },
         {
+            "launchpad_id": "yongliang",
+            "github_id": "wongearl",
+            "companies": [
+                {
+                    "company_name": "BoCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "wongearl",
+            "emails": ["vamliang@163.com", "wangyongliang@beyondcent.com"]
+        },
+        {
             "launchpad_id": "nbeard",
             "companies": [
                 {
