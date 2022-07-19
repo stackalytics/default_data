@@ -33652,13 +33652,17 @@
                 },
                 {
                     "company_name": "SUSE",
-                    "end_date": null
+                    "end_date": "2019-Oct-01"
+                },
+                {
+                    "company_name": "SAP",
+                    "end_data": null
                 }
             ],
             "user_name": "Walter A. Boring IV",
             "emails": [
                 "waboring@hemna.com", "walter.a.boring@ibm.com", "walter.boring@hp.com", "walter.boring@hpe.com",
-                "wboring@suse.com"
+                "wboring@suse.com", "walter.boring.iv@sap.com"
             ]
         },
         {
