@@ -26458,6 +26458,21 @@
             "emails": ["rellerreller@yahoo.com", "nathan.reller@jhuapl.edu", "nathan.s.reller@gmail.com"]
         },
         {
+            "launchpad_id": "rene-ribaud",
+            "companies": [
+                {
+                    "company_name": "HPE",
+                    "end_date": "2019-Nov-22"
+                },
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "uggla",
+            "emails": ["rene.ribaud@gmail.com", "rribaud@redhat.com"]
+        },
+        {
             "github_id": "renhwztetecs",
             "companies": [
                 {
