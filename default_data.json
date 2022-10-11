@@ -4508,6 +4508,20 @@
             ]
         },
         {
+            "launchpad_id": "tibeer",
+            "github_id": "tibeer",
+            "companies": [
+                {
+                    "company_name": "OSISM GmbH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Tim Beermann",
+            "emails": [
+                "beermann@osism.tech"
+            ]
+        },
+        {
             "launchpad_id": "bertiefulton",
             "companies": [
                 {
