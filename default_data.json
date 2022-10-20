@@ -31493,6 +31493,17 @@
             "emails": ["lizhen@outlook.jp", "lizhen@tenxcloud.com"]
         },
         {
+            "launchpad_id": "terice",
+            "companies": [
+                {
+                    "company_name": "Australian Research Data Commons",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Timothy Rice",
+            "emails": ["tim.rice@ardc.edu.au"]
+        },
+        {
             "launchpad_id": "tellesmvn",
             "companies": [
                 {
