@@ -17,7 +17,6 @@ import functools
 import json
 
 import jsonschema
-import six
 import testtools
 
 DEFAULT_DATA_JSON_PATH = 'default_data.json'
@@ -50,10 +49,7 @@ def dict_raise_on_duplicates(ordered_pairs):
 class TestConfigFiles(testtools.TestCase):
 
     def _read_raw_file(self, file_name):
-        if six.PY3:
-            opener = functools.partial(open, encoding='utf8')
-        else:
-            opener = open
+        opener = functools.partial(open, encoding='utf8')
         with opener(file_name, 'r') as content_file:
             return content_file.read()
 
