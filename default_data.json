@@ -14688,6 +14688,17 @@
             "emails": ["jaegerandi@gmail.com", "aj@suse.de", "aj@suse.come"]
         },
         {
+            "launchpad_id": "jaharon",
+            "companies": [
+                {
+                    "company_name": "Australian Research Data Commons",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jacob Aharon",
+            "emails": ["jacob.aharon@unimelb.edu.au", "jacob.aharon@ardc.edu.au"]
+        },
+        {
             "launchpad_id": "jaimegildesagredo",
             "companies": [
                 {
