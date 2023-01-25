@@ -12189,13 +12189,18 @@
                 },
                 {
                     "company_name": "Microsoft",
+                    "end_date": "2022-Jan-24"
+                },
+                {
+                    "company_name": "Udemy",
                     "end_date": null
                 }
             ],
             "user_name": "Graham Hayes",
             "emails": [
                 "graham@hayes.ie", "graham.hayes@hp.com", "graham@managedit.ie", "graham.hayes@hpe.com",
-                "graham.hayes@suse.com", "ghayes@suse.com", "gr@ham.ie", "graham.hayes@microsoft.com"
+                "graham.hayes@suse.com", "ghayes@suse.com", "gr@ham.ie", "graham.hayes@microsoft.com",
+                "graham.hayes@udemy.com"
             ]
         },
         {
@@ -40323,6 +40328,10 @@
                 "University of California Riverside", "UC Riverside",
                 "UCR"
             ]
+        },
+        {
+            "domains": ["udemy.com"],
+            "company_name": "Udemy"
         },
         {
             "domains": ["ufscar.br"],
