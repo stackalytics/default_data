@@ -16075,6 +16075,10 @@
                 },
                 {
                     "company_name": "Ericsson",
+                    "end_date": "2023-May-29"
+                },
+                {
+                    "company_name": "Wind River",
                     "end_date": null
                 }
             ],
@@ -16082,7 +16086,7 @@
             "emails": [
                 "aj355y@att.com", "abhishek.kumar.jaiswal@ericsson.com",
                 "reach.abhishekj@gmail.com", "abhishekjaiswal.kol@gmail.com",
-                "abhishek.jaiswal@imaginea.com"
+                "abhishek.jaiswal@imaginea.com", "abhishek.jaiswal@windriver.com"
             ]
         },
         {
