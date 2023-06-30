@@ -38838,6 +38838,10 @@
             "company_name": "Embrane"
         },
         {
+            "domains": ["encora.com"],
+            "company_name": "Encora Inc."
+        },
+        {
             "domains": ["endocode.com"],
             "company_name": "Endocode AG"
         },
