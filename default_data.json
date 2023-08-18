@@ -38064,6 +38064,21 @@
             ],
             "user_name": "renhao",
             "emails": ["renhao@beyondcent.com", "rh1457509849@163.com"]
+        },
+        {
+            "launchpad_id": "dangbd2705",
+            "companies": [
+                {
+                    "company_name": "*independent",
+                    "end_date": "2022-Jul-10"
+                },
+                {
+                    "company_name": "Viettel",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Dang Bui Doan",
+            "emails": ["dangbd2@viettel.com.vn", "doandang27052000@gmail.com"]
         }
     ],
     "companies": [
