@@ -38064,6 +38064,17 @@
             ],
             "user_name": "renhao",
             "emails": ["renhao@beyondcent.com", "rh1457509849@163.com"]
+        },
+        {
+            "launchpad_id": "johnnyjj",
+            "companies": [
+                {
+                    "company_name": "Red Hat",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Jan Jasek",
+            "emails": ["jjasek@redhat.com", "jasekjan96@gmail.com"]
         }
     ],
     "companies": [
