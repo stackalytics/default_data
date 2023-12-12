@@ -28739,7 +28739,15 @@
                     "end_date": "2020-Oct-20"
                 },
                 {
-                    "company_name": "*independent",
+                    "company_name": "VMware",
+                    "end_date": "2022-Jul-15"
+                },
+                {
+                    "company_name": "AWS",
+                    "end_date": "2023-Nov-24"
+                },
+                {
+                    "company_name": "Lambda Labs",
                     "end_date": null
                 }
             ],
@@ -28750,7 +28758,10 @@
                 "sean.mcginnis@gmail.com",
                 "sean.mcginnis@gmx.com",
                 "sean.mcginnis@huawei.com",
-                "sean.mcginnis@futurewei.com"
+                "sean.mcginnis@futurewei.com",
+                "sean.mcginnis@vmware.com",
+                "stmcg@amazon.com",
+                "sean@lambdal.com"
             ]
         },
         {
