@@ -6715,11 +6715,17 @@
                 },
                 {
                     "company_name": "GARR",
+                    "end_date": "2023-Oct-14"
+                },
+                {
+                    "company_name": "ECMWF",
                     "end_date": null
                 }
             ],
             "user_name": "Claudio Pisa",
-            "emails": ["claudio.pisa@garr.it"]
+            "emails": [
+                "c.pisa@unidata.it", "claudio.pisa@garr.it", "claudio.pisa@ecmwf.int"
+            ]
         },
         {
             "launchpad_id": "clay-gerrard",
