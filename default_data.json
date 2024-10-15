@@ -29066,11 +29066,15 @@
             "companies": [
                 {
                     "company_name": "Red Hat",
+                    "end_date": "2020-Oct-20"
+                },
+                {
+                    "company_name": "Workday",
                     "end_date": null
                 }
             ],
             "user_name": "Shatadru Bandyopadhyay",
-            "emails": ["sbandyop@redhat.com", "shatadru1@gmail.com"]
+            "emails": ["sbandyop@redhat.com", "shatadru1@gmail.com", "shatadru.bandyopadhy@workday.com", "shatadru01@gmail.com"]
         },
         {
             "launchpad_id": "shaun-edwards",
