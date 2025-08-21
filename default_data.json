@@ -7172,6 +7172,17 @@
             "user_name": "Craig Bryant",
             "emails": ["craig.bryant@hp.com", "craig.bryant@hpe.com"]
         },
+	{
+	    "launchpad_id": "craig-rylance",
+	    "companies": [
+    		{
+      		    "company_name": "Canonical",
+      		    "end_date": null
+    		}
+  	    ],
+  	    "user_name": "Craig Rylance",
+  	    "emails": ["craig.rylance@canonical.com"]
+	},
         {
             "launchpad_id": "craig-sterrett",
             "companies": [
