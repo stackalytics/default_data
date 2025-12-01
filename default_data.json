@@ -10433,11 +10433,18 @@
                 },
                 {
                     "company_name": "E4 Computer Engineering",
+                    "end_date": "2021-Dec-15"
+                },
+                {
+                    "company_name": "HPE",
                     "end_date": null
                 }
             ],
             "user_name": "Ettore Simone",
-            "emails": ["ettore.simone@gmail.com", "ettore.simone@alchemy.solutions", "ettore.simone@e4company.com"]
+            "emails": [
+                "ettore.simone@gmail.com", "ettore.simone@alchemy.solutions", "ettore.simone@e4company.com",
+                "ettore.simone@hpe.com"
+            ]
         },
         {
             "launchpad_id": "estherk",
