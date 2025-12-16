@@ -12023,6 +12023,17 @@
             "emails": ["godp1301@gmail.com", "pgodin@iweb.com", "pgodin@internap.com"]
         },
         {
+            "launchpad_id": "goldberl",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+             ],
+                    "user_name": "Leah Goldberg",
+                    "emails": ["leah.goldberg@canonical.com"]
+             },
+        {
             "launchpad_id": "goldyfruit",
             "companies": [
                 {
