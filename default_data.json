@@ -11042,6 +11042,17 @@
             "emails": ["forhim.park@gmail.com", "jhan12.park@samsung.com"]
         },
         {
+            "launchpad_id": "fprzewozn",
+            "companies": [
+                {
+                    "company_name": "Opera Software",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Franciszek Przewozny",
+            "emails": ["przewozny.franciszek@gmail.com", "fprzewozny@opera.com"]
+        },
+        {
             "launchpad_id": "fpxie",
             "companies": [
                 {
@@ -39699,6 +39710,10 @@
         {
             "domains": ["opennext.io"],
             "company_name": "OpenNext"
+        },
+        {
+            "domains": ["opera.com"],
+            "company_name": "Opera Software"
         },
         {
             "domains": ["optiflows.com"],
