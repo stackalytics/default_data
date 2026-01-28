@@ -3676,6 +3676,21 @@
             "emails": ["arifali1@gmail.com", "mail@arif-ali.co.uk", "aali@ocf.co.uk", "arif.ali@canonical.com"]
         },
         {
+            "launchpad_id": "henry-zhan",
+            "companies": [
+                {
+                    "company_name": "Microsoft",
+                    "end_date": "2025-July-30"
+                },
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Henry Zhan",
+            "emails": ["he.zhan@gmail.com", "henry.zhan@canonical.com"]
+        },
+        {
             "launchpad_id": "arkady-kanevsky",
             "companies": [
                 {
