@@ -14082,6 +14082,17 @@
             "emails": ["igor_bolotin@symantec.com", "ibolotin@gmail.com"]
         },
         {
+            "launchpad_id": "ioanalazea",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Ioana Lazea",
+            "emails": ["ioana.lazea@canonical.com"]
+        },
+        {
             "launchpad_id": "ichihara-hirofumi",
             "companies": [
                 {
