@@ -38064,6 +38064,17 @@
             ],
             "user_name": "renhao",
             "emails": ["renhao@beyondcent.com", "rh1457509849@163.com"]
+        },
+        {
+            "launchpad_id": "quanchobi",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "quanchobi",
+            "emails": ["jacob.hanks@canonical.com", "hanksj6@gmail.com"]
         }
     ],
     "companies": [
