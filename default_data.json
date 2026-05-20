@@ -36187,6 +36187,17 @@
             "emails": ["baoyaping211@163.com", "ypbao@fiberhome.com"]
         },
         {
+            "launchpad_id": "ypbettles",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Yasmin Bettles",
+            "emails": ["yas.bettles@canonical.com", "ypbettles@gmail.com"]
+        },
+        {
             "launchpad_id": "ypnuaa037",
             "companies": [
                 {
