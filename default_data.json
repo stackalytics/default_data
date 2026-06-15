@@ -9919,6 +9919,17 @@
             "emails": ["edward.hope-morley@canonical.com", "opentastic@gmail.com"]
         },
         {
+            "launchpad_id": "dokurb",
+            "companies": [
+                {
+                    "company_name": "Canonical",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Bhavya Dokuru",
+            "emails": ["bhavya.dokuru@canonical.com"]
+        },
+        {
             "launchpad_id": "edwardbadboy",
             "companies": [
                 {
@@ -9956,7 +9967,7 @@
             "emails": ["egafford@redhat.com"]
         },
         {
-            "launchpad_id": "egallen",
+            "launchpad_id": "egallen"
             "companies": [
                 {
                     "company_name": "Cloudwatt",
