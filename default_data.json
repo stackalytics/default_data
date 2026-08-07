@@ -38876,6 +38876,9 @@
             "aliases": ["ETHZ", "Swiss Federal Institute of Technology in Zurich"]
         },
         {
+            "domains": ["everpuredata.com"],
+            "company_name": "Everpure Inc."
+        },        {
             "domains": ["evoila.de"],
             "company_name": "evoila"
         },
